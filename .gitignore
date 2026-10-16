@@ -11,6 +11,10 @@ __pycache__/
 /inference_results/
 /output/
 /log/
+/train_data/
+/train_data/rec/
+/train_data/rec/test/
+/train_data/rec/train/
 
 *.DS_Store
 *.vs
@@ -37,3 +41,6 @@ test_tipc/web/node_modules/
 
 .venv/
 .worktrees/
+.env
+.env.local
+.env.*.local
