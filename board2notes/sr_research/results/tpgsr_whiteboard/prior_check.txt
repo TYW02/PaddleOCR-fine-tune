@@ -1,0 +1,21 @@
+CRNN (text prior source) reading our word crops. Word CER, lower = better; exact = whole word right.
+Only lines whose label has one token per word box are used (word count = boxes).
+
+=== Airdrop B3 (unseen board): 50 words from 20 of 23 lines ===
+LR word (what the prior sees):   CER 0.509 | exact 4%
+HR clear word (CRNN's ceiling):  CER 0.258 | exact 28%
+LR CER by size: < 16 px 0.463 (22 words) | >= 16 px 0.545 (28 words)
+worst LR readings: 'via'->'he', 'feature'->'invve', 'feature'->'htn', 'filter'->'mkr', 'architecture'->'aestghees'
+
+=== Airdrop synthetic, validation: 44 words from 16 of 40 lines ===
+LR word (what the prior sees):   CER 0.327 | exact 39%
+HR clear word (CRNN's ceiling):  CER 0.146 | exact 80%
+LR CER by size: < 16 px 0.452 (18 words) | >= 16 px 0.240 (26 words)
+worst LR readings: '1'->'i', 'vs'->'a', '1'->'i', 'vs'->'a', '1'->'i'
+
+=== 17 Oct held-out photos: 74 words from 18 of 40 lines ===
+LR word (what the prior sees):   CER 0.164 | exact 69%
+HR clear word (CRNN's ceiling):  CER 0.202 | exact 62%
+worst LR readings: 'using'->'parame', 'model'->'using', 'a'->'p9', '1'->'l', 'a'->'c'
+
+B3 verdict: LR CER 0.509 -> the prior is mostly NOISE: the prior often names the wrong letters; expect TPGSR to draw wrong letters clearly. Consider a lower prior influence or fine-tuning the CRNN on our word crops first.

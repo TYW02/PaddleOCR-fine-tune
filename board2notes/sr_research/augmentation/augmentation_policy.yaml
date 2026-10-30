@@ -1,0 +1,65 @@
+name: iam_whiteboard_recognition_v1
+description: >-
+  Conservative, training-only augmentation for adapting clean IAM line crops
+  to photographed whiteboard conditions. Geometry, lighting, and degradation
+  are sampled independently, with at most one transform from each group.
+seed: 3001
+
+rules:
+  apply_to: train_only
+  preserve_transcription: true
+  never_apply:
+    - horizontal_flip
+    - vertical_flip
+    - large_rotation
+    - cutout_over_text
+    - mixup
+    - cutmix
+
+groups:
+  geometry:
+    probability: 0.35
+    transforms:
+      perspective:
+        weight: 0.45
+        max_x_fraction: 0.025
+        max_y_fraction: 0.08
+      rotation:
+        weight: 0.35
+        max_degrees: 3.0
+        max_height_growth_fraction: 0.18
+      add_margin:
+        weight: 0.20
+        max_x_fraction: 0.025
+        max_y_fraction: 0.08
+
+  lighting:
+    probability: 0.45
+    transforms:
+      brightness_contrast:
+        weight: 0.65
+        brightness_range: [0.82, 1.18]
+        contrast_range: [0.78, 1.22]
+      uneven_illumination:
+        weight: 0.35
+        min_gain: 0.78
+        max_gain: 1.08
+
+  degradation:
+    probability: 0.40
+    transforms:
+      gaussian_blur:
+        weight: 0.20
+        sigma_range: [0.35, 0.90]
+      motion_blur:
+        weight: 0.10
+        kernel_choices: [3, 5]
+      resolution_reduction:
+        weight: 0.25
+        scale_range: [0.60, 0.90]
+      gaussian_noise:
+        weight: 0.25
+        sigma_range: [2.0, 6.0]
+      jpeg_compression:
+        weight: 0.20
+        quality_range: [55, 90]

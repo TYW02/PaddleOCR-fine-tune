@@ -1,0 +1,1321 @@
+photo,gt,method,box_h,read,cer,band
+television_01.png,television,none,95,Television,0.0,>=32
+television_01.png,television,bicubic+sharpen,95,Television,0.0,>=32
+television_01.png,television,espcn,95,Television,0.0,>=32
+television_01.png,television,espcn-iam,95,Television,0.0,>=32
+television_01.png,television,espcn-board,95,Television,0.0,>=32
+television_01.png,apple car,none,140,apple car,0.0,>=32
+television_01.png,apple car,bicubic+sharpen,140,apple car,0.0,>=32
+television_01.png,apple car,espcn,140,apple car,0.0,>=32
+television_01.png,apple car,espcn-iam,140,apple car,0.0,>=32
+television_01.png,apple car,espcn-board,140,apple car,0.0,>=32
+television_02.png,television,none,102,Television,0.0,>=32
+television_02.png,television,bicubic+sharpen,102,Television,0.0,>=32
+television_02.png,television,espcn,102,Television,0.0,>=32
+television_02.png,television,espcn-iam,102,Television,0.0,>=32
+television_02.png,television,espcn-board,102,Television,0.0,>=32
+television_02.png,apple car,none,147,apple coar,0.1111111111111111,>=32
+television_02.png,apple car,bicubic+sharpen,147,apple coar,0.1111111111111111,>=32
+television_02.png,apple car,espcn,147,apple coar,0.1111111111111111,>=32
+television_02.png,apple car,espcn-iam,147,apple coar,0.1111111111111111,>=32
+television_02.png,apple car,espcn-board,147,apple coar,0.1111111111111111,>=32
+television_11.png,television,none,85,television,0.0,>=32
+television_11.png,television,bicubic+sharpen,85,television,0.0,>=32
+television_11.png,television,espcn,85,television,0.0,>=32
+television_11.png,television,espcn-iam,85,television,0.0,>=32
+television_11.png,television,espcn-board,85,television,0.0,>=32
+television_11.png,apple car,none,73,apple car,0.0,>=32
+television_11.png,apple car,bicubic+sharpen,73,apple car,0.0,>=32
+television_11.png,apple car,espcn,73,apple car,0.0,>=32
+television_11.png,apple car,espcn-iam,73,apple car,0.0,>=32
+television_11.png,apple car,espcn-board,73,apple car,0.0,>=32
+television_12.png,television,none,85,television,0.0,>=32
+television_12.png,television,bicubic+sharpen,85,television,0.0,>=32
+television_12.png,television,espcn,85,television,0.0,>=32
+television_12.png,television,espcn-iam,85,television,0.0,>=32
+television_12.png,television,espcn-board,85,television,0.0,>=32
+television_12.png,apple car,none,73,apple car,0.0,>=32
+television_12.png,apple car,bicubic+sharpen,73,apple car,0.0,>=32
+television_12.png,apple car,espcn,73,apple car,0.0,>=32
+television_12.png,apple car,espcn-iam,73,apple car,0.0,>=32
+television_12.png,apple car,espcn-board,73,apple car,0.0,>=32
+television_13.png,television,none,54,television,0.0,>=32
+television_13.png,television,bicubic+sharpen,54,television,0.0,>=32
+television_13.png,television,espcn,54,television,0.0,>=32
+television_13.png,television,espcn-iam,54,television,0.0,>=32
+television_13.png,television,espcn-board,54,television,0.0,>=32
+television_13.png,apple car,none,50,apple car,0.0,>=32
+television_13.png,apple car,bicubic+sharpen,50,apple car,0.0,>=32
+television_13.png,apple car,espcn,50,apple car,0.0,>=32
+television_13.png,apple car,espcn-iam,50,apple car,0.0,>=32
+television_13.png,apple car,espcn-board,50,apple car,0.0,>=32
+cnn_01.png,CNN Architecture,none,35,CMN Axchitecture,0.125,>=32
+cnn_01.png,CNN Architecture,bicubic+sharpen,35,CMN Architecture,0.0625,>=32
+cnn_01.png,CNN Architecture,espcn,35,CMN Axchitecture,0.125,>=32
+cnn_01.png,CNN Architecture,espcn-iam,35,CMN Axchitecture,0.125,>=32
+cnn_01.png,CNN Architecture,espcn-board,35,CMN Axchitecture,0.125,>=32
+cnn_01.png,"LeNet, Alexnet, Resnet",none,28,"levet, Akxneat, Resnat",0.22727272727272727,24-32
+cnn_01.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,28,"levet, Akxnect, Resnet",0.18181818181818182,24-32
+cnn_01.png,"LeNet, Alexnet, Resnet",espcn,28,"Levet, Akxnect, Resnet",0.18181818181818182,24-32
+cnn_01.png,"LeNet, Alexnet, Resnet",espcn-iam,28,"Levet, Akxrat, Reenat",0.3181818181818182,24-32
+cnn_01.png,"LeNet, Alexnet, Resnet",espcn-board,28,"Levet, Akxnat, Resnat",0.22727272727272727,24-32
+cnn_01.png,"Dropout, Batch Normalization",none,24,"Dropout, Bath Normaliation",0.07142857142857142,24-32
+cnn_01.png,"Dropout, Batch Normalization",bicubic+sharpen,24,"Dropout, Bath Normlination",0.10714285714285714,24-32
+cnn_01.png,"Dropout, Batch Normalization",espcn,24,"Dropout, Beth Normlnation",0.17857142857142858,24-32
+cnn_01.png,"Dropout, Batch Normalization",espcn-iam,24,"Dropaut, Bath Normlination",0.14285714285714285,24-32
+cnn_01.png,"Dropout, Batch Normalization",espcn-board,24,"Dropout, Bath Normalioation",0.07142857142857142,24-32
+cnn_01.png,Visualising CNN,none,32,Visualising CruN,0.13333333333333333,>=32
+cnn_01.png,Visualising CNN,bicubic+sharpen,32,Visualising cruw,0.2,>=32
+cnn_01.png,Visualising CNN,espcn,32,Visualising CruN,0.13333333333333333,>=32
+cnn_01.png,Visualising CNN,espcn-iam,32,Visualising Cur,0.13333333333333333,>=32
+cnn_01.png,Visualising CNN,espcn-board,32,Visualising CUN,0.06666666666666667,>=32
+cnn_01.png,Visualise filter & output,none,29,Visvalise filter  outpat,0.12,24-32
+cnn_01.png,Visualise filter & output,bicubic+sharpen,29,Visvalise filer  outpat,0.16,24-32
+cnn_01.png,Visualise filter & output,espcn,29,Visvalize filer outpt,0.24,24-32
+cnn_01.png,Visualise filter & output,espcn-iam,29,Visualie filter & outpt,0.08,24-32
+cnn_01.png,Visualise filter & output,espcn-board,29,Visvalise filier outpat,0.2,24-32
+cnn_01.png,Visualise feature layer,none,32,Visalice foature layer,0.13043478260869565,>=32
+cnn_01.png,Visualise feature layer,bicubic+sharpen,32,Visalice foature layer,0.13043478260869565,>=32
+cnn_01.png,Visualise feature layer,espcn,32,Visalice foature layer,0.13043478260869565,>=32
+cnn_01.png,Visualise feature layer,espcn-iam,32,Visalire trature layer,0.17391304347826086,>=32
+cnn_01.png,Visualise feature layer,espcn-board,32,Visalire foature layer,0.13043478260869565,>=32
+cnn_01.png,Saliency via occlusion,none,28,Salancy via occusion,0.13636363636363635,24-32
+cnn_01.png,Saliency via occlusion,bicubic+sharpen,28,Soleancy nia occusion,0.22727272727272727,24-32
+cnn_01.png,Saliency via occlusion,espcn,28,Salancy nia oclusion,0.18181818181818182,24-32
+cnn_01.png,Saliency via occlusion,espcn-iam,28,Salency nia ocdusion,0.18181818181818182,24-32
+cnn_01.png,Saliency via occlusion,espcn-board,28,Soliancy nia oclusion,0.18181818181818182,24-32
+cnn_02.png,CNN Architecture,none,44,CNN Architecture,0.0,>=32
+cnn_02.png,CNN Architecture,bicubic+sharpen,44,CNN Architecture,0.0,>=32
+cnn_02.png,CNN Architecture,espcn,44,CNN Architecture,0.0,>=32
+cnn_02.png,CNN Architecture,espcn-iam,44,CNN Architecture,0.0,>=32
+cnn_02.png,CNN Architecture,espcn-board,44,CMN Architecture,0.0625,>=32
+cnn_02.png,"LeNet, Alexnet, Resnet",none,34,"Levet, Akxnet, Resret",0.18181818181818182,>=32
+cnn_02.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,34,"levet, Akxnet, Resnet",0.13636363636363635,>=32
+cnn_02.png,"LeNet, Alexnet, Resnet",espcn,34,"leNet, Akxnet, Resnet",0.09090909090909091,>=32
+cnn_02.png,"LeNet, Alexnet, Resnet",espcn-iam,34,"Levet, Akxnet, Resnet",0.13636363636363635,>=32
+cnn_02.png,"LeNet, Alexnet, Resnet",espcn-board,34,"Levet, Akxnet, Resnet",0.13636363636363635,>=32
+cnn_02.png,"Dropout, Batch Normalization",none,31,"Dropout, Bath Normalietion",0.10714285714285714,24-32
+cnn_02.png,"Dropout, Batch Normalization",bicubic+sharpen,31,"Dropout,Bath Normaliestion",0.14285714285714285,24-32
+cnn_02.png,"Dropout, Batch Normalization",espcn,31,"Dropout, Batch Normaliestion",0.07142857142857142,24-32
+cnn_02.png,"Dropout, Batch Normalization",espcn-iam,31,"Dropout, Batch Normlieation",0.07142857142857142,24-32
+cnn_02.png,"Dropout, Batch Normalization",espcn-board,31,"Dropout, Batch Normalieation",0.03571428571428571,24-32
+cnn_02.png,Visualising CNN,none,41,Visualising ChN,0.06666666666666667,>=32
+cnn_02.png,Visualising CNN,bicubic+sharpen,41,Visualising CnN,0.0,>=32
+cnn_02.png,Visualising CNN,espcn,41,Visualising chN,0.06666666666666667,>=32
+cnn_02.png,Visualising CNN,espcn-iam,41,Visualising ch,0.13333333333333333,>=32
+cnn_02.png,Visualising CNN,espcn-board,41,Visualising cuN,0.06666666666666667,>=32
+cnn_02.png,Visualise filter & output,none,37,Visualise filter outpat,0.12,>=32
+cnn_02.png,Visualise filter & output,bicubic+sharpen,37,Visvalise filter outpat,0.16,>=32
+cnn_02.png,Visualise filter & output,espcn,37,Visvalise filter outpat,0.16,>=32
+cnn_02.png,Visualise filter & output,espcn-iam,37,Visualise filter  outpat,0.08,>=32
+cnn_02.png,Visualise filter & output,espcn-board,37,Visvalise filter outpat,0.16,>=32
+cnn_02.png,Visualise feature layer,none,39,Visualise feature layer,0.0,>=32
+cnn_02.png,Visualise feature layer,bicubic+sharpen,39,Visualise feature layer,0.0,>=32
+cnn_02.png,Visualise feature layer,espcn,39,Visualise feature layer,0.0,>=32
+cnn_02.png,Visualise feature layer,espcn-iam,39,Visualise feature layer,0.0,>=32
+cnn_02.png,Visualise feature layer,espcn-board,39,Visualise feature layer,0.0,>=32
+cnn_02.png,Saliency via occlusion,none,35,Saliency via occlusion,0.0,>=32
+cnn_02.png,Saliency via occlusion,bicubic+sharpen,35,Saliency via occlusion,0.0,>=32
+cnn_02.png,Saliency via occlusion,espcn,35,Saliency via occlusion,0.0,>=32
+cnn_02.png,Saliency via occlusion,espcn-iam,35,Saliency via occusion,0.045454545454545456,>=32
+cnn_02.png,Saliency via occlusion,espcn-board,35,Saliency via occlusion,0.0,>=32
+cnn_03.png,CNN Architecture,none,45,CNN Achitecture,0.0625,>=32
+cnn_03.png,CNN Architecture,bicubic+sharpen,45,CNN Achitecture,0.0625,>=32
+cnn_03.png,CNN Architecture,espcn,45,CNN Achitecture,0.0625,>=32
+cnn_03.png,CNN Architecture,espcn-iam,45,CMN Achitecture,0.125,>=32
+cnn_03.png,CNN Architecture,espcn-board,45,CNN Achitecture,0.0625,>=32
+cnn_03.png,"LeNet, Alexnet, Resnet",none,34,"LeNet, Akxnet, Resret",0.13636363636363635,>=32
+cnn_03.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,34,"Levet, Akxnet, Resret",0.18181818181818182,>=32
+cnn_03.png,"LeNet, Alexnet, Resnet",espcn,34,"LeNet, Akxnet, Resret",0.13636363636363635,>=32
+cnn_03.png,"LeNet, Alexnet, Resnet",espcn-iam,34,"Levet, Akxnet, Resrat",0.22727272727272727,>=32
+cnn_03.png,"LeNet, Alexnet, Resnet",espcn-board,34,"LeNet, Alkxnet, Resret",0.09090909090909091,>=32
+cnn_03.png,"Dropout, Batch Normalization",none,29,"Dropout, Batch Normalieation",0.03571428571428571,24-32
+cnn_03.png,"Dropout, Batch Normalization",bicubic+sharpen,29,"Dropout, Batch Normalieation",0.03571428571428571,24-32
+cnn_03.png,"Dropout, Batch Normalization",espcn,29,"Dropout, Batch Normalieation",0.03571428571428571,24-32
+cnn_03.png,"Dropout, Batch Normalization",espcn-iam,29,"Dropout, Batch Normalieation",0.03571428571428571,24-32
+cnn_03.png,"Dropout, Batch Normalization",espcn-board,29,"Dropout, Batch Normalixation",0.03571428571428571,24-32
+cnn_03.png,Visualising CNN,none,41,Visualising CNN,0.0,>=32
+cnn_03.png,Visualising CNN,bicubic+sharpen,41,Visualising CHN,0.06666666666666667,>=32
+cnn_03.png,Visualising CNN,espcn,41,Visualising CUN,0.06666666666666667,>=32
+cnn_03.png,Visualising CNN,espcn-iam,41,Visualising CHN,0.06666666666666667,>=32
+cnn_03.png,Visualising CNN,espcn-board,41,Visualising CHN,0.06666666666666667,>=32
+cnn_03.png,Visualise filter & output,none,38,Visualise fiter outpat,0.16,>=32
+cnn_03.png,Visualise filter & output,bicubic+sharpen,38,Visualise filter outpat,0.12,>=32
+cnn_03.png,Visualise filter & output,espcn,38,Visualise filter outpat,0.12,>=32
+cnn_03.png,Visualise filter & output,espcn-iam,38,Visualise filter outpat,0.12,>=32
+cnn_03.png,Visualise filter & output,espcn-board,38,Visualise filter outpat,0.12,>=32
+cnn_03.png,Visualise feature layer,none,39,Visalise teature layer,0.08695652173913043,>=32
+cnn_03.png,Visualise feature layer,bicubic+sharpen,39,Visalise feature layer,0.043478260869565216,>=32
+cnn_03.png,Visualise feature layer,espcn,39,Visalise feature layer,0.043478260869565216,>=32
+cnn_03.png,Visualise feature layer,espcn-iam,39,Visualise feature layer,0.0,>=32
+cnn_03.png,Visualise feature layer,espcn-board,39,Visualise feature layer,0.0,>=32
+cnn_03.png,Saliency via occlusion,none,35,Salency via oacclusion,0.09090909090909091,>=32
+cnn_03.png,Saliency via occlusion,bicubic+sharpen,35,Salency via occlusion,0.045454545454545456,>=32
+cnn_03.png,Saliency via occlusion,espcn,35,Salency via occlusion,0.045454545454545456,>=32
+cnn_03.png,Saliency via occlusion,espcn-iam,35,Salency ria occlusion,0.09090909090909091,>=32
+cnn_03.png,Saliency via occlusion,espcn-board,35,Saliency via acclusion,0.045454545454545456,>=32
+cnn_04.png,CNN Architecture,none,44,CUW Adtie,0.6875,>=32
+cnn_04.png,CNN Architecture,bicubic+sharpen,44,CW Adtie,0.6875,>=32
+cnn_04.png,CNN Architecture,espcn,44,CW Adtie,0.6875,>=32
+cnn_04.png,CNN Architecture,espcn-iam,44,CUN Abtte,0.5625,>=32
+cnn_04.png,CNN Architecture,espcn-board,44,CUN Adte,0.625,>=32
+cnn_04.png,"LeNet, Alexnet, Resnet",none,38,"like. likost, flost",0.6363636363636364,>=32
+cnn_04.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,38,"like. lisost, fort",0.6363636363636364,>=32
+cnn_04.png,"LeNet, Alexnet, Resnet",espcn,38,"like likost, flost",0.6363636363636364,>=32
+cnn_04.png,"LeNet, Alexnet, Resnet",espcn-iam,38,Dape Et he,0.7272727272727273,>=32
+cnn_04.png,"LeNet, Alexnet, Resnet",espcn-board,38,CUN Adte,0.7727272727272727,>=32
+cnn_04.png,"Dropout, Batch Normalization",none,34,"Dager , Shesn deamionten",0.7142857142857143,>=32
+cnn_04.png,"Dropout, Batch Normalization",bicubic+sharpen,34,"Dager , Shesn Jeomiionten",0.7142857142857143,>=32
+cnn_04.png,"Dropout, Batch Normalization",espcn,34,Sohony on acteion,0.7142857142857143,>=32
+cnn_04.png,"Dropout, Batch Normalization",espcn-iam,34,Sheay on Luson,0.7857142857142857,>=32
+cnn_04.png,"Dropout, Batch Normalization",espcn-board,34,thresaike tatve lager,0.7857142857142857,>=32
+cnn_04.png,Visualising CNN,none,41,Damditing Cour,0.6666666666666666,>=32
+cnn_04.png,Visualising CNN,bicubic+sharpen,41,Danditing Coaur,0.7333333333333333,>=32
+cnn_04.png,Visualising CNN,espcn,41,Danditing cour,0.6666666666666666,>=32
+cnn_04.png,Visualising CNN,espcn-iam,41,ing Cue,0.6666666666666666,>=32
+cnn_04.png,Visualising CNN,espcn-board,41,Winadioing Cae,0.4666666666666667,>=32
+cnn_04.png,Visualise filter & output,none,43,tanke love logor,0.76,>=32
+cnn_04.png,Visualise filter & output,bicubic+sharpen,43,"like. lisost, fort",0.72,>=32
+cnn_04.png,Visualise filter & output,espcn,43,"like likost, flost",0.72,>=32
+cnn_04.png,Visualise filter & output,espcn-iam,43,taike boke lage,0.76,>=32
+cnn_04.png,Visualise filter & output,espcn-board,43,thresaike tatve lager,0.8,>=32
+cnn_04.png,Visualise feature layer,none,43,tanke love logor,0.6956521739130435,>=32
+cnn_04.png,Visualise feature layer,bicubic+sharpen,43,tanke boine liger,0.6521739130434783,>=32
+cnn_04.png,Visualise feature layer,espcn,43,tanke loke lnger,0.6521739130434783,>=32
+cnn_04.png,Visualise feature layer,espcn-iam,43,taike boke lage,0.6086956521739131,>=32
+cnn_04.png,Visualise feature layer,espcn-board,43,thresaike tatve lager,0.5217391304347826,>=32
+cnn_04.png,Saliency via occlusion,none,40,Spheany on acteron,0.6363636363636364,>=32
+cnn_04.png,Saliency via occlusion,bicubic+sharpen,40,Sheony on acteion,0.5909090909090909,>=32
+cnn_04.png,Saliency via occlusion,espcn,40,Sohony on acteion,0.5909090909090909,>=32
+cnn_04.png,Saliency via occlusion,espcn-iam,40,Sheay on Luson,0.5454545454545454,>=32
+cnn_04.png,Saliency via occlusion,espcn-board,40,Selimay ,0.8181818181818182,>=32
+cnn_05.png,CNN Architecture,none,46,CNN Architecture,0.0,>=32
+cnn_05.png,CNN Architecture,bicubic+sharpen,46,CNN Architecture,0.0,>=32
+cnn_05.png,CNN Architecture,espcn,46,CNN Architecture,0.0,>=32
+cnn_05.png,CNN Architecture,espcn-iam,46,CMN Architecture,0.0625,>=32
+cnn_05.png,CNN Architecture,espcn-board,46,CMN Achitecture,0.125,>=32
+cnn_05.png,"LeNet, Alexnet, Resnet",none,37,"Levet, Akxnet, Resnet",0.13636363636363635,>=32
+cnn_05.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,37,"Levet, Akxnet, Resnet",0.13636363636363635,>=32
+cnn_05.png,"LeNet, Alexnet, Resnet",espcn,37,"Levet, Akxnet, Resnet",0.13636363636363635,>=32
+cnn_05.png,"LeNet, Alexnet, Resnet",espcn-iam,37,"Levet, Akxnet, Resnet",0.13636363636363635,>=32
+cnn_05.png,"LeNet, Alexnet, Resnet",espcn-board,37,"Levet, Akxnet, Resnet",0.13636363636363635,>=32
+cnn_05.png,"Dropout, Batch Normalization",none,30,"Dropout, Batch Normalization",0.0,24-32
+cnn_05.png,"Dropout, Batch Normalization",bicubic+sharpen,30,"Dropout, Batch Normalization",0.0,24-32
+cnn_05.png,"Dropout, Batch Normalization",espcn,30,"Dropout , Batch Normalization",0.03571428571428571,24-32
+cnn_05.png,"Dropout, Batch Normalization",espcn-iam,30,"Dropout, Batch Normalization",0.0,24-32
+cnn_05.png,"Dropout, Batch Normalization",espcn-board,30,"Dropout, Batch Normalization",0.0,24-32
+cnn_05.png,Visualising CNN,none,44,Visualising CNN,0.0,>=32
+cnn_05.png,Visualising CNN,bicubic+sharpen,44,Visualising CUN,0.06666666666666667,>=32
+cnn_05.png,Visualising CNN,espcn,44,Visualising CUN,0.06666666666666667,>=32
+cnn_05.png,Visualising CNN,espcn-iam,44,Visualising CuN,0.06666666666666667,>=32
+cnn_05.png,Visualising CNN,espcn-board,44,Visualising CUN,0.06666666666666667,>=32
+cnn_05.png,Visualise filter & output,none,38,Visualise filter outpat,0.12,>=32
+cnn_05.png,Visualise filter & output,bicubic+sharpen,38,Visualise filter output,0.08,>=32
+cnn_05.png,Visualise filter & output,espcn,38,Visualise filter outpat,0.12,>=32
+cnn_05.png,Visualise filter & output,espcn-iam,38,Visualise filter output,0.08,>=32
+cnn_05.png,Visualise filter & output,espcn-board,38,Visualise filter outpat,0.12,>=32
+cnn_05.png,Visualise feature layer,none,39,Visualise feature layer,0.0,>=32
+cnn_05.png,Visualise feature layer,bicubic+sharpen,39,Visualise feature layer,0.0,>=32
+cnn_05.png,Visualise feature layer,espcn,39,Visualise feature layer,0.0,>=32
+cnn_05.png,Visualise feature layer,espcn-iam,39,Vismalise teature layer,0.08695652173913043,>=32
+cnn_05.png,Visualise feature layer,espcn-board,39,Visualise feature layer,0.0,>=32
+cnn_05.png,Saliency via occlusion,none,34,Solency via occlusion,0.09090909090909091,>=32
+cnn_05.png,Saliency via occlusion,bicubic+sharpen,34,Soliency via occlusion,0.045454545454545456,>=32
+cnn_05.png,Saliency via occlusion,espcn,34,Soliency via occlusion,0.045454545454545456,>=32
+cnn_05.png,Saliency via occlusion,espcn-iam,34,Salency via occusion,0.09090909090909091,>=32
+cnn_05.png,Saliency via occlusion,espcn-board,34,Saliency via occlusion,0.0,>=32
+cnn_06.png,CNN Architecture,none,53,CW Achtetre,0.375,>=32
+cnn_06.png,CNN Architecture,bicubic+sharpen,53,CW Achtedre,0.4375,>=32
+cnn_06.png,CNN Architecture,espcn,53,CW Achtethre,0.375,>=32
+cnn_06.png,CNN Architecture,espcn-iam,53,CW Achtetre,0.375,>=32
+cnn_06.png,CNN Architecture,espcn-board,53,CU Achietre,0.375,>=32
+cnn_06.png,"LeNet, Alexnet, Resnet",none,39,"love, Beart, Peanet",0.45454545454545453,>=32
+cnn_06.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,39,"love, Besaort, Peanat",0.5454545454545454,>=32
+cnn_06.png,"LeNet, Alexnet, Resnet",espcn,39,"lont, Beaut, Peanat",0.45454545454545453,>=32
+cnn_06.png,"LeNet, Alexnet, Resnet",espcn-iam,39,"tart, Haprt, Peanat",0.5909090909090909,>=32
+cnn_06.png,"LeNet, Alexnet, Resnet",espcn-board,39,CU Achietre,0.7272727272727273,>=32
+cnn_06.png,"Dropout, Batch Normalization",none,35,"Degit , Same smiontion",0.6071428571428571,>=32
+cnn_06.png,"Dropout, Batch Normalization",bicubic+sharpen,35,"Degit , Same smiontion",0.6071428571428571,>=32
+cnn_06.png,"Dropout, Batch Normalization",espcn,35,"Degit , Same smiontion",0.6071428571428571,>=32
+cnn_06.png,"Dropout, Batch Normalization",espcn-iam,35,"Degit , Same Shemantan",0.6785714285714286,>=32
+cnn_06.png,"Dropout, Batch Normalization",espcn-board,35,Sary do classon,0.75,>=32
+cnn_06.png,Visualising CNN,none,45,Incaniong cour,0.6,>=32
+cnn_06.png,Visualising CNN,bicubic+sharpen,45,Iincandiong cour,0.6666666666666666,>=32
+cnn_06.png,Visualising CNN,espcn,45,Iinconiong cour,0.6666666666666666,>=32
+cnn_06.png,Visualising CNN,espcn-iam,45,Incadiong cur,0.5333333333333333,>=32
+cnn_06.png,Visualising CNN,espcn-board,45,lercadiong Cur,0.6,>=32
+cnn_06.png,Visualise filter & output,none,37,wamie siterampt,0.6,>=32
+cnn_06.png,Visualise filter & output,bicubic+sharpen,37,mamie siheap,0.72,>=32
+cnn_06.png,Visualise filter & output,espcn,37,mamie siterampt,0.6,>=32
+cnn_06.png,Visualise filter & output,espcn-iam,37,take beoe lagy,0.8,>=32
+cnn_06.png,Visualise filter & output,espcn-board,37,iteadtie batove lager,0.76,>=32
+cnn_06.png,Visualise feature layer,none,41,stocke bestore lager,0.4782608695652174,>=32
+cnn_06.png,Visualise feature layer,bicubic+sharpen,41,stonke beovre lager,0.5217391304347826,>=32
+cnn_06.png,Visualise feature layer,espcn,41,sonke betore lager,0.4782608695652174,>=32
+cnn_06.png,Visualise feature layer,espcn-iam,41,take beoe lagy,0.6521739130434783,>=32
+cnn_06.png,Visualise feature layer,espcn-board,41,iteadtie batove lager,0.4782608695652174,>=32
+cnn_06.png,Saliency via occlusion,none,43,Silanny we eacosion,0.5,>=32
+cnn_06.png,Saliency via occlusion,bicubic+sharpen,43,Sinrty de cacosion,0.5454545454545454,>=32
+cnn_06.png,Saliency via occlusion,espcn,43,Sianrgy de eacosion,0.5454545454545454,>=32
+cnn_06.png,Saliency via occlusion,espcn-iam,43,Shnarty wo adosion,0.6363636363636364,>=32
+cnn_06.png,Saliency via occlusion,espcn-board,43,Sary do classon,0.5454545454545454,>=32
+cnn_07.png,CNN Architecture,none,46,CNN Achitecture,0.0625,>=32
+cnn_07.png,CNN Architecture,bicubic+sharpen,46,CNN Achitecture,0.0625,>=32
+cnn_07.png,CNN Architecture,espcn,46,CNN Achitecture,0.0625,>=32
+cnn_07.png,CNN Architecture,espcn-iam,46,CNN Axchitecture,0.0625,>=32
+cnn_07.png,CNN Architecture,espcn-board,46,CMN Achitecture,0.125,>=32
+cnn_07.png,"LeNet, Alexnet, Resnet",none,35,"Levet, Akxnet, Resnet",0.13636363636363635,>=32
+cnn_07.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,35,"Levet, Akxnet, Reseat",0.22727272727272727,>=32
+cnn_07.png,"LeNet, Alexnet, Resnet",espcn,35,"Levet, Akxnet, Reset",0.18181818181818182,>=32
+cnn_07.png,"LeNet, Alexnet, Resnet",espcn-iam,35,"Levet, Akxonet, Resat",0.2727272727272727,>=32
+cnn_07.png,"LeNet, Alexnet, Resnet",espcn-board,35,"Levet, Akxnet, Resnat",0.18181818181818182,>=32
+cnn_07.png,"Dropout, Batch Normalization",none,31,"Dropaut, Batch Normalisstion",0.10714285714285714,24-32
+cnn_07.png,"Dropout, Batch Normalization",bicubic+sharpen,31,"Dropaut, Batch Normalizstion",0.07142857142857142,24-32
+cnn_07.png,"Dropout, Batch Normalization",espcn,31,"Dropout, Batch Normalizstion",0.03571428571428571,24-32
+cnn_07.png,"Dropout, Batch Normalization",espcn-iam,31,"Dropoct, Batch Normlizsation",0.10714285714285714,24-32
+cnn_07.png,"Dropout, Batch Normalization",espcn-board,31,"Dropact, Batch Normalisation",0.10714285714285714,24-32
+cnn_07.png,Visualising CNN,none,45,Visualising CIUN,0.13333333333333333,>=32
+cnn_07.png,Visualising CNN,bicubic+sharpen,45,Visualising CIUN,0.13333333333333333,>=32
+cnn_07.png,Visualising CNN,espcn,45,Visualising CUN,0.06666666666666667,>=32
+cnn_07.png,Visualising CNN,espcn-iam,45,Visualising CuN,0.06666666666666667,>=32
+cnn_07.png,Visualising CNN,espcn-board,45,Visulising CUN,0.13333333333333333,>=32
+cnn_07.png,Visualise filter & output,none,39,Visualise filter outat,0.16,>=32
+cnn_07.png,Visualise filter & output,bicubic+sharpen,39,Visualise filter outat,0.16,>=32
+cnn_07.png,Visualise filter & output,espcn,39,Visualise filter outat,0.16,>=32
+cnn_07.png,Visualise filter & output,espcn-iam,39,Visvalize filter outat,0.24,>=32
+cnn_07.png,Visualise filter & output,espcn-board,39,Visvalise filter outpat,0.16,>=32
+cnn_07.png,Visualise feature layer,none,40,Visualise feature layer,0.0,>=32
+cnn_07.png,Visualise feature layer,bicubic+sharpen,40,Visualise feature layer,0.0,>=32
+cnn_07.png,Visualise feature layer,espcn,40,Visualise feature layer,0.0,>=32
+cnn_07.png,Visualise feature layer,espcn-iam,40,Visulise feature layer,0.043478260869565216,>=32
+cnn_07.png,Visualise feature layer,espcn-board,40,Visualise feature layer,0.0,>=32
+cnn_07.png,Saliency via occlusion,none,39,Salancy via acusion,0.22727272727272727,>=32
+cnn_07.png,Saliency via occlusion,bicubic+sharpen,39,Salancy via accusion,0.18181818181818182,>=32
+cnn_07.png,Saliency via occlusion,espcn,39,Salancy via acusion,0.22727272727272727,>=32
+cnn_07.png,Saliency via occlusion,espcn-iam,39,Solancy ria oacdussion,0.3181818181818182,>=32
+cnn_07.png,Saliency via occlusion,espcn-board,39,Salancy ria occusion,0.18181818181818182,>=32
+cnn_08.png,CNN Architecture,none,50,CNN Achitecture,0.0625,>=32
+cnn_08.png,CNN Architecture,bicubic+sharpen,50,CMN Achitecture,0.125,>=32
+cnn_08.png,CNN Architecture,espcn,50,CNN Achitecture,0.0625,>=32
+cnn_08.png,CNN Architecture,espcn-iam,50,CNN Achitecture,0.0625,>=32
+cnn_08.png,CNN Architecture,espcn-board,50,CMN Achitecture,0.125,>=32
+cnn_08.png,"LeNet, Alexnet, Resnet",none,38,"Levet, Akxnet, Resret",0.18181818181818182,>=32
+cnn_08.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,38,"Levet, Akxnet, Resret",0.18181818181818182,>=32
+cnn_08.png,"LeNet, Alexnet, Resnet",espcn,38,"Levet, Akxnet, Resret",0.18181818181818182,>=32
+cnn_08.png,"LeNet, Alexnet, Resnet",espcn-iam,38,"Levet, Akxnet, Resret",0.18181818181818182,>=32
+cnn_08.png,"LeNet, Alexnet, Resnet",espcn-board,38,"Levet, Akxnet, Resnat",0.18181818181818182,>=32
+cnn_08.png,"Dropout, Batch Normalization",none,30,"Dropout, Bath Normaliestion",0.10714285714285714,24-32
+cnn_08.png,"Dropout, Batch Normalization",bicubic+sharpen,30,"Dropout, Batch Normalistion",0.07142857142857142,24-32
+cnn_08.png,"Dropout, Batch Normalization",espcn,30,"Dropout, Batch Normaliestion",0.07142857142857142,24-32
+cnn_08.png,"Dropout, Batch Normalization",espcn-iam,30,"Dropout, Batch Normbiention",0.14285714285714285,24-32
+cnn_08.png,"Dropout, Batch Normalization",espcn-board,30,"Dropout, Batch Normaliestion",0.07142857142857142,24-32
+cnn_08.png,Visualising CNN,none,42,Visualising CHN,0.06666666666666667,>=32
+cnn_08.png,Visualising CNN,bicubic+sharpen,42,Visualising CUN,0.06666666666666667,>=32
+cnn_08.png,Visualising CNN,espcn,42,Visualising CHN,0.06666666666666667,>=32
+cnn_08.png,Visualising CNN,espcn-iam,42,Visualising CHN,0.06666666666666667,>=32
+cnn_08.png,Visualising CNN,espcn-board,42,Visualising CHUN,0.13333333333333333,>=32
+cnn_08.png,Visualise filter & output,none,38,Visvalise filter outpat,0.16,>=32
+cnn_08.png,Visualise filter & output,bicubic+sharpen,38,Visvalise filter outat,0.2,>=32
+cnn_08.png,Visualise filter & output,espcn,38,Visvalise filter outat,0.2,>=32
+cnn_08.png,Visualise filter & output,espcn-iam,38,Visvalise filter outact,0.2,>=32
+cnn_08.png,Visualise filter & output,espcn-board,38,Visvalise filter  outpart,0.16,>=32
+cnn_08.png,Visualise feature layer,none,39,Visualire feature layer,0.043478260869565216,>=32
+cnn_08.png,Visualise feature layer,bicubic+sharpen,39,Visualire feature layer,0.043478260869565216,>=32
+cnn_08.png,Visualise feature layer,espcn,39,Visualire feature layer,0.043478260869565216,>=32
+cnn_08.png,Visualise feature layer,espcn-iam,39,Visualire teature layer,0.08695652173913043,>=32
+cnn_08.png,Visualise feature layer,espcn-board,39,Visualire feature layer,0.043478260869565216,>=32
+cnn_08.png,Saliency via occlusion,none,37,Soliency ria occlusion,0.09090909090909091,>=32
+cnn_08.png,Saliency via occlusion,bicubic+sharpen,37,Soliency ria occlusion,0.09090909090909091,>=32
+cnn_08.png,Saliency via occlusion,espcn,37,Soliency ria occlusion,0.09090909090909091,>=32
+cnn_08.png,Saliency via occlusion,espcn-iam,37,Solency ria occlusion,0.13636363636363635,>=32
+cnn_08.png,Saliency via occlusion,espcn-board,37,Saliency ria occlusion,0.045454545454545456,>=32
+cnn_09.png,CNN Architecture,none,42,CMN Achitecture,0.125,>=32
+cnn_09.png,CNN Architecture,bicubic+sharpen,42,CMN Acitecture,0.1875,>=32
+cnn_09.png,CNN Architecture,espcn,42,CMN Acitecture,0.1875,>=32
+cnn_09.png,CNN Architecture,espcn-iam,42,CMN Achitecture,0.125,>=32
+cnn_09.png,CNN Architecture,espcn-board,42,CMN Achitecture,0.125,>=32
+cnn_09.png,"LeNet, Alexnet, Resnet",none,33,"Livet, Rexnat, Reset",0.2727272727272727,>=32
+cnn_09.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,33,"Livet, Rexinat, Reset",0.3181818181818182,>=32
+cnn_09.png,"LeNet, Alexnet, Resnet",espcn,33,"Livet, Rexnat, Reset",0.2727272727272727,>=32
+cnn_09.png,"LeNet, Alexnet, Resnet",espcn-iam,33,"Livet, Rexinat, Reset",0.3181818181818182,>=32
+cnn_09.png,"LeNet, Alexnet, Resnet",espcn-board,33,"Livet, Blexnat, Resnet",0.18181818181818182,>=32
+cnn_09.png,"Dropout, Batch Normalization",none,27,"Dropht, Both Normliastion",0.25,24-32
+cnn_09.png,"Dropout, Batch Normalization",bicubic+sharpen,27,"Dropaut, Both Nonmliestion",0.25,24-32
+cnn_09.png,"Dropout, Batch Normalization",espcn,27,"Dropout, Both Normliestion",0.17857142857142858,24-32
+cnn_09.png,"Dropout, Batch Normalization",espcn-iam,27,"Dropout, Dotd Normliantion",0.25,24-32
+cnn_09.png,"Dropout, Batch Normalization",espcn-board,27,"Dropot, Both Normolization",0.14285714285714285,24-32
+cnn_09.png,Visualising CNN,none,39,Visualising CNN,0.0,>=32
+cnn_09.png,Visualising CNN,bicubic+sharpen,39,Visualising CNN,0.0,>=32
+cnn_09.png,Visualising CNN,espcn,39,Visualising CNL,0.06666666666666667,>=32
+cnn_09.png,Visualising CNN,espcn-iam,39,Visualising CINL,0.13333333333333333,>=32
+cnn_09.png,Visualising CNN,espcn-board,39,Visualising CnN,0.0,>=32
+cnn_09.png,Visualise filter & output,none,37,Visvelie filer S outat,0.28,>=32
+cnn_09.png,Visualise filter & output,bicubic+sharpen,37,Visvelie filter S outpat,0.2,>=32
+cnn_09.png,Visualise filter & output,espcn,37,Visvalie filter S outpat,0.16,>=32
+cnn_09.png,Visualise filter & output,espcn-iam,37,Visvaliz filter outpat,0.24,>=32
+cnn_09.png,Visualise filter & output,espcn-board,37,Viselie filter  outpat,0.2,>=32
+cnn_09.png,Visualise feature layer,none,38,Visalice testure layer,0.17391304347826086,>=32
+cnn_09.png,Visualise feature layer,bicubic+sharpen,38,Visalize testure layer,0.17391304347826086,>=32
+cnn_09.png,Visualise feature layer,espcn,38,Visalice testure layer,0.17391304347826086,>=32
+cnn_09.png,Visualise feature layer,espcn-iam,38,Visalie eature layer,0.13043478260869565,>=32
+cnn_09.png,Visualise feature layer,espcn-board,38,Visalice teature layer,0.13043478260869565,>=32
+cnn_09.png,Saliency via occlusion,none,34,Selancy ria occusion,0.22727272727272727,>=32
+cnn_09.png,Saliency via occlusion,bicubic+sharpen,34,Selancy ria occusion,0.22727272727272727,>=32
+cnn_09.png,Saliency via occlusion,espcn,34,Selancy ria occusion,0.22727272727272727,>=32
+cnn_09.png,Saliency via occlusion,espcn-iam,34,Selancy ria aoccussion,0.3181818181818182,>=32
+cnn_09.png,Saliency via occlusion,espcn-board,34,Selancy ria occusion,0.22727272727272727,>=32
+cnn_10.png,CNN Architecture,none,45,CUN Achtecture,0.1875,>=32
+cnn_10.png,CNN Architecture,bicubic+sharpen,45,CUN Achitecture,0.125,>=32
+cnn_10.png,CNN Architecture,espcn,45,CUN Achitecture,0.125,>=32
+cnn_10.png,CNN Architecture,espcn-iam,45,CUN Achtecture,0.1875,>=32
+cnn_10.png,CNN Architecture,espcn-board,45,CUN Achitecture,0.125,>=32
+cnn_10.png,"LeNet, Alexnet, Resnet",none,33,"lWet, Rexont, Resat",0.36363636363636365,>=32
+cnn_10.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,33,"lWet, Rexont, Resat",0.36363636363636365,>=32
+cnn_10.png,"LeNet, Alexnet, Resnet",espcn,33,"lWet, Rexont, Resat",0.36363636363636365,>=32
+cnn_10.png,"LeNet, Alexnet, Resnet",espcn-iam,33,"lwet, Rexont, Resat",0.36363636363636365,>=32
+cnn_10.png,"LeNet, Alexnet, Resnet",espcn-board,33,"Levet, Elexont, Resat",0.2727272727272727,>=32
+cnn_10.png,"Dropout, Batch Normalization",none,29,"Droght, Sath lormliontion",0.32142857142857145,24-32
+cnn_10.png,"Dropout, Batch Normalization",bicubic+sharpen,29,"Droght, Sath lombiontion",0.39285714285714285,24-32
+cnn_10.png,"Dropout, Batch Normalization",espcn,29,"Deoght, hath lombiontion",0.42857142857142855,24-32
+cnn_10.png,"Dropout, Batch Normalization",espcn-iam,29,"Draght, hath Nombention",0.42857142857142855,24-32
+cnn_10.png,"Dropout, Batch Normalization",espcn-board,29,"Drogat, Sath omaotion",0.39285714285714285,24-32
+cnn_10.png,Visualising CNN,none,41,Visualicing Co,0.2,>=32
+cnn_10.png,Visualising CNN,bicubic+sharpen,41,Visalising Cour,0.26666666666666666,>=32
+cnn_10.png,Visualising CNN,espcn,41,Visualising Co,0.13333333333333333,>=32
+cnn_10.png,Visualising CNN,espcn-iam,41,NisalingC,0.4666666666666667,>=32
+cnn_10.png,Visualising CNN,espcn-board,41,VismlisingCour,0.4,>=32
+cnn_10.png,Visualise filter & output,none,38,Visualie filfer  outpt,0.16,>=32
+cnn_10.png,Visualise filter & output,bicubic+sharpen,38,Visalie filfer  ooutpt,0.24,>=32
+cnn_10.png,Visualise filter & output,espcn,38,Visualie filler  outpt,0.16,>=32
+cnn_10.png,Visualise filter & output,espcn-iam,38,VisadliefiterI outpet,0.32,>=32
+cnn_10.png,Visualise filter & output,espcn-board,38,Visaobie filfer I ooutpet,0.32,>=32
+cnn_10.png,Visualise feature layer,none,38,Vatie tontue lager,0.43478260869565216,>=32
+cnn_10.png,Visualise feature layer,bicubic+sharpen,38,Vatie tastue lager,0.43478260869565216,>=32
+cnn_10.png,Visualise feature layer,espcn,38,Vatie bonture lager,0.391304347826087,>=32
+cnn_10.png,Visualise feature layer,espcn-iam,38,Viake tatue lager,0.391304347826087,>=32
+cnn_10.png,Visualise feature layer,espcn-board,38,thamale bestuve lager,0.43478260869565216,>=32
+cnn_10.png,Saliency via occlusion,none,35,Solascy nia caclusion,0.3181818181818182,>=32
+cnn_10.png,Saliency via occlusion,bicubic+sharpen,35,Selascy na caclusion,0.36363636363636365,>=32
+cnn_10.png,Saliency via occlusion,espcn,35,Salascy nia caclusion,0.2727272727272727,>=32
+cnn_10.png,Saliency via occlusion,espcn-iam,35,Slarcy ra adusion,0.45454545454545453,>=32
+cnn_10.png,Saliency via occlusion,espcn-board,35,Slacy ore caclusion,0.4090909090909091,>=32
+cnn_11.png,CNN Architecture,none,39,CMN Achitecture,0.125,>=32
+cnn_11.png,CNN Architecture,bicubic+sharpen,39,CMN Achitecture,0.125,>=32
+cnn_11.png,CNN Architecture,espcn,39,CMN Achitecture,0.125,>=32
+cnn_11.png,CNN Architecture,espcn-iam,39,CMN Achitecture,0.125,>=32
+cnn_11.png,CNN Architecture,espcn-board,39,CMN Achitecture,0.125,>=32
+cnn_11.png,"LeNet, Alexnet, Resnet",none,32,"Livet, Akxunat, Resnet",0.2727272727272727,>=32
+cnn_11.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,32,"livet, Akxonat, Resnet",0.2727272727272727,>=32
+cnn_11.png,"LeNet, Alexnet, Resnet",espcn,32,"Livet, Akxonat, Resnet",0.2727272727272727,>=32
+cnn_11.png,"LeNet, Alexnet, Resnet",espcn-iam,32,"ilet, Akxonat, Renct",0.4090909090909091,>=32
+cnn_11.png,"LeNet, Alexnet, Resnet",espcn-board,32,"Livet, Akxonct, Reenat",0.36363636363636365,>=32
+cnn_11.png,"Dropout, Batch Normalization",none,25,"Droput, Beth Nomaliostion",0.21428571428571427,24-32
+cnn_11.png,"Dropout, Batch Normalization",bicubic+sharpen,25,"Dropat, Beth Normalioation",0.17857142857142858,24-32
+cnn_11.png,"Dropout, Batch Normalization",espcn,25,"Droput, Betn Normalioation",0.17857142857142858,24-32
+cnn_11.png,"Dropout, Batch Normalization",espcn-iam,25,"Dropat, Bens Nomalection",0.35714285714285715,24-32
+cnn_11.png,"Dropout, Batch Normalization",espcn-board,25,"Dropat, Beth Norraloation",0.25,24-32
+cnn_11.png,Visualising CNN,none,38,Visualising CIN,0.06666666666666667,>=32
+cnn_11.png,Visualising CNN,bicubic+sharpen,38,Visualising CINN,0.06666666666666667,>=32
+cnn_11.png,Visualising CNN,espcn,38,Visualising CIN,0.06666666666666667,>=32
+cnn_11.png,Visualising CNN,espcn-iam,38,VisulisingCIL,0.26666666666666666,>=32
+cnn_11.png,Visualising CNN,espcn-board,38,Visulising CIUN,0.2,>=32
+cnn_11.png,Visualise filter & output,none,35,Vivalie filtr S ooutpat,0.28,>=32
+cnn_11.png,Visualise filter & output,bicubic+sharpen,35,Visvalie filler  S outpat,0.24,>=32
+cnn_11.png,Visualise filter & output,espcn,35,Visvalie filer S outpat,0.2,>=32
+cnn_11.png,Visualise filter & output,espcn-iam,35,Vitvalic filler outpat,0.32,>=32
+cnn_11.png,Visualise filter & output,espcn-board,35,Visvalie filler S outpet,0.2,>=32
+cnn_11.png,Visualise feature layer,none,35,Visalize testure layer,0.17391304347826086,>=32
+cnn_11.png,Visualise feature layer,bicubic+sharpen,35,Visulive testure layer,0.17391304347826086,>=32
+cnn_11.png,Visualise feature layer,espcn,35,Visulive teature layer,0.13043478260869565,>=32
+cnn_11.png,Visualise feature layer,espcn-iam,35,visalie tature layer,0.17391304347826086,>=32
+cnn_11.png,Visualise feature layer,espcn-board,35,Visalice feature llayer,0.13043478260869565,>=32
+cnn_11.png,Saliency via occlusion,none,34,Solancy na cclusion,0.2727272727272727,>=32
+cnn_11.png,Saliency via occlusion,bicubic+sharpen,34,Solancy na cclusion,0.2727272727272727,>=32
+cnn_11.png,Saliency via occlusion,espcn,34,Solancy na cclusion,0.2727272727272727,>=32
+cnn_11.png,Saliency via occlusion,espcn-iam,34,Splancy nia oclsson,0.3181818181818182,>=32
+cnn_11.png,Saliency via occlusion,espcn-board,34,Solancy riaocclusion,0.22727272727272727,>=32
+cnn_12.png,CNN Architecture,none,40,CMN Achitecture,0.125,>=32
+cnn_12.png,CNN Architecture,bicubic+sharpen,40,CMN Achitecture,0.125,>=32
+cnn_12.png,CNN Architecture,espcn,40,CNN Achitecture,0.0625,>=32
+cnn_12.png,CNN Architecture,espcn-iam,40,CMN Achitecture,0.125,>=32
+cnn_12.png,CNN Architecture,espcn-board,40,CMN Achitectire,0.1875,>=32
+cnn_12.png,"LeNet, Alexnet, Resnet",none,29,"et, Rkxoxt, Resrect",0.45454545454545453,24-32
+cnn_12.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,29,"Levet, Rexxt, Resact",0.3181818181818182,24-32
+cnn_12.png,"LeNet, Alexnet, Resnet",espcn,29,"Wet, Akxont, Resat",0.4090909090909091,24-32
+cnn_12.png,"LeNet, Alexnet, Resnet",espcn-iam,29,"et, Rexext, Resat",0.4090909090909091,24-32
+cnn_12.png,"LeNet, Alexnet, Resnet",espcn-board,29,"Levet, Rexoxt, Resract",0.36363636363636365,24-32
+cnn_12.png,"Dropout, Batch Normalization",none,25,"Dropout, Betn Nonmalistion",0.21428571428571427,24-32
+cnn_12.png,"Dropout, Batch Normalization",bicubic+sharpen,25,"Dropout, Both Normelisotion",0.17857142857142858,24-32
+cnn_12.png,"Dropout, Batch Normalization",espcn,25,"arout, Botn homebiestion",0.42857142857142855,24-32
+cnn_12.png,"Dropout, Batch Normalization",espcn-iam,25,"argut, bote Nomabeotion",0.42857142857142855,24-32
+cnn_12.png,"Dropout, Batch Normalization",espcn-board,25,"Dropat, Bomk Normabootron",0.39285714285714285,24-32
+cnn_12.png,Visualising CNN,none,35,Visualising cCn,0.06666666666666667,>=32
+cnn_12.png,Visualising CNN,bicubic+sharpen,35,Visalising cn,0.13333333333333333,>=32
+cnn_12.png,Visualising CNN,espcn,35,Visulising cn,0.13333333333333333,>=32
+cnn_12.png,Visualising CNN,espcn-iam,35,Viscalising cr,0.2,>=32
+cnn_12.png,Visualising CNN,espcn-board,35,Visulising cow,0.2,>=32
+cnn_12.png,Visualise filter & output,none,34,Visveliz filter A ootat,0.32,>=32
+cnn_12.png,Visualise filter & output,bicubic+sharpen,34,Visvaliz filter S aotat,0.32,>=32
+cnn_12.png,Visualise filter & output,espcn,34,Visvalie filter  Aootat,0.28,>=32
+cnn_12.png,Visualise filter & output,espcn-iam,34,Visalia fiter S ootat,0.32,>=32
+cnn_12.png,Visualise filter & output,espcn-board,34,Visvalie filter  ooatprt,0.24,>=32
+cnn_12.png,Visualise feature layer,none,34,Viswbie festue layer,0.2608695652173913,>=32
+cnn_12.png,Visualise feature layer,bicubic+sharpen,34,Viswbie festue lager,0.30434782608695654,>=32
+cnn_12.png,Visualise feature layer,espcn,34,Viswbise festove layer,0.2608695652173913,>=32
+cnn_12.png,Visualise feature layer,espcn-iam,34,Viswbie eatre layer,0.2608695652173913,>=32
+cnn_12.png,Visualise feature layer,espcn-board,34,Vimolie fosture layer,0.2608695652173913,>=32
+cnn_12.png,Saliency via occlusion,none,33,Solancy ria oxclusion,0.22727272727272727,>=32
+cnn_12.png,Saliency via occlusion,bicubic+sharpen,33,Solancy ria oxclusion,0.22727272727272727,>=32
+cnn_12.png,Saliency via occlusion,espcn,33,Solancy ria oxclusion,0.22727272727272727,>=32
+cnn_12.png,Saliency via occlusion,espcn-iam,33,Solany nia ocdusion,0.3181818181818182,>=32
+cnn_12.png,Saliency via occlusion,espcn-board,33,Solancy ria ecdlusion,0.2727272727272727,>=32
+cnn_13.png,CNN Architecture,none,41,CNN Achitecture,0.0625,>=32
+cnn_13.png,CNN Architecture,bicubic+sharpen,41,CNN Achitecture,0.0625,>=32
+cnn_13.png,CNN Architecture,espcn,41,CNN Achitecture,0.0625,>=32
+cnn_13.png,CNN Architecture,espcn-iam,41,CMN Achitecture,0.125,>=32
+cnn_13.png,CNN Architecture,espcn-board,41,CNN Achitecture,0.0625,>=32
+cnn_13.png,"LeNet, Alexnet, Resnet",none,32,"Wiet, Akenet, Resat",0.3181818181818182,>=32
+cnn_13.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,32,"Wiet, Akenet, Resat",0.3181818181818182,>=32
+cnn_13.png,"LeNet, Alexnet, Resnet",espcn,32,"Wiet, Akenet, Resat",0.3181818181818182,>=32
+cnn_13.png,"LeNet, Alexnet, Resnet",espcn-iam,32,"wit, Akxenet, Resnt",0.36363636363636365,>=32
+cnn_13.png,"LeNet, Alexnet, Resnet",espcn-board,32,"eiet, Akxnet, Resat",0.2727272727272727,>=32
+cnn_13.png,"Dropout, Batch Normalization",none,25,"Sroght, Both Normeliotion",0.32142857142857145,24-32
+cnn_13.png,"Dropout, Batch Normalization",bicubic+sharpen,25,"Sroght, Both Normalioation",0.25,24-32
+cnn_13.png,"Dropout, Batch Normalization",espcn,25,"Drogut, Both Nomabiretion",0.2857142857142857,24-32
+cnn_13.png,"Dropout, Batch Normalization",espcn-iam,25,"rgot, loth homabiation",0.39285714285714285,24-32
+cnn_13.png,"Dropout, Batch Normalization",espcn-board,25,"Dropat, Both Normoliootion",0.25,24-32
+cnn_13.png,Visualising CNN,none,36,Visulioing COL,0.26666666666666666,>=32
+cnn_13.png,Visualising CNN,bicubic+sharpen,36,Visdioing COM,0.4,>=32
+cnn_13.png,Visualising CNN,espcn,36,Visulioing COM,0.26666666666666666,>=32
+cnn_13.png,Visualising CNN,espcn-iam,36,Viading CnM,0.4,>=32
+cnn_13.png,Visualising CNN,espcn-board,36,visating CAM,0.4,>=32
+cnn_13.png,Visualise filter & output,none,34,Viscelie fifter B outpat,0.24,>=32
+cnn_13.png,Visualise filter & output,bicubic+sharpen,34,Viscelie fifter I outpt,0.24,>=32
+cnn_13.png,Visualise filter & output,espcn,34,Vincelie fifer  ortpat,0.36,>=32
+cnn_13.png,Visualise filter & output,espcn-iam,34,Viscelie fifter outpt,0.28,>=32
+cnn_13.png,Visualise filter & output,espcn-board,34,Vicliz fifter I outpt,0.32,>=32
+cnn_13.png,Visualise feature layer,none,35,Visaie touture layer,0.2608695652173913,>=32
+cnn_13.png,Visualise feature layer,bicubic+sharpen,35,Visatie trituce layer,0.30434782608695654,>=32
+cnn_13.png,Visualise feature layer,espcn,35,Visatie touture layer,0.2608695652173913,>=32
+cnn_13.png,Visualise feature layer,espcn-iam,35,Vsake tatea loyer,0.4782608695652174,>=32
+cnn_13.png,Visualise feature layer,espcn-board,35,Vvisatise totuce layer,0.30434782608695654,>=32
+cnn_13.png,Saliency via occlusion,none,32,Solancy nacclusion,0.3181818181818182,>=32
+cnn_13.png,Saliency via occlusion,bicubic+sharpen,32,Solancg na aclusion,0.36363636363636365,>=32
+cnn_13.png,Saliency via occlusion,espcn,32,Solacy na cclussion,0.36363636363636365,>=32
+cnn_13.png,Saliency via occlusion,espcn-iam,32,Selang na acdusion,0.45454545454545453,>=32
+cnn_13.png,Saliency via occlusion,espcn-board,32,Solaely noe adusion,0.5,>=32
+cnn_14.png,CNN Architecture,none,40,CMN Axchitetire,0.25,>=32
+cnn_14.png,CNN Architecture,bicubic+sharpen,40,CMN Axchitetre,0.25,>=32
+cnn_14.png,CNN Architecture,espcn,40,CMN Axchitetire,0.25,>=32
+cnn_14.png,CNN Architecture,espcn-iam,40,CNN Achitectre,0.125,>=32
+cnn_14.png,CNN Architecture,espcn-board,40,CMN Axchitectire,0.1875,>=32
+cnn_14.png,"LeNet, Alexnet, Resnet",none,32,"LeWet, Akxvet, Reset",0.22727272727272727,>=32
+cnn_14.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,32,"Wet, Akxvet, Reset",0.3181818181818182,>=32
+cnn_14.png,"LeNet, Alexnet, Resnet",espcn,32,"eWet, Akxvet, Resnet",0.22727272727272727,>=32
+cnn_14.png,"LeNet, Alexnet, Resnet",espcn-iam,32,"Wet, Akxvet, Resnet",0.2727272727272727,>=32
+cnn_14.png,"LeNet, Alexnet, Resnet",espcn-board,32,"Levet, Akxvet, Resnet",0.18181818181818182,>=32
+cnn_14.png,"Dropout, Batch Normalization",none,27,"Angat, Beth Nomoliction",0.42857142857142855,24-32
+cnn_14.png,"Dropout, Batch Normalization",bicubic+sharpen,27,"Oregat, Bets Nomolinition",0.42857142857142855,24-32
+cnn_14.png,"Dropout, Batch Normalization",espcn,27,"Angot, Beth Nomeliction",0.39285714285714285,24-32
+cnn_14.png,"Dropout, Batch Normalization",espcn-iam,27,"Drfat, Baty Normlination",0.2857142857142857,24-32
+cnn_14.png,"Dropout, Batch Normalization",espcn-board,27,"Drofat, Beth Normoliction",0.2857142857142857,24-32
+cnn_14.png,Visualising CNN,none,35,Visuliong CINN,0.26666666666666666,>=32
+cnn_14.png,Visualising CNN,bicubic+sharpen,35,VisuliongCI,0.4,>=32
+cnn_14.png,Visualising CNN,espcn,35,Visuling CIN,0.26666666666666666,>=32
+cnn_14.png,Visualising CNN,espcn-iam,35,Visualiong CI,0.26666666666666666,>=32
+cnn_14.png,Visualising CNN,espcn-board,35,Visualiong CINN,0.2,>=32
+cnn_14.png,Visualise filter & output,none,34,Vicelizeflter S outat,0.36,>=32
+cnn_14.png,Visualise filter & output,bicubic+sharpen,34,Viceliz flter S ooutat,0.4,>=32
+cnn_14.png,Visualise filter & output,espcn,34,Viceliz fller S outat,0.4,>=32
+cnn_14.png,Visualise filter & output,espcn-iam,34,Vevecie filteroortat,0.48,>=32
+cnn_14.png,Visualise filter & output,espcn-board,34,Visneliz flter S outpat,0.28,>=32
+cnn_14.png,Visualise feature layer,none,34,Valie totie layer,0.391304347826087,>=32
+cnn_14.png,Visualise feature layer,bicubic+sharpen,34,Valie totie layer,0.391304347826087,>=32
+cnn_14.png,Visualise feature layer,espcn,34,Valie totie ayer,0.43478260869565216,>=32
+cnn_14.png,Visualise feature layer,espcn-iam,34,Vaale hotie loyer,0.4782608695652174,>=32
+cnn_14.png,Visualise feature layer,espcn-board,34,valie teatie layer,0.30434782608695654,>=32
+cnn_14.png,Saliency via occlusion,none,33,Selancy via acccluerion,0.3181818181818182,>=32
+cnn_14.png,Saliency via occlusion,bicubic+sharpen,33,Selancy via aclusion,0.22727272727272727,>=32
+cnn_14.png,Saliency via occlusion,espcn,33,Splancy ia accclurion,0.3181818181818182,>=32
+cnn_14.png,Saliency via occlusion,espcn-iam,33,Splancy vian accturion,0.3181818181818182,>=32
+cnn_14.png,Saliency via occlusion,espcn-board,33,Selacy nis acchusion,0.36363636363636365,>=32
+cnn_15.png,CNN Architecture,none,42,CMN Achtecture,0.1875,>=32
+cnn_15.png,CNN Architecture,bicubic+sharpen,42,CMN Achtecture,0.1875,>=32
+cnn_15.png,CNN Architecture,espcn,42,CMN Achtecture,0.1875,>=32
+cnn_15.png,CNN Architecture,espcn-iam,42,CMN Achtcture,0.25,>=32
+cnn_15.png,CNN Architecture,espcn-board,42,CUN Achtectire,0.25,>=32
+cnn_15.png,"LeNet, Alexnet, Resnet",none,36,"Wat, Rixout, Renect",0.5,>=32
+cnn_15.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,36,"Wat, Rexoat, Renet",0.4090909090909091,>=32
+cnn_15.png,"LeNet, Alexnet, Resnet",espcn,36,"Wat, Rexoaut, Resnect",0.45454545454545453,>=32
+cnn_15.png,"LeNet, Alexnet, Resnet",espcn-iam,36,"Wat. Beout, Renet",0.5,>=32
+cnn_15.png,"LeNet, Alexnet, Resnet",espcn-board,36,"what, Riexoet, Resneat",0.36363636363636365,>=32
+cnn_15.png,"Dropout, Batch Normalization",none,28,"Dngot, lete lomiretin",0.5357142857142857,24-32
+cnn_15.png,"Dropout, Batch Normalization",bicubic+sharpen,28,"Dnyor, lete homiretin",0.5714285714285714,24-32
+cnn_15.png,"Dropout, Batch Normalization",espcn,28,"angot, heses homiretin",0.6071428571428571,24-32
+cnn_15.png,"Dropout, Batch Normalization",espcn-iam,28,"apt, ho bedreen",0.75,24-32
+cnn_15.png,"Dropout, Batch Normalization",espcn-board,28,"Dngot, leth bormavation",0.39285714285714285,24-32
+cnn_15.png,Visualising CNN,none,42,nidiong cor,0.6,>=32
+cnn_15.png,Visualising CNN,bicubic+sharpen,42,niaiong cor,0.5333333333333333,>=32
+cnn_15.png,Visualising CNN,espcn,42,nidlong cor,0.6,>=32
+cnn_15.png,Visualising CNN,espcn-iam,42,niaoung cer,0.6,>=32
+cnn_15.png,Visualising CNN,espcn-board,42,Dating cov,0.6,>=32
+cnn_15.png,Visualise filter & output,none,39,Vinle iter I aotpt,0.44,>=32
+cnn_15.png,Visualise filter & output,bicubic+sharpen,39,Visale iter I aotpt,0.36,>=32
+cnn_15.png,Visualise filter & output,espcn,39,Viale iter atpt,0.44,>=32
+cnn_15.png,Visualise filter & output,espcn-iam,39,risdle iteroxtpt,0.48,>=32
+cnn_15.png,Visualise filter & output,espcn-board,39,isvele ter ostpt,0.48,>=32
+cnn_15.png,Visualise feature layer,none,36,tante toba lager,0.6086956521739131,>=32
+cnn_15.png,Visualise feature layer,bicubic+sharpen,36,tante Iotae lager,0.5652173913043478,>=32
+cnn_15.png,Visualise feature layer,espcn,36,tante totae lager,0.5652173913043478,>=32
+cnn_15.png,Visualise feature layer,espcn-iam,36,Eante tosa lager,0.6086956521739131,>=32
+cnn_15.png,Visualise feature layer,espcn-board,36,tante teosa lager,0.6086956521739131,>=32
+cnn_15.png,Saliency via occlusion,none,38,Silany wa soaucisrian,0.5909090909090909,>=32
+cnn_15.png,Saliency via occlusion,bicubic+sharpen,38,Silany a saucisrian,0.5909090909090909,>=32
+cnn_15.png,Saliency via occlusion,espcn,38,Silany wa souchusrian,0.5,>=32
+cnn_15.png,Saliency via occlusion,espcn-iam,38,Sileny oa acioran,0.5454545454545454,>=32
+cnn_15.png,Saliency via occlusion,espcn-board,38,Solampy ois achussian,0.5454545454545454,>=32
+cnn_16.png,CNN Architecture,none,47,CAN Achtechire,0.3125,>=32
+cnn_16.png,CNN Architecture,bicubic+sharpen,47,CAN Achtechive,0.375,>=32
+cnn_16.png,CNN Architecture,espcn,47,CAN Achtechue,0.3125,>=32
+cnn_16.png,CNN Architecture,espcn-iam,47,CAV Achtecture,0.25,>=32
+cnn_16.png,CNN Architecture,espcn-board,47,CMN Achtechien,0.4375,>=32
+cnn_16.png,"LeNet, Alexnet, Resnet",none,36,"wat. Rtput, Revnet",0.5454545454545454,>=32
+cnn_16.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,36,"wirt. Rtpet, Reset",0.5,>=32
+cnn_16.png,"LeNet, Alexnet, Resnet",espcn,36,"wat. Rtput, Resnet",0.5,>=32
+cnn_16.png,"LeNet, Alexnet, Resnet",espcn-iam,36,"aht. About, Rent",0.5454545454545454,>=32
+cnn_16.png,"LeNet, Alexnet, Resnet",espcn-board,36,"wat. Abpet, Reset",0.45454545454545453,>=32
+cnn_16.png,"Dropout, Batch Normalization",none,29,"Dopet, Dens biomintion",0.5357142857142857,24-32
+cnn_16.png,"Dropout, Batch Normalization",bicubic+sharpen,29,"Doght, Dene biomintim",0.6428571428571429,24-32
+cnn_16.png,"Dropout, Batch Normalization",espcn,29,"Dopet, beas birminin",0.5357142857142857,24-32
+cnn_16.png,"Dropout, Batch Normalization",espcn-iam,29,"Doypet, beve bombrem",0.6785714285714286,24-32
+cnn_16.png,"Dropout, Batch Normalization",espcn-board,29,"Depat, Denh birmeteion",0.5714285714285714,24-32
+cnn_16.png,Visualising CNN,none,46,Dimating car,0.5333333333333333,>=32
+cnn_16.png,Visualising CNN,bicubic+sharpen,46,Diating ar,0.6,>=32
+cnn_16.png,Visualising CNN,espcn,46,Diating car,0.5333333333333333,>=32
+cnn_16.png,Visualising CNN,espcn-iam,46,Dimating ca,0.5333333333333333,>=32
+cnn_16.png,Visualising CNN,espcn-board,46,novating ca,0.6,>=32
+cnn_16.png,Visualise filter & output,none,38,iondile itrotpt,0.56,>=32
+cnn_16.png,Visualise filter & output,bicubic+sharpen,38,vonvile irortpt,0.6,>=32
+cnn_16.png,Visualise filter & output,espcn,38,iondile itrortpt,0.56,>=32
+cnn_16.png,Visualise filter & output,espcn-iam,38,nacke loke lger,0.8,>=32
+cnn_16.png,Visualise filter & output,espcn-board,38,vadile itr S ourtpe,0.48,>=32
+cnn_16.png,Visualise feature layer,none,35,ravke lotbae loger,0.6086956521739131,>=32
+cnn_16.png,Visualise feature layer,bicubic+sharpen,35,rave hobae loger,0.6521739130434783,>=32
+cnn_16.png,Visualise feature layer,espcn,35,rale obte loger,0.5652173913043478,>=32
+cnn_16.png,Visualise feature layer,espcn-iam,35,nacke loke lger,0.6521739130434783,>=32
+cnn_16.png,Visualise feature layer,espcn-board,35,malte horbe loger,0.6086956521739131,>=32
+cnn_16.png,Saliency via occlusion,none,35,Solascy ia dcion,0.45454545454545453,>=32
+cnn_16.png,Saliency via occlusion,bicubic+sharpen,35,Soluscy na lecion,0.5,>=32
+cnn_16.png,Saliency via occlusion,espcn,35,Solascy ia decion,0.45454545454545453,>=32
+cnn_16.png,Saliency via occlusion,espcn-iam,35,Silng an adieea,0.7727272727272727,>=32
+cnn_16.png,Saliency via occlusion,espcn-board,35,Solaery mi dluesion,0.45454545454545453,>=32
+cnn_29.png,CNN Architecture,none,31,CMN Achitectre,0.1875,24-32
+cnn_29.png,CNN Architecture,bicubic+sharpen,31,CMN Achitectre,0.1875,24-32
+cnn_29.png,CNN Architecture,espcn,31,CMN Achtectre,0.25,24-32
+cnn_29.png,CNN Architecture,espcn-iam,31,CMV Achtectre,0.3125,24-32
+cnn_29.png,CNN Architecture,espcn-board,31,CMV Achitecture,0.1875,24-32
+cnn_29.png,"LeNet, Alexnet, Resnet",none,26,"livet. Akxenat, Resnat",0.36363636363636365,24-32
+cnn_29.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,26,"livet. Akxxet, Resat",0.36363636363636365,24-32
+cnn_29.png,"LeNet, Alexnet, Resnet",espcn,26,"livet. Akxet, Reseat",0.36363636363636365,24-32
+cnn_29.png,"LeNet, Alexnet, Resnet",espcn-iam,26,"Livet. Abxenet, Resat",0.36363636363636365,24-32
+cnn_29.png,"LeNet, Alexnet, Resnet",espcn-board,26,"Lovet. Abxenet, Resnat",0.3181818181818182,24-32
+cnn_29.png,"Dropout, Batch Normalization",none,22,"Dropout, Bath bomt",0.39285714285714285,20-24
+cnn_29.png,"Dropout, Batch Normalization",bicubic+sharpen,22,"Dropaut, Bath Horeiontion",0.2857142857142857,20-24
+cnn_29.png,"Dropout, Batch Normalization",espcn,22,"Dropaut, Bohn Horstineen",0.5,20-24
+cnn_29.png,"Dropout, Batch Normalization",espcn-iam,22,"Dropaut, Danch Horaseon",0.39285714285714285,20-24
+cnn_29.png,"Dropout, Batch Normalization",espcn-board,22,"Droput, Dath boretioniron",0.39285714285714285,20-24
+cnn_29.png,Visualising CNN,none,31,Visuling CNN,0.2,24-32
+cnn_29.png,Visualising CNN,bicubic+sharpen,31,Visualing cNN,0.13333333333333333,24-32
+cnn_29.png,Visualising CNN,espcn,31,Visualing CNL,0.2,24-32
+cnn_29.png,Visualising CNN,espcn-iam,31,Visualing cnL,0.2,24-32
+cnn_29.png,Visualising CNN,espcn-board,31,Visualising CNN,0.0,24-32
+cnn_29.png,Visualise filter & output,none,28,Visvalize filter I outat,0.2,24-32
+cnn_29.png,Visualise filter & output,bicubic+sharpen,28,Visvalize filter  outpat,0.16,24-32
+cnn_29.png,Visualise filter & output,espcn,28,Visvalize filter I outat,0.2,24-32
+cnn_29.png,Visualise filter & output,espcn-iam,28,Visalize filter  octat,0.24,24-32
+cnn_29.png,Visualise filter & output,espcn-board,28,Visvalise filter 8outpt,0.16,24-32
+cnn_29.png,Visualise feature layer,none,25,Visuatire festure layer,0.13043478260869565,24-32
+cnn_29.png,Visualise feature layer,bicubic+sharpen,25,Visatire feature lager,0.17391304347826086,24-32
+cnn_29.png,Visualise feature layer,espcn,25,Visatire festire lager,0.2608695652173913,24-32
+cnn_29.png,Visualise feature layer,espcn-iam,25,visatre feaitvre lager,0.30434782608695654,24-32
+cnn_29.png,Visualise feature layer,espcn-board,25,Visatire fesivre lager,0.30434782608695654,24-32
+cnn_29.png,Saliency via occlusion,none,22,Seliancy nia acclusion,0.18181818181818182,20-24
+cnn_29.png,Saliency via occlusion,bicubic+sharpen,22,Seliancy nia acclusion,0.18181818181818182,20-24
+cnn_29.png,Saliency via occlusion,espcn,22,Selimncy ria acclusion,0.18181818181818182,20-24
+cnn_29.png,Saliency via occlusion,espcn-iam,22,Seliancy nia acclusion,0.18181818181818182,20-24
+cnn_29.png,Saliency via occlusion,espcn-board,22,Seliency ria acclusion,0.13636363636363635,20-24
+cnn_30.png,CNN Architecture,none,30,CMN Achitecture,0.125,24-32
+cnn_30.png,CNN Architecture,bicubic+sharpen,30,CMN Arhitecture,0.125,24-32
+cnn_30.png,CNN Architecture,espcn,30,CMN Achitecture,0.125,24-32
+cnn_30.png,CNN Architecture,espcn-iam,30,CMN Achitecture,0.125,24-32
+cnn_30.png,CNN Architecture,espcn-board,30,CMN Achitecture,0.125,24-32
+cnn_30.png,"LeNet, Alexnet, Resnet",none,25,"Levet. Akxret, Resnet",0.22727272727272727,24-32
+cnn_30.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,25,"Livet. Akxet, Reset",0.3181818181818182,24-32
+cnn_30.png,"LeNet, Alexnet, Resnet",espcn,25,"Levet. Akxret, Resnet",0.22727272727272727,24-32
+cnn_30.png,"LeNet, Alexnet, Resnet",espcn-iam,25,"Livet. Abxonet, Renet",0.3181818181818182,24-32
+cnn_30.png,"LeNet, Alexnet, Resnet",espcn-board,25,"Levet, Alexonet, Resnet",0.09090909090909091,24-32
+cnn_30.png,"Dropout, Batch Normalization",none,21,"Droput, Bath Normoliastion",0.17857142857142858,20-24
+cnn_30.png,"Dropout, Batch Normalization",bicubic+sharpen,21,"Dropaut, Bath Normoliestion",0.17857142857142858,20-24
+cnn_30.png,"Dropout, Batch Normalization",espcn,21,"Dropout, Bahn Normoliestion",0.21428571428571427,20-24
+cnn_30.png,"Dropout, Batch Normalization",espcn-iam,21,"Dropout, Batn Hormolantion",0.25,20-24
+cnn_30.png,"Dropout, Batch Normalization",espcn-board,21,"Dropout, Batch Normolestion",0.14285714285714285,20-24
+cnn_30.png,Visualising CNN,none,29,Visvalising ChN,0.13333333333333333,24-32
+cnn_30.png,Visualising CNN,bicubic+sharpen,29,Visvalising chr,0.2,24-32
+cnn_30.png,Visualising CNN,espcn,29,Visualising cun,0.06666666666666667,24-32
+cnn_30.png,Visualising CNN,espcn-iam,29,Visvalioing chn,0.2,24-32
+cnn_30.png,Visualising CNN,espcn-board,29,Visualising cuN,0.06666666666666667,24-32
+cnn_30.png,Visualise filter & output,none,28,Visvalize filter outpat,0.2,24-32
+cnn_30.png,Visualise filter & output,bicubic+sharpen,28,Visvalize filter  outpt,0.16,24-32
+cnn_30.png,Visualise filter & output,espcn,28,Virvalize filter  outpt,0.2,24-32
+cnn_30.png,Visualise filter & output,espcn-iam,28,Vinvalize filter  outpt,0.2,24-32
+cnn_30.png,Visualise filter & output,espcn-board,28,Vinvalize filter outpt,0.24,24-32
+cnn_30.png,Visualise feature layer,none,28,Visalire testure layer,0.17391304347826086,24-32
+cnn_30.png,Visualise feature layer,bicubic+sharpen,28,Vialire testure layer,0.21739130434782608,24-32
+cnn_30.png,Visualise feature layer,espcn,28,Vialire testure layer,0.21739130434782608,24-32
+cnn_30.png,Visualise feature layer,espcn-iam,28,Vimatire teature layer,0.21739130434782608,24-32
+cnn_30.png,Visualise feature layer,espcn-board,28,Vimatire teature layer,0.21739130434782608,24-32
+cnn_30.png,Saliency via occlusion,none,28,Solancy ria oxlusien,0.3181818181818182,24-32
+cnn_30.png,Saliency via occlusion,bicubic+sharpen,28,Solancy ria oxelvsion,0.3181818181818182,24-32
+cnn_30.png,Saliency via occlusion,espcn,28,Solacy via oxclsion,0.2727272727272727,24-32
+cnn_30.png,Saliency via occlusion,espcn-iam,28,Soliancy ria oclusion,0.18181818181818182,24-32
+cnn_30.png,Saliency via occlusion,espcn-board,28,Soliancy ria oxclsion,0.22727272727272727,24-32
+cnn_31.png,CNN Architecture,none,25,CMN Achtcthcen,0.4375,24-32
+cnn_31.png,CNN Architecture,bicubic+sharpen,25,CMN Achtcthcen,0.4375,24-32
+cnn_31.png,CNN Architecture,espcn,25,CMN Aditethee,0.4375,24-32
+cnn_31.png,CNN Architecture,espcn-iam,25,CMN Achtchre,0.375,24-32
+cnn_31.png,CNN Architecture,espcn-board,25,CMN Achtathren,0.4375,24-32
+cnn_31.png,"LeNet, Alexnet, Resnet",none,22,"lavet. Ribyout, Revnet",0.45454545454545453,20-24
+cnn_31.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,22,"lavet Ribout, evet",0.5454545454545454,20-24
+cnn_31.png,"LeNet, Alexnet, Resnet",espcn,22,laet Aut Revet,0.5,20-24
+cnn_31.png,"LeNet, Alexnet, Resnet",espcn-iam,22,"ot Mt, Ruct",0.6818181818181818,20-24
+cnn_31.png,"LeNet, Alexnet, Resnet",espcn-board,22,"leFet, Ribout, eent",0.45454545454545453,20-24
+cnn_31.png,"Dropout, Batch Normalization",none,19,"Dnugher, Band homionin",0.6071428571428571,16-20
+cnn_31.png,"Dropout, Batch Normalization",bicubic+sharpen,19,Solanny nis axcheion,0.7142857142857143,16-20
+cnn_31.png,"Dropout, Batch Normalization",espcn,19,Notice to Candidates,0.7142857142857143,16-20
+cnn_31.png,"Dropout, Batch Normalization",espcn-iam,19,"Deper, las botonn",0.6785714285714286,16-20
+cnn_31.png,"Dropout, Batch Normalization",espcn-board,19,"Defour, Sane lomelro",0.6071428571428571,16-20
+cnn_31.png,Visualising CNN,none,19,DISQUALIFIED,0.6,16-20
+cnn_31.png,Visualising CNN,bicubic+sharpen,19,DISQUALIFIED,0.6,16-20
+cnn_31.png,Visualising CNN,espcn,19,DISQUALIFIED,0.6,16-20
+cnn_31.png,Visualising CNN,espcn-iam,19,DISQUALIFIED,0.6,16-20
+cnn_31.png,Visualising CNN,espcn-board,19,nsalng cor,0.5333333333333333,16-20
+cnn_31.png,Visualise filter & output,none,26,rsatie hother loger,0.64,24-32
+cnn_31.png,Visualise filter & output,bicubic+sharpen,26,rsatie bouher loger,0.64,24-32
+cnn_31.png,Visualise filter & output,espcn,26,DISQUALIFIED,0.68,24-32
+cnn_31.png,Visualise filter & output,espcn-iam,26,DISQUALIFIED,0.68,24-32
+cnn_31.png,Visualise filter & output,espcn-board,26,risale fiter S autpt,0.32,24-32
+cnn_31.png,Visualise feature layer,none,26,rsatie hother loger,0.5652173913043478,24-32
+cnn_31.png,Visualise feature layer,bicubic+sharpen,26,rsatie bouher loger,0.5652173913043478,24-32
+cnn_31.png,Visualise feature layer,espcn,26,Vatie touhar lager,0.5217391304347826,24-32
+cnn_31.png,Visualise feature layer,espcn-iam,26,raotie touhar loger,0.6521739130434783,24-32
+cnn_31.png,Visualise feature layer,espcn-board,26,rsotie toba loger,0.6086956521739131,24-32
+cnn_31.png,Saliency via occlusion,none,25,Solany wis anchesion,0.45454545454545453,24-32
+cnn_31.png,Saliency via occlusion,bicubic+sharpen,25,Solanny nis axcheion,0.5,24-32
+cnn_31.png,Saliency via occlusion,espcn,25,Solangy ein excheion,0.5,24-32
+cnn_31.png,Saliency via occlusion,espcn-iam,25,Solancg eia aceion,0.45454545454545453,24-32
+cnn_31.png,Saliency via occlusion,espcn-board,25,Solancy tis aceion,0.45454545454545453,24-32
+cnn_32.png,CNN Architecture,none,25,CNN gchtecticen,0.375,24-32
+cnn_32.png,CNN Architecture,bicubic+sharpen,25,CNN gahtecticen,0.4375,24-32
+cnn_32.png,CNN Architecture,espcn,25,CUN gchtectre,0.3125,24-32
+cnn_32.png,CNN Architecture,espcn-iam,25,CNN guhtectucen,0.375,24-32
+cnn_32.png,CNN Architecture,espcn-board,25,CNN Acthtectuon,0.3125,24-32
+cnn_32.png,"LeNet, Alexnet, Resnet",none,23,"Liket, Bbyanct, Resat",0.4090909090909091,20-24
+cnn_32.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,23,"liket, Bbyant, Resat",0.4090909090909091,20-24
+cnn_32.png,"LeNet, Alexnet, Resnet",espcn,23,"Lie Byot, Resat",0.5454545454545454,20-24
+cnn_32.png,"LeNet, Alexnet, Resnet",espcn-iam,23,"aer Bbxant, Resnt",0.5,20-24
+cnn_32.png,"LeNet, Alexnet, Resnet",espcn-board,23,"Likel, Rexnt, Resat",0.36363636363636365,20-24
+cnn_32.png,"Dropout, Batch Normalization",none,19,"Deofort , Both lormelionein",0.42857142857142855,16-20
+cnn_32.png,"Dropout, Batch Normalization",bicubic+sharpen,19,"Deogort , bath liomeliren",0.5,16-20
+cnn_32.png,"Dropout, Batch Normalization",espcn,19,"Byot , bath bombireon",0.5357142857142857,16-20
+cnn_32.png,"Dropout, Batch Normalization",espcn-iam,19,"Ayot , bath bomtiren",0.5714285714285714,16-20
+cnn_32.png,"Dropout, Batch Normalization",espcn-board,19,"Derfert, Sath beomebiemn",0.6071428571428571,16-20
+cnn_32.png,Visualising CNN,none,23,Mioaliong Cra,0.4666666666666667,20-24
+cnn_32.png,Visualising CNN,bicubic+sharpen,23,DISQUALIFIED,0.6,20-24
+cnn_32.png,Visualising CNN,espcn,23,DISQUALIFIED,0.6,20-24
+cnn_32.png,Visualising CNN,espcn-iam,23,Misaktong crx,0.5333333333333333,20-24
+cnn_32.png,Visualising CNN,espcn-board,23,Minaling CAN,0.4,20-24
+cnn_32.png,Visualise filter & output,none,25,Vicvaliefilte I outpaet,0.32,24-32
+cnn_32.png,Visualise filter & output,bicubic+sharpen,25,Viavolie filte I ripet,0.4,24-32
+cnn_32.png,Visualise filter & output,espcn,25,Vonoliefilt I ortpet,0.44,24-32
+cnn_32.png,Visualise filter & output,espcn-iam,25,Vardin filt S rip,0.6,24-32
+cnn_32.png,Visualise filter & output,espcn-board,25,Vecrolie fillter S roipt,0.44,24-32
+cnn_32.png,Visualise feature layer,none,29,raie totoae layer,0.4782608695652174,24-32
+cnn_32.png,Visualise feature layer,bicubic+sharpen,29,vawie totia layer,0.4782608695652174,24-32
+cnn_32.png,Visualise feature layer,espcn,29,Vaike totoa layer,0.4782608695652174,24-32
+cnn_32.png,Visualise feature layer,espcn-iam,29,Vake tortoa loger,0.6086956521739131,24-32
+cnn_32.png,Visualise feature layer,espcn-board,29,twmikte tortoa layer,0.6086956521739131,24-32
+cnn_32.png,Saliency via occlusion,none,25,Selacy ia outhotion,0.45454545454545453,24-32
+cnn_32.png,Saliency via occlusion,bicubic+sharpen,25,Selascy is outoition,0.5,24-32
+cnn_32.png,Saliency via occlusion,espcn,25,Solascy ia outbosion,0.4090909090909091,24-32
+cnn_32.png,Saliency via occlusion,espcn-iam,25,Sileacy is aucbaion,0.45454545454545453,24-32
+cnn_32.png,Saliency via occlusion,espcn-board,25,Solassy nis cutboion,0.5454545454545454,24-32
+cnn_33.png,CNN Architecture,none,25,CMN Achtactiren,0.375,24-32
+cnn_33.png,CNN Architecture,bicubic+sharpen,25,CKN Achitecticen,0.3125,24-32
+cnn_33.png,CNN Architecture,espcn,25,CMN Achtactiren,0.375,24-32
+cnn_33.png,CNN Architecture,espcn-iam,25,CHN Achtastire,0.375,24-32
+cnn_33.png,CNN Architecture,espcn-board,25,CMN Achtatre,0.375,24-32
+cnn_33.png,"LeNet, Alexnet, Resnet",none,22,"Liet, Aiksout, Revet",0.4090909090909091,20-24
+cnn_33.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,22,"Liet, Aksout, Resat",0.4090909090909091,20-24
+cnn_33.png,"LeNet, Alexnet, Resnet",espcn,22,"Liet, Absut, Revct",0.45454545454545453,20-24
+cnn_33.png,"LeNet, Alexnet, Resnet",espcn-iam,22,"Likst, Abxut, Runct",0.45454545454545453,20-24
+cnn_33.png,"LeNet, Alexnet, Resnet",espcn-board,22,"List, Rbont,Renat",0.5,20-24
+cnn_33.png,"Dropout, Batch Normalization",none,19,"Bnogout, Bend noromiotin",0.4642857142857143,16-20
+cnn_33.png,"Dropout, Batch Normalization",bicubic+sharpen,19,"Dnogout, hens bnoromirumin",0.5357142857142857,16-20
+cnn_33.png,"Dropout, Batch Normalization",espcn,19,Notice to Candidates,0.7142857142857143,16-20
+cnn_33.png,"Dropout, Batch Normalization",espcn-iam,19,"aoer, haee hoatron",0.6428571428571429,16-20
+cnn_33.png,"Dropout, Batch Normalization",espcn-board,19,"Dhopout, Deaa broratrotion",0.4642857142857143,16-20
+cnn_33.png,Visualising CNN,none,25,ismloing cur,0.4666666666666667,24-32
+cnn_33.png,Visualising CNN,bicubic+sharpen,25,Kisalosing cur,0.3333333333333333,24-32
+cnn_33.png,Visualising CNN,espcn,25,Visaloing car,0.3333333333333333,24-32
+cnn_33.png,Visualising CNN,espcn-iam,25,Risualcing cur,0.3333333333333333,24-32
+cnn_33.png,Visualising CNN,espcn-board,25,inaloing cur,0.4666666666666667,24-32
+cnn_33.png,Visualise filter & output,none,25,Vcalile fterIS autp,0.44,24-32
+cnn_33.png,Visualise filter & output,bicubic+sharpen,25,Vcaie fiterI antpy,0.48,24-32
+cnn_33.png,Visualise filter & output,espcn,25,Vcale iterI entp,0.52,24-32
+cnn_33.png,Visualise filter & output,espcn-iam,25,Vicabil fiterI urtpt,0.44,24-32
+cnn_33.png,Visualise filter & output,espcn-board,25,Visulie fiter I arip,0.36,24-32
+cnn_33.png,Visualise feature layer,none,25,vanie totue loger,0.4782608695652174,24-32
+cnn_33.png,Visualise feature layer,bicubic+sharpen,25,vauie irdue lager,0.4782608695652174,24-32
+cnn_33.png,Visualise feature layer,espcn,25,vanie toda layer,0.4782608695652174,24-32
+cnn_33.png,Visualise feature layer,espcn-iam,25,vaaie toder leger,0.5652173913043478,24-32
+cnn_33.png,Visualise feature layer,espcn-board,25,raaise trotme lager,0.4782608695652174,24-32
+cnn_33.png,Saliency via occlusion,none,25,Solariy win excharon,0.5909090909090909,24-32
+cnn_33.png,Saliency via occlusion,bicubic+sharpen,25,Solariy ona eucthoaron,0.6363636363636364,24-32
+cnn_33.png,Saliency via occlusion,espcn,25,Selaiy an excharon,0.6363636363636364,24-32
+cnn_33.png,Saliency via occlusion,espcn-iam,25,Sebanty oa aucharon,0.5909090909090909,24-32
+cnn_33.png,Saliency via occlusion,espcn-board,25,Solaniy vid oucaron,0.45454545454545453,24-32
+cnn_34.png,CNN Architecture,none,27,CMN Achitechre,0.25,24-32
+cnn_34.png,CNN Architecture,bicubic+sharpen,27,CMN Achitechre,0.25,24-32
+cnn_34.png,CNN Architecture,espcn,27,CMN Achitechre,0.25,24-32
+cnn_34.png,CNN Architecture,espcn-iam,27,CMN Achitechre,0.25,24-32
+cnn_34.png,CNN Architecture,espcn-board,27,CMN Achitechre,0.25,24-32
+cnn_34.png,"LeNet, Alexnet, Resnet",none,23,"leket. Aisant, Reanat",0.36363636363636365,20-24
+cnn_34.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,23,"leket. Aitsact, Renat",0.4090909090909091,20-24
+cnn_34.png,"LeNet, Alexnet, Resnet",espcn,23,"lavet. Atwaet, Reanat",0.4090909090909091,20-24
+cnn_34.png,"LeNet, Alexnet, Resnet",espcn-iam,23,"Leket Atact, Renat",0.4090909090909091,20-24
+cnn_34.png,"LeNet, Alexnet, Resnet",espcn-board,23,"Leket, Ritrnt, Renat",0.36363636363636365,20-24
+cnn_34.png,"Dropout, Batch Normalization",none,18,"Droghr, Poned lomlontin",0.5714285714285714,16-20
+cnn_34.png,"Dropout, Batch Normalization",bicubic+sharpen,18,"Dhuger, fome comlotin",0.6428571428571429,16-20
+cnn_34.png,"Dropout, Batch Normalization",espcn,18,"Doyer, fame homlontin",0.5714285714285714,16-20
+cnn_34.png,"Dropout, Batch Normalization",espcn-iam,18,"Daope, Pome corbouean",0.6428571428571429,16-20
+cnn_34.png,"Dropout, Batch Normalization",espcn-board,18,"Dhuper, fomm bormloos",0.6428571428571429,16-20
+cnn_34.png,Visualising CNN,none,26,niwloing cor,0.5333333333333333,24-32
+cnn_34.png,Visualising CNN,bicubic+sharpen,26,niulong cor,0.5333333333333333,24-32
+cnn_34.png,Visualising CNN,espcn,26,visloing cor,0.4,24-32
+cnn_34.png,Visualising CNN,espcn-iam,26,vading car,0.5333333333333333,24-32
+cnn_34.png,Visualising CNN,espcn-board,26,niwaleing cor,0.4666666666666667,24-32
+cnn_34.png,Visualise filter & output,none,18,DISQUALIFIED,0.68,16-20
+cnn_34.png,Visualise filter & output,bicubic+sharpen,18,DISQUALIFIED,0.68,16-20
+cnn_34.png,Visualise filter & output,espcn,18,DISQUALIFIED,0.68,16-20
+cnn_34.png,Visualise filter & output,espcn-iam,18,DISQUALIFIED,0.68,16-20
+cnn_34.png,Visualise filter & output,espcn-board,18,DISQUALIFIED,0.68,16-20
+cnn_34.png,Visualise feature layer,none,26,Vantie boutva lager,0.5652173913043478,24-32
+cnn_34.png,Visualise feature layer,bicubic+sharpen,26,Vantie hontva lager,0.5652173913043478,24-32
+cnn_34.png,Visualise feature layer,espcn,26,Vanke hotba lager,0.5652173913043478,24-32
+cnn_34.png,Visualise feature layer,espcn-iam,26,Raoka tote layger,0.6086956521739131,24-32
+cnn_34.png,Visualise feature layer,espcn-board,26,vioke hote ager,0.5652173913043478,24-32
+cnn_34.png,Saliency via occlusion,none,25,Selasy ais ouchetion,0.5,24-32
+cnn_34.png,Saliency via occlusion,bicubic+sharpen,25,Solasy sis ouchetion,0.5,24-32
+cnn_34.png,Saliency via occlusion,espcn,25,Solansy sis eucheron,0.5454545454545454,24-32
+cnn_34.png,Saliency via occlusion,espcn-iam,25,Silarty misoechon,0.5909090909090909,24-32
+cnn_34.png,Saliency via occlusion,espcn-board,25,Solacy is oechoron,0.5,24-32
+cnn_35.png,CNN Architecture,none,25,CUN Achtictoren,0.375,24-32
+cnn_35.png,CNN Architecture,bicubic+sharpen,25,CUN Achitictren,0.3125,24-32
+cnn_35.png,CNN Architecture,espcn,25,CUN Achtictoren,0.375,24-32
+cnn_35.png,CNN Architecture,espcn-iam,25,CMN Achtictorn,0.375,24-32
+cnn_35.png,CNN Architecture,espcn-board,25,CUN Achtictiee,0.375,24-32
+cnn_35.png,"LeNet, Alexnet, Resnet",none,23,"Wit, Rkyout, Reset",0.5,20-24
+cnn_35.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,23,"Wit, Rexut, Reset",0.4090909090909091,20-24
+cnn_35.png,"LeNet, Alexnet, Resnet",espcn,23,"Wit Rout, Resat",0.5909090909090909,20-24
+cnn_35.png,"LeNet, Alexnet, Resnet",espcn-iam,23,"Wit Akonet, Renat",0.45454545454545453,20-24
+cnn_35.png,"LeNet, Alexnet, Resnet",espcn-board,23,"Litet, Atanet, Resnet",0.22727272727272727,20-24
+cnn_35.png,"Dropout, Batch Normalization",none,19,"Dnygot, Bath Nomlatn",0.39285714285714285,16-20
+cnn_35.png,"Dropout, Batch Normalization",bicubic+sharpen,19,"Dnygor, lesn Nomlaitn",0.5714285714285714,16-20
+cnn_35.png,"Dropout, Batch Normalization",espcn,19,"anyor, han comoiten",0.6428571428571429,16-20
+cnn_35.png,"Dropout, Batch Normalization",espcn-iam,19,"Duyor, lash Nommlartaon",0.5,16-20
+cnn_35.png,"Dropout, Batch Normalization",espcn-board,19,"Dnpar, Lash Nomalaven",0.5,16-20
+cnn_35.png,Visualising CNN,none,23,Kiwelising CAA,0.4,20-24
+cnn_35.png,Visualising CNN,bicubic+sharpen,23,Vivalisine CRA,0.3333333333333333,20-24
+cnn_35.png,Visualising CNN,espcn,23,Vinalisng CAN,0.26666666666666666,20-24
+cnn_35.png,Visualising CNN,espcn-iam,23,Vialotng CA,0.4666666666666667,20-24
+cnn_35.png,Visualising CNN,espcn-board,23,Vinoturng cnw,0.5333333333333333,20-24
+cnn_35.png,Visualise filter & output,none,25,Vinileliter I ortpt,0.44,24-32
+cnn_35.png,Visualise filter & output,bicubic+sharpen,25,Vinmilelier I oript,0.52,24-32
+cnn_35.png,Visualise filter & output,espcn,25,Vinclesier I ortpt,0.48,24-32
+cnn_35.png,Visualise filter & output,espcn-iam,25,DISQUALIFIED,0.68,24-32
+cnn_35.png,Visualise filter & output,espcn-board,25,Vinrmele s ter I ript,0.56,24-32
+cnn_35.png,Visualise feature layer,none,25,Vinie totae loger,0.5217391304347826,24-32
+cnn_35.png,Visualise feature layer,bicubic+sharpen,25,Vimti botiae lager,0.5217391304347826,24-32
+cnn_35.png,Visualise feature layer,espcn,25,Vimie lobae lager,0.5217391304347826,24-32
+cnn_35.png,Visualise feature layer,espcn-iam,25,Kimibre tote layer,0.5217391304347826,24-32
+cnn_35.png,Visualise feature layer,espcn-board,25,Vimobie totie loger,0.5217391304347826,24-32
+cnn_35.png,Saliency via occlusion,none,25,Solancy no achesian,0.5,24-32
+cnn_35.png,Saliency via occlusion,bicubic+sharpen,25,Solery o acthesian,0.5454545454545454,24-32
+cnn_35.png,Saliency via occlusion,espcn,25,Solanry o acherian,0.5909090909090909,24-32
+cnn_35.png,Saliency via occlusion,espcn-iam,25,Sileunry on achesran,0.5909090909090909,24-32
+cnn_35.png,Saliency via occlusion,espcn-board,25,Solarsy o acthesian,0.5909090909090909,24-32
+cnn_36.png,CNN Architecture,none,25,CNN gchlectire,0.3125,24-32
+cnn_36.png,CNN Architecture,bicubic+sharpen,25,CNN gahlectire,0.375,24-32
+cnn_36.png,CNN Architecture,espcn,25,CNN gchlestire,0.375,24-32
+cnn_36.png,CNN Architecture,espcn-iam,25,CNN gehtectire,0.3125,24-32
+cnn_36.png,CNN Architecture,espcn-board,25,CNN/ Achtectice,0.3125,24-32
+cnn_36.png,"LeNet, Alexnet, Resnet",none,22,"lelet Akont, Resnet",0.2727272727272727,20-24
+cnn_36.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,22,"letet Akyent, Reseat",0.36363636363636365,20-24
+cnn_36.png,"LeNet, Alexnet, Resnet",espcn,22,"let Aont, Reaet",0.4090909090909091,20-24
+cnn_36.png,"LeNet, Alexnet, Resnet",espcn-iam,22,"Litet Bt, Renet",0.45454545454545453,20-24
+cnn_36.png,"LeNet, Alexnet, Resnet",espcn-board,22,"Leket Rtent, Resnt",0.3181818181818182,20-24
+cnn_36.png,"Dropout, Batch Normalization",none,21,Notice to Candidates,0.7142857142857143,20-24
+cnn_36.png,"Dropout, Batch Normalization",bicubic+sharpen,21,Dengoetbann liomalotn,0.6071428571428571,20-24
+cnn_36.png,"Dropout, Batch Normalization",espcn,21,Dengest bons homeleen,0.6785714285714286,20-24
+cnn_36.png,"Dropout, Batch Normalization",espcn-iam,21,Sebacy em cacliason,0.6785714285714286,20-24
+cnn_36.png,"Dropout, Batch Normalization",espcn-board,21,"Denpet, lan leomalon",0.5714285714285714,20-24
+cnn_36.png,Visualising CNN,none,19,DISQUALIFIED,0.6,16-20
+cnn_36.png,Visualising CNN,bicubic+sharpen,19,DISQUALIFIED,0.6,16-20
+cnn_36.png,Visualising CNN,espcn,19,DISQUALIFIED,0.6,16-20
+cnn_36.png,Visualising CNN,espcn-iam,19,Mandlisng Cho,0.5333333333333333,16-20
+cnn_36.png,Visualising CNN,espcn-board,19,DISQUALIFIED,0.6,16-20
+cnn_36.png,Visualise filter & output,none,26,tiomie ttor  opt,0.56,24-32
+cnn_36.png,Visualise filter & output,bicubic+sharpen,26,tiomie sttor pt,0.64,24-32
+cnn_36.png,Visualise filter & output,espcn,26,tmies ittor  pet,0.64,24-32
+cnn_36.png,Visualise filter & output,espcn-iam,26,DISQUALIFIED,0.68,24-32
+cnn_36.png,Visualise filter & output,espcn-board,26,t wmolie fither f apet,0.52,24-32
+cnn_36.png,Visualise feature layer,none,25,liamie toobue llager,0.5217391304347826,24-32
+cnn_36.png,Visualise feature layer,bicubic+sharpen,25,Disate tootue lager,0.43478260869565216,24-32
+cnn_36.png,Visualise feature layer,espcn,25,liskie obe lager,0.5217391304347826,24-32
+cnn_36.png,Visualise feature layer,espcn-iam,25,Pate trobe layger,0.6086956521739131,24-32
+cnn_36.png,Visualise feature layer,espcn-board,25,Pimote tootue lager,0.5217391304347826,24-32
+cnn_36.png,Saliency via occlusion,none,28,Sebany ans atleion,0.5909090909090909,24-32
+cnn_36.png,Saliency via occlusion,bicubic+sharpen,28,Sebancy o eactleron,0.5909090909090909,24-32
+cnn_36.png,Saliency via occlusion,espcn,28,Sabany m eactberion,0.5909090909090909,24-32
+cnn_36.png,Saliency via occlusion,espcn-iam,28,Sebacy em cacliason,0.5909090909090909,24-32
+cnn_36.png,Saliency via occlusion,espcn-board,28,Sebeay eso cacctirasion,0.6363636363636364,24-32
+cnn_37.png,CNN Architecture,none,30,CMN Achtetre,0.3125,24-32
+cnn_37.png,CNN Architecture,bicubic+sharpen,30,CMN Achitectre,0.1875,24-32
+cnn_37.png,CNN Architecture,espcn,30,CMN Achtetre,0.3125,24-32
+cnn_37.png,CNN Architecture,espcn-iam,30,CUN Achtectre,0.25,24-32
+cnn_37.png,CNN Architecture,espcn-board,30,CUN Achitectre,0.1875,24-32
+cnn_37.png,"LeNet, Alexnet, Resnet",none,26,"laer, Abyount, Resnt",0.4090909090909091,24-32
+cnn_37.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,26,"luer Aboent, Resnt",0.4090909090909091,24-32
+cnn_37.png,"LeNet, Alexnet, Resnet",espcn,26,"laer. Abt, Rest",0.5,24-32
+cnn_37.png,"LeNet, Alexnet, Resnet",espcn-iam,26,"Guet Abount, Rect",0.5,24-32
+cnn_37.png,"LeNet, Alexnet, Resnet",espcn-board,26,"liet, Abyet, Rest",0.36363636363636365,24-32
+cnn_37.png,"Dropout, Batch Normalization",none,23,"aygut, bote omlinition",0.4642857142857143,20-24
+cnn_37.png,"Dropout, Batch Normalization",bicubic+sharpen,23,"ayout, both iominition",0.42857142857142855,20-24
+cnn_37.png,"Dropout, Batch Normalization",espcn,23,"agut, boteh bomiotion",0.4642857142857143,20-24
+cnn_37.png,"Dropout, Batch Normalization",espcn-iam,23,"afut, htes komboten",0.6428571428571429,20-24
+cnn_37.png,"Dropout, Batch Normalization",espcn-board,23,"ingat, bots bormrton",0.5714285714285714,20-24
+cnn_37.png,Visualising CNN,none,28,Viantoing cow,0.4666666666666667,24-32
+cnn_37.png,Visualising CNN,bicubic+sharpen,28,Viantoing cow,0.4666666666666667,24-32
+cnn_37.png,Visualising CNN,espcn,28,Viantoing cor,0.4666666666666667,24-32
+cnn_37.png,Visualising CNN,espcn-iam,28,Viaudong co,0.5333333333333333,24-32
+cnn_37.png,Visualising CNN,espcn-board,28,Viomhing co,0.5333333333333333,24-32
+cnn_37.png,Visualise filter & output,none,28,voale filto erp?,0.56,24-32
+cnn_37.png,Visualise filter & output,bicubic+sharpen,28,rocle fito  rtp,0.6,24-32
+cnn_37.png,Visualise filter & output,espcn,28,DISQUALIFIED,0.68,24-32
+cnn_37.png,Visualise filter & output,espcn-iam,28,DISQUALIFIED,0.68,24-32
+cnn_37.png,Visualise filter & output,espcn-board,28,roele fite S ortpi,0.52,24-32
+cnn_37.png,Visualise feature layer,none,29,Vanle bodoe lager,0.5652173913043478,24-32
+cnn_37.png,Visualise feature layer,bicubic+sharpen,29,Vaie brotoe lager,0.4782608695652174,24-32
+cnn_37.png,Visualise feature layer,espcn,29,Vanlebnote lager,0.5652173913043478,24-32
+cnn_37.png,Visualise feature layer,espcn-iam,29,Kake brotar lager,0.5652173913043478,24-32
+cnn_37.png,Visualise feature layer,espcn-board,29,Viole trote lager,0.4782608695652174,24-32
+cnn_37.png,Saliency via occlusion,none,30,Selacgy ix adleian,0.5909090909090909,24-32
+cnn_37.png,Saliency via occlusion,bicubic+sharpen,30,Seleagy ox eoleion,0.5454545454545454,24-32
+cnn_37.png,Saliency via occlusion,espcn,30,Selang ex ecleian,0.5909090909090909,24-32
+cnn_37.png,Saliency via occlusion,espcn-iam,30,Siegy ix adeson,0.5454545454545454,24-32
+cnn_37.png,Saliency via occlusion,espcn-board,30,Selegy mis acbeion,0.5,24-32
+cnn_38.png,CNN Architecture,none,30,CMN Acbtetre,0.375,24-32
+cnn_38.png,CNN Architecture,bicubic+sharpen,30,CMN Acbtethre,0.375,24-32
+cnn_38.png,CNN Architecture,espcn,30,CMN Acbtethre,0.375,24-32
+cnn_38.png,CNN Architecture,espcn-iam,30,CMN Achitethre,0.25,24-32
+cnn_38.png,CNN Architecture,espcn-board,30,CMN Achitethe,0.3125,24-32
+cnn_38.png,"LeNet, Alexnet, Resnet",none,25,"wet, Bkyout, Reset",0.45454545454545453,24-32
+cnn_38.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,25,"Wet, Bkxnt, Rest",0.4090909090909091,24-32
+cnn_38.png,"LeNet, Alexnet, Resnet",espcn,25,"wet, Bout, Rest",0.5,24-32
+cnn_38.png,"LeNet, Alexnet, Resnet",espcn-iam,25,"Liet. Bexnt, Renet",0.3181818181818182,24-32
+cnn_38.png,"LeNet, Alexnet, Resnet",espcn-board,25,"Liket, Abxnt, Reset",0.2727272727272727,24-32
+cnn_38.png,"Dropout, Batch Normalization",none,23,"Dogut, fend homeivete",0.6071428571428571,20-24
+cnn_38.png,"Dropout, Batch Normalization",bicubic+sharpen,23,"Dogut, fend homeliets",0.5714285714285714,20-24
+cnn_38.png,"Dropout, Batch Normalization",espcn,23,"Daget, fond homeiete",0.6785714285714286,20-24
+cnn_38.png,"Dropout, Batch Normalization",espcn-iam,23,"Dhat, fet homlorta",0.6428571428571429,20-24
+cnn_38.png,"Dropout, Batch Normalization",espcn-board,23,"Anget , hond bovoliretie",0.7142857142857143,20-24
+cnn_38.png,Visualising CNN,none,30,Kiveloing co,0.5333333333333333,24-32
+cnn_38.png,Visualising CNN,bicubic+sharpen,30,Rineloing car,0.5333333333333333,24-32
+cnn_38.png,Visualising CNN,espcn,30,Rimeloing car,0.5333333333333333,24-32
+cnn_38.png,Visualising CNN,espcn-iam,30,DISQUALIFIED,0.6,24-32
+cnn_38.png,Visualising CNN,espcn-board,30,Rimeling car,0.5333333333333333,24-32
+cnn_38.png,Visualise filter & output,none,29,vandlel fiter  atpt,0.48,24-32
+cnn_38.png,Visualise filter & output,bicubic+sharpen,29,Fiatla fiter  apy,0.56,24-32
+cnn_38.png,Visualise filter & output,espcn,29,romala fi  atpy,0.64,24-32
+cnn_38.png,Visualise filter & output,espcn-iam,29,DISQUALIFIED,0.68,24-32
+cnn_38.png,Visualise filter & output,espcn-board,29,rimualia fifter f artpt,0.36,24-32
+cnn_38.png,Visualise feature layer,none,28,Vanlie totue lager,0.43478260869565216,24-32
+cnn_38.png,Visualise feature layer,bicubic+sharpen,28,Vanlie tutue lagyer,0.43478260869565216,24-32
+cnn_38.png,Visualise feature layer,espcn,28,Vinlie teutbe layer,0.34782608695652173,24-32
+cnn_38.png,Visualise feature layer,espcn-iam,28,Riutie tabe loyer,0.4782608695652174,24-32
+cnn_38.png,Visualise feature layer,espcn-board,28,Vintie tratve layer,0.391304347826087,24-32
+cnn_38.png,Saliency via occlusion,none,28,Setbesry ni axclesan,0.5454545454545454,24-32
+cnn_38.png,Saliency via occlusion,bicubic+sharpen,28,Setecy ni axclesan,0.5,24-32
+cnn_38.png,Saliency via occlusion,espcn,28,Soterly ni axclesan,0.5454545454545454,24-32
+cnn_38.png,Saliency via occlusion,espcn-iam,28,Sitkecy yri dvesian,0.5909090909090909,24-32
+cnn_38.png,Saliency via occlusion,espcn-board,28,Saterly ni acdlvesan,0.5454545454545454,24-32
+cnn_39.png,CNN Architecture,none,30,CUN Achtestire,0.3125,24-32
+cnn_39.png,CNN Architecture,bicubic+sharpen,30,CUN Achtestire,0.3125,24-32
+cnn_39.png,CNN Architecture,espcn,30,CMN Achtestre,0.3125,24-32
+cnn_39.png,CNN Architecture,espcn-iam,30,CMN Achtestre,0.3125,24-32
+cnn_39.png,CNN Architecture,espcn-board,30,CNN Achtechre,0.25,24-32
+cnn_39.png,"LeNet, Alexnet, Resnet",none,25,"loet, Ritxet, Rent",0.36363636363636365,24-32
+cnn_39.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,25,"st Rixat, Resnat",0.5,24-32
+cnn_39.png,"LeNet, Alexnet, Resnet",espcn,25,"aet Rixet, Reant",0.45454545454545453,24-32
+cnn_39.png,"LeNet, Alexnet, Resnet",espcn-iam,25,"wset Atat, Resnt",0.45454545454545453,24-32
+cnn_39.png,"LeNet, Alexnet, Resnet",espcn-board,25,"LeFst, Rtet, Resat",0.4090909090909091,24-32
+cnn_39.png,"Dropout, Batch Normalization",none,22,"Bygor, Bots domeliontion",0.5,20-24
+cnn_39.png,"Dropout, Batch Normalization",bicubic+sharpen,22,"Ayaor, Dosd doveliotion",0.6071428571428571,20-24
+cnn_39.png,"Dropout, Batch Normalization",espcn,22,Solangy oa aheion,0.7142857142857143,20-24
+cnn_39.png,"Dropout, Batch Normalization",espcn-iam,22,Notice to Candidates,0.7142857142857143,20-24
+cnn_39.png,"Dropout, Batch Normalization",espcn-board,22,"Angat, Bonh womolron",0.6071428571428571,20-24
+cnn_39.png,Visualising CNN,none,29,vialoing cour,0.4666666666666667,24-32
+cnn_39.png,Visualising CNN,bicubic+sharpen,29,vialoing cor,0.4,24-32
+cnn_39.png,Visualising CNN,espcn,29,Visalingcar,0.4,24-32
+cnn_39.png,Visualising CNN,espcn-iam,29,DISQUALIFIED,0.6,24-32
+cnn_39.png,Visualising CNN,espcn-board,29,vialing corr,0.4666666666666667,24-32
+cnn_39.png,Visualise filter & output,none,29,vamlle ter  outp?,0.48,24-32
+cnn_39.png,Visualise filter & output,bicubic+sharpen,29,vamaie er  unrp?,0.6,24-32
+cnn_39.png,Visualise filter & output,espcn,29,veale ter S artp?,0.52,24-32
+cnn_39.png,Visualise filter & output,espcn-iam,29,Pamise hote loger,0.64,24-32
+cnn_39.png,Visualise filter & output,espcn-board,29,vorale tr S utpy,0.52,24-32
+cnn_39.png,Visualise feature layer,none,26,Pavie hoba lager,0.6086956521739131,24-32
+cnn_39.png,Visualise feature layer,bicubic+sharpen,26,Panie hobe lager,0.5652173913043478,24-32
+cnn_39.png,Visualise feature layer,espcn,26,Pavie lobe lagea,0.6086956521739131,24-32
+cnn_39.png,Visualise feature layer,espcn-iam,26,Pamise hote loger,0.5217391304347826,24-32
+cnn_39.png,Visualise feature layer,espcn-board,26,Vate hote lager,0.5217391304347826,24-32
+cnn_39.png,Saliency via occlusion,none,30,Solay oa acheion,0.5454545454545454,24-32
+cnn_39.png,Saliency via occlusion,bicubic+sharpen,30,Solaty oa acheion,0.5454545454545454,24-32
+cnn_39.png,Saliency via occlusion,espcn,30,Solangy oa aheion,0.5454545454545454,24-32
+cnn_39.png,Saliency via occlusion,espcn-iam,30,Soalangy sa ackeion,0.5,24-32
+cnn_39.png,Saliency via occlusion,espcn-board,30,Solang oa achsion,0.5,24-32
+cnn_40.png,CNN Architecture,none,31,CUN Achtectore,0.25,24-32
+cnn_40.png,CNN Architecture,bicubic+sharpen,31,CUN Achtectore,0.25,24-32
+cnn_40.png,CNN Architecture,espcn,31,CUN Achtectore,0.25,24-32
+cnn_40.png,CNN Architecture,espcn-iam,31,CUN Achtectire,0.25,24-32
+cnn_40.png,CNN Architecture,espcn-board,31,CUN Achtectiren,0.3125,24-32
+cnn_40.png,"LeNet, Alexnet, Resnet",none,25,"wet, Atxout, Renut",0.4090909090909091,24-32
+cnn_40.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,25,"wet, Atxat, Rent",0.4090909090909091,24-32
+cnn_40.png,"LeNet, Alexnet, Resnet",espcn,25,"wet, Akxat, Reount",0.45454545454545453,24-32
+cnn_40.png,"LeNet, Alexnet, Resnet",espcn-iam,25,"wst. Abxat, Reunt",0.5,24-32
+cnn_40.png,"LeNet, Alexnet, Resnet",espcn-board,25,"Leiet. Aiat, Reonat",0.4090909090909091,24-32
+cnn_40.png,"Dropout, Batch Normalization",none,21,"Doaet, Bond iomintim",0.5714285714285714,20-24
+cnn_40.png,"Dropout, Batch Normalization",bicubic+sharpen,21,"Doyaer, bens comintem",0.6428571428571429,20-24
+cnn_40.png,"Dropout, Batch Normalization",espcn,21,"Doyat, bons comineme",0.6428571428571429,20-24
+cnn_40.png,"Dropout, Batch Normalization",espcn-iam,21,"Dopt, hore bomlaneen",0.5714285714285714,20-24
+cnn_40.png,"Dropout, Batch Normalization",espcn-board,21,"Dofer, Bons bomiien",0.6071428571428571,20-24
+cnn_40.png,Visualising CNN,none,29,nealing car,0.5333333333333333,24-32
+cnn_40.png,Visualising CNN,bicubic+sharpen,29,nealing car,0.5333333333333333,24-32
+cnn_40.png,Visualising CNN,espcn,29,naling car,0.5333333333333333,24-32
+cnn_40.png,Visualising CNN,espcn-iam,29,DISQUALIFIED,0.6,24-32
+cnn_40.png,Visualising CNN,espcn-board,29,naling caw,0.5333333333333333,24-32
+cnn_40.png,Visualise filter & output,none,26,Voalie fitrI ortpt,0.4,24-32
+cnn_40.png,Visualise filter & output,bicubic+sharpen,26,vowlie fitrI ortpt,0.44,24-32
+cnn_40.png,Visualise filter & output,espcn,26,vadie ait I ortp,0.52,24-32
+cnn_40.png,Visualise filter & output,espcn-iam,26,DISQUALIFIED,0.68,24-32
+cnn_40.png,Visualise filter & output,espcn-board,26,vondie fle I ortpi,0.52,24-32
+cnn_40.png,Visualise feature layer,none,27,Valie totbe lager,0.43478260869565216,24-32
+cnn_40.png,Visualise feature layer,bicubic+sharpen,27,Walie totbe lager,0.4782608695652174,24-32
+cnn_40.png,Visualise feature layer,espcn,27,Dalie tobia lager,0.5652173913043478,24-32
+cnn_40.png,Visualise feature layer,espcn-iam,27,Batie bota lger,0.6086956521739131,24-32
+cnn_40.png,Visualise feature layer,espcn-board,27,Vnalie tote lager,0.43478260869565216,24-32
+cnn_40.png,Saliency via occlusion,none,29,Soley in achen,0.5909090909090909,24-32
+cnn_40.png,Saliency via occlusion,bicubic+sharpen,29,Soleny i achen,0.5454545454545454,24-32
+cnn_40.png,Saliency via occlusion,espcn,29,Soleng in achen,0.5909090909090909,24-32
+cnn_40.png,Saliency via occlusion,espcn-iam,29,Sileng in ochern,0.5454545454545454,24-32
+cnn_40.png,Saliency via occlusion,espcn-board,29,Slang in ashen,0.6363636363636364,24-32
+cnn_41.png,CNN Architecture,none,30,CUN Achtestiren,0.375,24-32
+cnn_41.png,CNN Architecture,bicubic+sharpen,30,CUN Achtectiren,0.3125,24-32
+cnn_41.png,CNN Architecture,espcn,30,CN Achtretire,0.375,24-32
+cnn_41.png,CNN Architecture,espcn-iam,30,CUN Achtetre,0.3125,24-32
+cnn_41.png,CNN Architecture,espcn-board,30,CUN Achtectiren,0.3125,24-32
+cnn_41.png,"LeNet, Alexnet, Resnet",none,25,"lwiet, libyout, Resnat",0.4090909090909091,24-32
+cnn_41.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,25,"Wit, libpet, Rest",0.45454545454545453,24-32
+cnn_41.png,"LeNet, Alexnet, Resnet",espcn,25,"lwiet libut, Ranat",0.5,24-32
+cnn_41.png,"LeNet, Alexnet, Resnet",espcn-iam,25,"wit, Abpet, Reanst",0.45454545454545453,24-32
+cnn_41.png,"LeNet, Alexnet, Resnet",espcn-board,25,"wit, itet, Rest",0.5,24-32
+cnn_41.png,"Dropout, Batch Normalization",none,22,"Daget, hens lovelinonion",0.6071428571428571,20-24
+cnn_41.png,"Dropout, Batch Normalization",bicubic+sharpen,22,"Dapet, hens lovalinomon",0.5714285714285714,20-24
+cnn_41.png,"Dropout, Batch Normalization",espcn,22,"nape, bons kovolinonion",0.6071428571428571,20-24
+cnn_41.png,"Dropout, Batch Normalization",espcn-iam,22,Sotlany as actaon,0.7142857142857143,20-24
+cnn_41.png,"Dropout, Batch Normalization",espcn-board,22,"Dngalt, hans bomolvien",0.6071428571428571,20-24
+cnn_41.png,Visualising CNN,none,32,Kiadloing cor,0.5333333333333333,>=32
+cnn_41.png,Visualising CNN,bicubic+sharpen,32,DISQUALIFIED,0.6,>=32
+cnn_41.png,Visualising CNN,espcn,32,Kiadloing cor,0.5333333333333333,>=32
+cnn_41.png,Visualising CNN,espcn-iam,32,DISQUALIFIED,0.6,>=32
+cnn_41.png,Visualising CNN,espcn-board,32,vealong co,0.5333333333333333,>=32
+cnn_41.png,Visualise filter & output,none,27,DISQUALIFIED,0.68,24-32
+cnn_41.png,Visualise filter & output,bicubic+sharpen,27,DISQUALIFIED,0.68,24-32
+cnn_41.png,Visualise filter & output,espcn,27,DISQUALIFIED,0.68,24-32
+cnn_41.png,Visualise filter & output,espcn-iam,27,DISQUALIFIED,0.68,24-32
+cnn_41.png,Visualise filter & output,espcn-board,27,DISQUALIFIED,0.68,24-32
+cnn_41.png,Visualise feature layer,none,29,Raite boba loger,0.6521739130434783,24-32
+cnn_41.png,Visualise feature layer,bicubic+sharpen,29,Ruate boba loger,0.6521739130434783,24-32
+cnn_41.png,Visualise feature layer,espcn,29,DISQUALIFIED,0.6956521739130435,24-32
+cnn_41.png,Visualise feature layer,espcn-iam,29,Ruife bosa layer,0.5652173913043478,24-32
+cnn_41.png,Visualise feature layer,espcn-board,29,viwore osa lager,0.5652173913043478,24-32
+cnn_41.png,Saliency via occlusion,none,32,Soleary oas acleion,0.5,>=32
+cnn_41.png,Saliency via occlusion,bicubic+sharpen,32,Soleany os acterion,0.5454545454545454,>=32
+cnn_41.png,Saliency via occlusion,espcn,32,Soleay oas acherion,0.5454545454545454,>=32
+cnn_41.png,Saliency via occlusion,espcn-iam,32,Sotlany as actaon,0.6363636363636364,>=32
+cnn_41.png,Saliency via occlusion,espcn-board,32,Solarry as actoion,0.5909090909090909,>=32
+cnn_42.png,CNN Architecture,none,29,CMN Achtectoren,0.3125,24-32
+cnn_42.png,CNN Architecture,bicubic+sharpen,29,CW Achitecteren,0.3125,24-32
+cnn_42.png,CNN Architecture,espcn,29,CUN Achtectore,0.25,24-32
+cnn_42.png,CNN Architecture,espcn-iam,29,CUN Achtectore,0.25,24-32
+cnn_42.png,CNN Architecture,espcn-board,29,CUN Achtecticen,0.375,24-32
+cnn_42.png,"LeNet, Alexnet, Resnet",none,25,"lome, Ribout, Revnet",0.45454545454545453,24-32
+cnn_42.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,25,"loe Riset, Renet",0.45454545454545453,24-32
+cnn_42.png,"LeNet, Alexnet, Resnet",espcn,25,"Lomet Reet,Renet",0.4090909090909091,24-32
+cnn_42.png,"LeNet, Alexnet, Resnet",espcn-iam,25,"Liet Reoe,Renct",0.5,24-32
+cnn_42.png,"LeNet, Alexnet, Resnet",espcn-board,25,"Liket, Ritsect, Renet",0.4090909090909091,24-32
+cnn_42.png,"Dropout, Batch Normalization",none,22,"Dight, bentd bormlontion",0.5,20-24
+cnn_42.png,"Dropout, Batch Normalization",bicubic+sharpen,22,"Bight, hete bomlontin",0.6071428571428571,20-24
+cnn_42.png,"Dropout, Batch Normalization",espcn,22,"Dnget, hned bomolontion",0.5714285714285714,20-24
+cnn_42.png,"Dropout, Batch Normalization",espcn-iam,22,"ingat, hose bomeintion",0.6071428571428571,20-24
+cnn_42.png,"Dropout, Batch Normalization",espcn-board,22,"ingat, hets bomalsotie",0.6071428571428571,20-24
+cnn_42.png,Visualising CNN,none,25,DISQUALIFIED,0.6,24-32
+cnn_42.png,Visualising CNN,bicubic+sharpen,25,DISQUALIFIED,0.6,24-32
+cnn_42.png,Visualising CNN,espcn,25,DISQUALIFIED,0.6,24-32
+cnn_42.png,Visualising CNN,espcn-iam,25,DISQUALIFIED,0.6,24-32
+cnn_42.png,Visualising CNN,espcn-board,25,DISQUALIFIED,0.6,24-32
+cnn_42.png,Visualise filter & output,none,25,DISQUALIFIED,0.68,24-32
+cnn_42.png,Visualise filter & output,bicubic+sharpen,25,valie bobe loger,0.64,24-32
+cnn_42.png,Visualise filter & output,espcn,25,DISQUALIFIED,0.68,24-32
+cnn_42.png,Visualise filter & output,espcn-iam,25,DISQUALIFIED,0.68,24-32
+cnn_42.png,Visualise filter & output,espcn-board,25,DISQUALIFIED,0.68,24-32
+cnn_42.png,Visualise feature layer,none,28,vanlie tobe lager,0.4782608695652174,24-32
+cnn_42.png,Visualise feature layer,bicubic+sharpen,28,valie bobe loger,0.5217391304347826,24-32
+cnn_42.png,Visualise feature layer,espcn,28,ralie bobe lager,0.5217391304347826,24-32
+cnn_42.png,Visualise feature layer,espcn-iam,28,DISQUALIFIED,0.6956521739130435,24-32
+cnn_42.png,Visualise feature layer,espcn-board,28,vsale tove lager,0.43478260869565216,24-32
+cnn_42.png,Saliency via occlusion,none,28,Selacy ivs adluesion,0.5,24-32
+cnn_42.png,Saliency via occlusion,bicubic+sharpen,28,Seteany en adbirion,0.6363636363636364,24-32
+cnn_42.png,Saliency via occlusion,espcn,28,Sitleny en adiron,0.6363636363636364,24-32
+cnn_42.png,Saliency via occlusion,espcn-iam,28,Siy adrion,0.6363636363636364,24-32
+cnn_42.png,Saliency via occlusion,espcn-board,28,Sitenay n acdron,0.5909090909090909,24-32
+cnn_48.png,CNN Architecture,none,37,CMN Achitecture,0.125,>=32
+cnn_48.png,CNN Architecture,bicubic+sharpen,37,CNN Achitecture,0.0625,>=32
+cnn_48.png,CNN Architecture,espcn,37,CNN Achitecture,0.0625,>=32
+cnn_48.png,CNN Architecture,espcn-iam,37,CMN Arhitecture,0.125,>=32
+cnn_48.png,CNN Architecture,espcn-board,37,CMN Achitecture,0.125,>=32
+cnn_48.png,"LeNet, Alexnet, Resnet",none,30,"Levet, Akxat, Resat",0.3181818181818182,24-32
+cnn_48.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,30,"Livet, Akxat, Resat",0.36363636363636365,24-32
+cnn_48.png,"LeNet, Alexnet, Resnet",espcn,30,"Levet, Akxat, Resat",0.3181818181818182,24-32
+cnn_48.png,"LeNet, Alexnet, Resnet",espcn-iam,30,"Livet, Akxat, Resat",0.36363636363636365,24-32
+cnn_48.png,"LeNet, Alexnet, Resnet",espcn-board,30,"Levet, Akxoat, Resat",0.3181818181818182,24-32
+cnn_48.png,"Dropout, Batch Normalization",none,25,"Dropat, Bit Nomlistion",0.32142857142857145,24-32
+cnn_48.png,"Dropout, Batch Normalization",bicubic+sharpen,25,"Dropat, Bath Normlition",0.21428571428571427,24-32
+cnn_48.png,"Dropout, Batch Normalization",espcn,25,"Dropact, at Hormliotion",0.32142857142857145,24-32
+cnn_48.png,"Dropout, Batch Normalization",espcn-iam,25,"Dropaut, Dats Hormlaction",0.32142857142857145,24-32
+cnn_48.png,"Dropout, Batch Normalization",espcn-board,25,"Dropiut, Bath Normection",0.25,24-32
+cnn_48.png,Visualising CNN,none,36,Visudlising CrIN,0.2,>=32
+cnn_48.png,Visualising CNN,bicubic+sharpen,36,Visudising CrIN,0.26666666666666666,>=32
+cnn_48.png,Visualising CNN,espcn,36,Visudlising CIN,0.13333333333333333,>=32
+cnn_48.png,Visualising CNN,espcn-iam,36,Visadiong CruN,0.4,>=32
+cnn_48.png,Visualising CNN,espcn-board,36,Visudlising CrIN,0.2,>=32
+cnn_48.png,Visualise filter & output,none,31,Visvalie filter S utat,0.24,24-32
+cnn_48.png,Visualise filter & output,bicubic+sharpen,31,Visvalie filter S utpant,0.24,24-32
+cnn_48.png,Visualise filter & output,espcn,31,Visvalie filter S Sutpant,0.24,24-32
+cnn_48.png,Visualise filter & output,espcn-iam,31,Visvalie filtr S otat,0.28,24-32
+cnn_48.png,Visualise filter & output,espcn-board,31,Visvelie filer S outpat,0.24,24-32
+cnn_48.png,Visualise feature layer,none,29,Visulize troture layer,0.21739130434782608,24-32
+cnn_48.png,Visualise feature layer,bicubic+sharpen,29,Visulite tritire layer,0.2608695652173913,24-32
+cnn_48.png,Visualise feature layer,espcn,29,Vislize troture lager,0.30434782608695654,24-32
+cnn_48.png,Visualise feature layer,espcn-iam,29,Visalite triture lager,0.2608695652173913,24-32
+cnn_48.png,Visualise feature layer,espcn-board,29,Vislice troture layer,0.2608695652173913,24-32
+cnn_48.png,Saliency via occlusion,none,31,Splacy ria acluson,0.36363636363636365,24-32
+cnn_48.png,Saliency via occlusion,bicubic+sharpen,31,Splancy nia aclsion,0.3181818181818182,24-32
+cnn_48.png,Saliency via occlusion,espcn,31,Splancy ria aclusion,0.2727272727272727,24-32
+cnn_48.png,Saliency via occlusion,espcn-iam,31,Splancy na aclusson,0.36363636363636365,24-32
+cnn_48.png,Saliency via occlusion,espcn-board,31,Splancy nia aclusion,0.2727272727272727,24-32
+cnn_49.png,CNN Architecture,none,38,CMN Achitecture,0.125,>=32
+cnn_49.png,CNN Architecture,bicubic+sharpen,38,CMN Achitecture,0.125,>=32
+cnn_49.png,CNN Architecture,espcn,38,CMN Arhitecture,0.125,>=32
+cnn_49.png,CNN Architecture,espcn-iam,38,CMN Achitecture,0.125,>=32
+cnn_49.png,CNN Architecture,espcn-board,38,CMV Achitecture,0.1875,>=32
+cnn_49.png,"LeNet, Alexnet, Resnet",none,29,"Levet, Bkxnet, Resnat",0.22727272727272727,24-32
+cnn_49.png,"LeNet, Alexnet, Resnet",bicubic+sharpen,29,"Levet, Bexnet, Resnat",0.18181818181818182,24-32
+cnn_49.png,"LeNet, Alexnet, Resnet",espcn,29,"Levet, Bexunet, Resnat",0.22727272727272727,24-32
+cnn_49.png,"LeNet, Alexnet, Resnet",espcn-iam,29,"Levet Akxenet, Resnat",0.2727272727272727,24-32
+cnn_49.png,"LeNet, Alexnet, Resnet",espcn-board,29,"Levet, Bkxnt, Resnat",0.2727272727272727,24-32
+cnn_49.png,"Dropout, Batch Normalization",none,25,"Drapout, Beth Nomition",0.2857142857142857,24-32
+cnn_49.png,"Dropout, Batch Normalization",bicubic+sharpen,25,"Dropout, Beth Nomition",0.25,24-32
+cnn_49.png,"Dropout, Batch Normalization",espcn,25,"Dropout, Beth Nomition",0.25,24-32
+cnn_49.png,"Dropout, Batch Normalization",espcn-iam,25,"Dropaut, Beth Hormlaction",0.2857142857142857,24-32
+cnn_49.png,"Dropout, Batch Normalization",espcn-board,25,"Drapout, Beth Womiotion",0.32142857142857145,24-32
+cnn_49.png,Visualising CNN,none,33,Visvalising CNN,0.06666666666666667,>=32
+cnn_49.png,Visualising CNN,bicubic+sharpen,33,Visualising CnN,0.0,>=32
+cnn_49.png,Visualising CNN,espcn,33,VisualisingCIN,0.13333333333333333,>=32
+cnn_49.png,Visualising CNN,espcn-iam,33,Visualing cnn,0.13333333333333333,>=32
+cnn_49.png,Visualising CNN,espcn-board,33,Visvelising onn,0.2,>=32
+cnn_49.png,Visualise filter & output,none,31,Visralize filter  outpat,0.16,24-32
+cnn_49.png,Visualise filter & output,bicubic+sharpen,31,Visalize filter  outpat,0.16,24-32
+cnn_49.png,Visualise filter & output,espcn,31,Visaliz filter Soutpat,0.24,24-32
+cnn_49.png,Visualise filter & output,espcn-iam,31,Visaliz filleroutpat,0.32,24-32
+cnn_49.png,Visualise filter & output,espcn-board,31,Visrolie filter outpat,0.24,24-32
+cnn_49.png,Visualise feature layer,none,31,Visulize testire layer,0.21739130434782608,24-32
+cnn_49.png,Visualise feature layer,bicubic+sharpen,31,Visuline teture layer,0.17391304347826086,24-32
+cnn_49.png,Visualise feature layer,espcn,31,Visuline testure layer,0.17391304347826086,24-32
+cnn_49.png,Visualise feature layer,espcn-iam,31,Visaline fuature layer,0.13043478260869565,24-32
+cnn_49.png,Visualise feature layer,espcn-board,31,Visuline feature layer,0.08695652173913043,24-32
+cnn_49.png,Saliency via occlusion,none,30,Solancy ria ocdusion,0.2727272727272727,24-32
+cnn_49.png,Saliency via occlusion,bicubic+sharpen,30,Solany ria adusion,0.4090909090909091,24-32
+cnn_49.png,Saliency via occlusion,espcn,30,Solancy ria adusion,0.36363636363636365,24-32
+cnn_49.png,Saliency via occlusion,espcn-iam,30,Selancy ria adution,0.4090909090909091,24-32
+cnn_49.png,Saliency via occlusion,espcn-board,30,Solancy nia aclusion,0.2727272727272727,24-32
+quiz_08.png,The quiz today is,none,98,The quiz today,0.17647058823529413,>=32
+quiz_08.png,The quiz today is,bicubic+sharpen,98,The quiz today,0.17647058823529413,>=32
+quiz_08.png,The quiz today is,espcn,98,The quiz today,0.17647058823529413,>=32
+quiz_08.png,The quiz today is,espcn-iam,98,The quiz today,0.17647058823529413,>=32
+quiz_08.png,The quiz today is,espcn-board,98,The quiz today,0.17647058823529413,>=32
+quiz_08.png,so hard.,none,71,so hard.,0.0,>=32
+quiz_08.png,so hard.,bicubic+sharpen,71,so hard.,0.0,>=32
+quiz_08.png,so hard.,espcn,71,so hard.,0.0,>=32
+quiz_08.png,so hard.,espcn-iam,71,so hard.,0.0,>=32
+quiz_08.png,so hard.,espcn-board,71,so hard.,0.0,>=32
+quiz_08.png,[Please set the computer,none,81,Please set the computer,0.041666666666666664,>=32
+quiz_08.png,[Please set the computer,bicubic+sharpen,81,Please set the computer,0.041666666666666664,>=32
+quiz_08.png,[Please set the computer,espcn,81,Please set the computer,0.041666666666666664,>=32
+quiz_08.png,[Please set the computer,espcn-iam,81,Please set the computer,0.041666666666666664,>=32
+quiz_08.png,[Please set the computer,espcn-board,81,Please set the computer,0.041666666666666664,>=32
+quiz_08.png,vision easier please!!],none,44,Vision easier,0.43478260869565216,>=32
+quiz_08.png,vision easier please!!],bicubic+sharpen,44,Vision easier,0.43478260869565216,>=32
+quiz_08.png,vision easier please!!],espcn,44,Vision easier,0.43478260869565216,>=32
+quiz_08.png,vision easier please!!],espcn-iam,44,Vision easier,0.43478260869565216,>=32
+quiz_08.png,vision easier please!!],espcn-board,44,Vision easier,0.43478260869565216,>=32
+quiz_08.png,"more mcq and matching,",none,134,"more meq and matching,",0.045454545454545456,>=32
+quiz_08.png,"more mcq and matching,",bicubic+sharpen,134,"more meq and matching,",0.045454545454545456,>=32
+quiz_08.png,"more mcq and matching,",espcn,134,"more meq and matching,",0.045454545454545456,>=32
+quiz_08.png,"more mcq and matching,",espcn-iam,134,"more meq and matching,",0.045454545454545456,>=32
+quiz_08.png,"more mcq and matching,",espcn-board,134,"more meq and matching,",0.045454545454545456,>=32
+quiz_08.png,<50% of the question,none,75,<50% of the question,0.0,>=32
+quiz_08.png,<50% of the question,bicubic+sharpen,75,<50% of the question,0.0,>=32
+quiz_08.png,<50% of the question,espcn,75,<50% of the question,0.0,>=32
+quiz_08.png,<50% of the question,espcn-iam,75,<50% of the question,0.0,>=32
+quiz_08.png,<50% of the question,espcn-board,75,<50% of the question,0.0,>=32
+quiz_09.png,The quiz today is,none,98,The quiz today,0.17647058823529413,>=32
+quiz_09.png,The quiz today is,bicubic+sharpen,98,The quiz today,0.17647058823529413,>=32
+quiz_09.png,The quiz today is,espcn,98,The quiz today,0.17647058823529413,>=32
+quiz_09.png,The quiz today is,espcn-iam,98,The quiz today,0.17647058823529413,>=32
+quiz_09.png,The quiz today is,espcn-board,98,The quiz today,0.17647058823529413,>=32
+quiz_09.png,so hard.,none,71,so hard.,0.0,>=32
+quiz_09.png,so hard.,bicubic+sharpen,71,so hard.,0.0,>=32
+quiz_09.png,so hard.,espcn,71,so hard.,0.0,>=32
+quiz_09.png,so hard.,espcn-iam,71,so hard.,0.0,>=32
+quiz_09.png,so hard.,espcn-board,71,so hard.,0.0,>=32
+quiz_09.png,[Please set the computer,none,87,Please set the computer,0.041666666666666664,>=32
+quiz_09.png,[Please set the computer,bicubic+sharpen,87,Please set the computer,0.041666666666666664,>=32
+quiz_09.png,[Please set the computer,espcn,87,Please set the computer,0.041666666666666664,>=32
+quiz_09.png,[Please set the computer,espcn-iam,87,Please set the computer,0.041666666666666664,>=32
+quiz_09.png,[Please set the computer,espcn-board,87,Please set the computer,0.041666666666666664,>=32
+quiz_09.png,vision easier please!!],none,43,Vision easier,0.43478260869565216,>=32
+quiz_09.png,vision easier please!!],bicubic+sharpen,43,Vision easier,0.43478260869565216,>=32
+quiz_09.png,vision easier please!!],espcn,43,Vision easier,0.43478260869565216,>=32
+quiz_09.png,vision easier please!!],espcn-iam,43,vision easier,0.43478260869565216,>=32
+quiz_09.png,vision easier please!!],espcn-board,43,Vision easier,0.43478260869565216,>=32
+quiz_09.png,"more mcq and matching,",none,138,"more mcq and matching,",0.0,>=32
+quiz_09.png,"more mcq and matching,",bicubic+sharpen,138,"more mcq and matching,",0.0,>=32
+quiz_09.png,"more mcq and matching,",espcn,138,"more mcq and matching,",0.0,>=32
+quiz_09.png,"more mcq and matching,",espcn-iam,138,"more mcq and matching,",0.0,>=32
+quiz_09.png,"more mcq and matching,",espcn-board,138,"more mcq and matching,",0.0,>=32
+quiz_09.png,<50% of the question,none,78,<50% of the question,0.0,>=32
+quiz_09.png,<50% of the question,bicubic+sharpen,78,<50% of the question,0.0,>=32
+quiz_09.png,<50% of the question,espcn,78,<50% of the question,0.0,>=32
+quiz_09.png,<50% of the question,espcn-iam,78,<50% of the question,0.0,>=32
+quiz_09.png,<50% of the question,espcn-board,78,<50% of the question,0.0,>=32
+quiz_10.png,The quiz today is,none,101,The quiz today is,0.0,>=32
+quiz_10.png,The quiz today is,bicubic+sharpen,101,The quiz today is,0.0,>=32
+quiz_10.png,The quiz today is,espcn,101,The quiz today is,0.0,>=32
+quiz_10.png,The quiz today is,espcn-iam,101,The quiz today is,0.0,>=32
+quiz_10.png,The quiz today is,espcn-board,101,The quiz today is,0.0,>=32
+quiz_10.png,so hard.,none,71,so hard.,0.0,>=32
+quiz_10.png,so hard.,bicubic+sharpen,71,so hard.,0.0,>=32
+quiz_10.png,so hard.,espcn,71,so hard.,0.0,>=32
+quiz_10.png,so hard.,espcn-iam,71,so hard.,0.0,>=32
+quiz_10.png,so hard.,espcn-board,71,so hard.,0.0,>=32
+quiz_10.png,[Please set the computer,none,84,Please set the computer,0.041666666666666664,>=32
+quiz_10.png,[Please set the computer,bicubic+sharpen,84,Please set the computer,0.041666666666666664,>=32
+quiz_10.png,[Please set the computer,espcn,84,Please set the computer,0.041666666666666664,>=32
+quiz_10.png,[Please set the computer,espcn-iam,84,Please set the computer,0.041666666666666664,>=32
+quiz_10.png,[Please set the computer,espcn-board,84,Please set the computer,0.041666666666666664,>=32
+quiz_10.png,vision easier please!!],none,46,vision easier,0.43478260869565216,>=32
+quiz_10.png,vision easier please!!],bicubic+sharpen,46,vision easier,0.43478260869565216,>=32
+quiz_10.png,vision easier please!!],espcn,46,Vision easier,0.43478260869565216,>=32
+quiz_10.png,vision easier please!!],espcn-iam,46,vision easier,0.43478260869565216,>=32
+quiz_10.png,vision easier please!!],espcn-board,46,Vision easier,0.43478260869565216,>=32
+quiz_10.png,"more mcq and matching,",none,138,"moe mcq and matching,",0.045454545454545456,>=32
+quiz_10.png,"more mcq and matching,",bicubic+sharpen,138,"moe mcq and matching,",0.045454545454545456,>=32
+quiz_10.png,"more mcq and matching,",espcn,138,"moe mcq and matching,",0.045454545454545456,>=32
+quiz_10.png,"more mcq and matching,",espcn-iam,138,"moe mcq and matching,",0.045454545454545456,>=32
+quiz_10.png,"more mcq and matching,",espcn-board,138,"moe mcq and matching,",0.045454545454545456,>=32
+quiz_10.png,<50% of the question,none,78,<50% of the question,0.0,>=32
+quiz_10.png,<50% of the question,bicubic+sharpen,78,<50% of the question,0.0,>=32
+quiz_10.png,<50% of the question,espcn,78,<50% of the question,0.0,>=32
+quiz_10.png,<50% of the question,espcn-iam,78,<50% of the question,0.0,>=32
+quiz_10.png,<50% of the question,espcn-board,78,<50% of the question,0.0,>=32
+quiz_11.png,The quiz today is,none,107,The quiz today is,0.0,>=32
+quiz_11.png,The quiz today is,bicubic+sharpen,107,The quiz today is,0.0,>=32
+quiz_11.png,The quiz today is,espcn,107,The quiz today is,0.0,>=32
+quiz_11.png,The quiz today is,espcn-iam,107,The quiz today is,0.0,>=32
+quiz_11.png,The quiz today is,espcn-board,107,The quiz today is,0.0,>=32
+quiz_11.png,so hard.,none,75,so hard.,0.0,>=32
+quiz_11.png,so hard.,bicubic+sharpen,75,so hard.,0.0,>=32
+quiz_11.png,so hard.,espcn,75,so hard.,0.0,>=32
+quiz_11.png,so hard.,espcn-iam,75,so hard.,0.0,>=32
+quiz_11.png,so hard.,espcn-board,75,so hard.,0.0,>=32
+quiz_11.png,[Please set the computer,none,92,Please set the computer,0.041666666666666664,>=32
+quiz_11.png,[Please set the computer,bicubic+sharpen,92,Please set the computer,0.041666666666666664,>=32
+quiz_11.png,[Please set the computer,espcn,92,Please set the computer,0.041666666666666664,>=32
+quiz_11.png,[Please set the computer,espcn-iam,92,Please set the computer,0.041666666666666664,>=32
+quiz_11.png,[Please set the computer,espcn-board,92,Please set the computer,0.041666666666666664,>=32
+quiz_11.png,vision easier please!!],none,44,Vision easier,0.43478260869565216,>=32
+quiz_11.png,vision easier please!!],bicubic+sharpen,44,vision easier,0.43478260869565216,>=32
+quiz_11.png,vision easier please!!],espcn,44,Vision easier,0.43478260869565216,>=32
+quiz_11.png,vision easier please!!],espcn-iam,44,vision easier,0.43478260869565216,>=32
+quiz_11.png,vision easier please!!],espcn-board,44,Vision easier,0.43478260869565216,>=32
+quiz_11.png,"more mcq and matching,",none,129,"moe mcq and matching,",0.045454545454545456,>=32
+quiz_11.png,"more mcq and matching,",bicubic+sharpen,129,"moe mcq and matching,",0.045454545454545456,>=32
+quiz_11.png,"more mcq and matching,",espcn,129,"moe mcq and matching,",0.045454545454545456,>=32
+quiz_11.png,"more mcq and matching,",espcn-iam,129,"moe mcq and matching,",0.045454545454545456,>=32
+quiz_11.png,"more mcq and matching,",espcn-board,129,"moe mcq and matching,",0.045454545454545456,>=32
+quiz_11.png,<50% of the question,none,81,<50% of the question,0.0,>=32
+quiz_11.png,<50% of the question,bicubic+sharpen,81,<50% of the question,0.0,>=32
+quiz_11.png,<50% of the question,espcn,81,<50% of the question,0.0,>=32
+quiz_11.png,<50% of the question,espcn-iam,81,<50% of the question,0.0,>=32
+quiz_11.png,<50% of the question,espcn-board,81,<50% of the question,0.0,>=32
+quiz_26.png,The quiz today is,none,54,Te gir kray is,0.4117647058823529,>=32
+quiz_26.png,The quiz today is,bicubic+sharpen,54,Te gir dray is,0.4117647058823529,>=32
+quiz_26.png,The quiz today is,espcn,54,Te gi2 ray is5,0.47058823529411764,>=32
+quiz_26.png,The quiz today is,espcn-iam,54,Tese ay is,0.5294117647058824,>=32
+quiz_26.png,The quiz today is,espcn-board,54,Tege ky is,0.5882352941176471,>=32
+quiz_26.png,so hard.,none,48,so ha,0.375,>=32
+quiz_26.png,so hard.,bicubic+sharpen,48,so ha,0.375,>=32
+quiz_26.png,so hard.,espcn,48,so ho,0.5,>=32
+quiz_26.png,so hard.,espcn-iam,48,so ho,0.5,>=32
+quiz_26.png,so hard.,espcn-board,48,so ho,0.5,>=32
+quiz_26.png,[Please set the computer,none,66,[Pfose sot thee carpy,0.4583333333333333,>=32
+quiz_26.png,[Please set the computer,bicubic+sharpen,66,[Pfose sot thee carpy,0.4583333333333333,>=32
+quiz_26.png,[Please set the computer,espcn,66,[Pfose sot thee carpy,0.4583333333333333,>=32
+quiz_26.png,[Please set the computer,espcn-iam,66,[Pfose sot thee carpy,0.4583333333333333,>=32
+quiz_26.png,[Please set the computer,espcn-board,66,[Pfose sot thee carpy,0.4583333333333333,>=32
+quiz_26.png,vision easier please!!],none,80,mion esor pesel!1],0.43478260869565216,>=32
+quiz_26.png,vision easier please!!],bicubic+sharpen,80,mion esor pesel!1],0.43478260869565216,>=32
+quiz_26.png,vision easier please!!],espcn,80,mion esor pesel!1],0.43478260869565216,>=32
+quiz_26.png,vision easier please!!],espcn-iam,80,mion esor pesel!1],0.43478260869565216,>=32
+quiz_26.png,vision easier please!!],espcn-board,80,mion esor pesel!1],0.43478260869565216,>=32
+quiz_26.png,"more mcq and matching,",none,19,after uss. Thank,0.7727272727272727,16-20
+quiz_26.png,"more mcq and matching,",bicubic+sharpen,19,Te gir dray is,0.7272727272727273,16-20
+quiz_26.png,"more mcq and matching,",espcn,19,after uss. Thank,0.7727272727272727,16-20
+quiz_26.png,"more mcq and matching,",espcn-iam,19,after uso. Thank,0.7727272727272727,16-20
+quiz_26.png,"more mcq and matching,",espcn-board,19,after usa. Thank,0.7272727272727273,16-20
+quiz_26.png,<50% of the question,none,80,<50% of the qu stion,0.05,>=32
+quiz_26.png,<50% of the question,bicubic+sharpen,80,<50% of the qu stion,0.05,>=32
+quiz_26.png,<50% of the question,espcn,80,<50% of the qu stion,0.05,>=32
+quiz_26.png,<50% of the question,espcn-iam,80,<50% of the qu stion,0.05,>=32
+quiz_26.png,<50% of the question,espcn-board,80,<50% of the qu stion,0.05,>=32

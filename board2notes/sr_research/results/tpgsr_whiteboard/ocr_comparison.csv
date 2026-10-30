@@ -1,0 +1,421 @@
+set,method,pair_id,photo,label,read,confidence,cer
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4515__IMG_4543__B3_L01_d268ce0b,IMG_4515,CNN Architecture,CMN Axchitecture,0.9185346364974976,0.125
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4525__IMG_4543__B3_L01_d81fdd82,IMG_4525,CNN Architecture,CMN Achitecture,0.9795840382575989,0.125
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4526__IMG_4543__B3_L01_1165703c,IMG_4526,CNN Architecture,CNN Achitecture,0.909049928188324,0.0625
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4527__IMG_4543__B3_L01_0ba4f0a2,IMG_4527,CNN Architecture,CNN Achitecture,0.9611206650733948,0.0625
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4528__IMG_4543__B3_L01_c7aaafda,IMG_4528,CNN Architecture,CMN Achitectire,0.9228094220161438,0.1875
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4534__IMG_4543__B3_L01_22e39e8e,IMG_4534,CNN Architecture,CMN Achitecture,0.936537504196167,0.125
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4546__IMG_4543__B3_L01_e820e6b2,IMG_4546,CNN Architecture,CMN Achitectre,0.9221609234809875,0.1875
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4565__IMG_4543__B3_L01_69497b37,IMG_4565,CNN Architecture,CNN Achitecture,0.9187524914741516,0.0625
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4515__IMG_4543__B3_L02_9ba28846,IMG_4515,"LeNet, Alexnet, Resnet","levet, Akxnat, Resnat",0.8775582909584045,0.22727272727272727
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4547__IMG_4539__B3_L07_3ad73522,IMG_4547,Saliency via occlusion,Solancy via ousian,0.8929988145828247,0.3181818181818182
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4565__IMG_4539__B3_L07_71328f8c,IMG_4565,Saliency via occlusion,Solacy nia occlusion,0.7795343399047852,0.22727272727272727
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4526__IMG_4543__B3_L06_a9931c56,IMG_4526,Visualise feature layer,Vismise festure layer,0.833899974822998,0.17391304347826086
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4546__IMG_4543__B3_L06_343fe2af,IMG_4546,Visualise feature layer,visatre festure lager,0.8907536268234253,0.2608695652173913
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4565__IMG_4543__B3_L06_d389c900,IMG_4565,Visualise feature layer,Vismise testure layer,0.873520016670227,0.21739130434782608
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4515__IMG_4543__B3_L05_641b1a53,IMG_4515,Visualise filter & output,Visvalise filter  output,0.9127049446105957,0.12
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4525__IMG_4543__B3_L05_c2f2dae1,IMG_4525,Visualise filter & output,Visvalize filter  output,0.9289541840553284,0.16
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4526__IMG_4543__B3_L05_7f0c1b94,IMG_4526,Visualise filter & output,Visualize filter I ootput,0.8532823324203491,0.12
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4546__IMG_4543__B3_L05_1484b726,IMG_4546,Visualise filter & output,Viswalize filter 8octat,0.8695831298828125,0.28
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4515__IMG_4543__B3_L04_86eb6baa,IMG_4515,Visualising CNN,Visualising cuN,0.8335479497909546,0.06666666666666667
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4523__IMG_4543__B3_L04_47b9b728,IMG_4523,Visualising CNN,Visualising CNN,0.8959013819694519,0.0
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4525__IMG_4543__B3_L04_3a7ac5a4,IMG_4525,Visualising CNN,Visualising CNN,0.8870469331741333,0.0
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4526__IMG_4543__B3_L04_871136a6,IMG_4526,Visualising CNN,Visalising cuw,0.8535420298576355,0.2
+"Airdrop B3 (unseen board, main test)",raw input,IMG_4546__IMG_4543__B3_L04_4c3f2c09,IMG_4546,Visualising CNN,Visulising cuw,0.8156524300575256,0.2
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4515__IMG_4543__B3_L01_d268ce0b,IMG_4515,CNN Architecture,CMN Axchitecture,0.9185346364974976,0.125
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4525__IMG_4543__B3_L01_d81fdd82,IMG_4525,CNN Architecture,CMN Achitecture,0.9795840382575989,0.125
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4526__IMG_4543__B3_L01_1165703c,IMG_4526,CNN Architecture,CNN Achitecture,0.909049928188324,0.0625
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4527__IMG_4543__B3_L01_0ba4f0a2,IMG_4527,CNN Architecture,CNN Achitecture,0.9611206650733948,0.0625
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4528__IMG_4543__B3_L01_c7aaafda,IMG_4528,CNN Architecture,CMN Achitectire,0.9228094220161438,0.1875
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4534__IMG_4543__B3_L01_22e39e8e,IMG_4534,CNN Architecture,CMN Achitecture,0.936537504196167,0.125
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4546__IMG_4543__B3_L01_e820e6b2,IMG_4546,CNN Architecture,CMN Achitectre,0.9221609234809875,0.1875
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4565__IMG_4543__B3_L01_69497b37,IMG_4565,CNN Architecture,CNN Achitecture,0.9187524914741516,0.0625
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4515__IMG_4543__B3_L02_9ba28846,IMG_4515,"LeNet, Alexnet, Resnet","Levet, Akxnat, Resnat",0.8896297216415405,0.22727272727272727
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4547__IMG_4539__B3_L07_3ad73522,IMG_4547,Saliency via occlusion,Solancy via ocusion,0.8602954745292664,0.22727272727272727
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4565__IMG_4539__B3_L07_71328f8c,IMG_4565,Saliency via occlusion,Solacy nia occlusior,0.7721601724624634,0.2727272727272727
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4526__IMG_4543__B3_L06_a9931c56,IMG_4526,Visualise feature layer,Vismbise festure layer,0.8405541777610779,0.17391304347826086
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4546__IMG_4543__B3_L06_343fe2af,IMG_4546,Visualise feature layer,visatre festure lager,0.8873474597930908,0.2608695652173913
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4565__IMG_4543__B3_L06_d389c900,IMG_4565,Visualise feature layer,Visuise trsture layer,0.8610482811927795,0.21739130434782608
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4515__IMG_4543__B3_L05_641b1a53,IMG_4515,Visualise filter & output,Visvalise filter  output,0.9127049446105957,0.12
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4525__IMG_4543__B3_L05_c2f2dae1,IMG_4525,Visualise filter & output,Visvalize filter  output,0.9289541840553284,0.16
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4526__IMG_4543__B3_L05_7f0c1b94,IMG_4526,Visualise filter & output,Visualize filter I ootput,0.8532823324203491,0.12
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4546__IMG_4543__B3_L05_1484b726,IMG_4546,Visualise filter & output,Viswalize filter 8octat,0.8695831298828125,0.28
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4515__IMG_4543__B3_L04_86eb6baa,IMG_4515,Visualising CNN,Visulising cuw,0.8692649006843567,0.2
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4523__IMG_4543__B3_L04_47b9b728,IMG_4523,Visualising CNN,Visualising CNN,0.8953813910484314,0.0
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4525__IMG_4543__B3_L04_3a7ac5a4,IMG_4525,Visualising CNN,Visualising CNN,0.8905980587005615,0.0
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4526__IMG_4543__B3_L04_871136a6,IMG_4526,Visualising CNN,Visualising cuw,0.8264901041984558,0.13333333333333333
+"Airdrop B3 (unseen board, main test)","16px path, no network",IMG_4546__IMG_4543__B3_L04_4c3f2c09,IMG_4546,Visualising CNN,Visulising cuw,0.8311118483543396,0.2
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4515__IMG_4543__B3_L01_d268ce0b,IMG_4515,CNN Architecture,CMN Axchitecture,0.9185346364974976,0.125
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4525__IMG_4543__B3_L01_d81fdd82,IMG_4525,CNN Architecture,CMN Achitecture,0.9795840382575989,0.125
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4526__IMG_4543__B3_L01_1165703c,IMG_4526,CNN Architecture,CNN Achitecture,0.909049928188324,0.0625
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4527__IMG_4543__B3_L01_0ba4f0a2,IMG_4527,CNN Architecture,CNN Achitecture,0.9611206650733948,0.0625
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4528__IMG_4543__B3_L01_c7aaafda,IMG_4528,CNN Architecture,CMN Achitectire,0.9228094220161438,0.1875
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4534__IMG_4543__B3_L01_22e39e8e,IMG_4534,CNN Architecture,CMN Achitecture,0.936537504196167,0.125
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4546__IMG_4543__B3_L01_e820e6b2,IMG_4546,CNN Architecture,CMN Achitectre,0.9221609234809875,0.1875
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4565__IMG_4543__B3_L01_69497b37,IMG_4565,CNN Architecture,CNN Achitecture,0.9187524914741516,0.0625
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4515__IMG_4543__B3_L02_9ba28846,IMG_4515,"LeNet, Alexnet, Resnet","Levet, Akxnet, Resrat",0.8992018103599548,0.22727272727272727
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4547__IMG_4539__B3_L07_3ad73522,IMG_4547,Saliency via occlusion,Solancy pia ocivsian,0.8080395460128784,0.36363636363636365
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4565__IMG_4539__B3_L07_71328f8c,IMG_4565,Saliency via occlusion,Solacy nia accivsior,0.7644302248954773,0.4090909090909091
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4526__IMG_4543__B3_L06_a9931c56,IMG_4526,Visualise feature layer,Visabire festure layer,0.8735523223876953,0.17391304347826086
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4546__IMG_4543__B3_L06_343fe2af,IMG_4546,Visualise feature layer,visatre festre layer,0.8944031596183777,0.2608695652173913
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4565__IMG_4543__B3_L06_d389c900,IMG_4565,Visualise feature layer,Vianice frsure layer,0.8588882684707642,0.30434782608695654
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4515__IMG_4543__B3_L05_641b1a53,IMG_4515,Visualise filter & output,Visvalise filter  output,0.9127049446105957,0.12
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4525__IMG_4543__B3_L05_c2f2dae1,IMG_4525,Visualise filter & output,Visvalize filter  output,0.9289541840553284,0.16
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4526__IMG_4543__B3_L05_7f0c1b94,IMG_4526,Visualise filter & output,Visualize filter I ootput,0.8532823324203491,0.12
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4546__IMG_4543__B3_L05_1484b726,IMG_4546,Visualise filter & output,Viswalize filter 8octat,0.8695831298828125,0.28
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4515__IMG_4543__B3_L04_86eb6baa,IMG_4515,Visualising CNN,Visulising cnw,0.875421941280365,0.13333333333333333
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4523__IMG_4543__B3_L04_47b9b728,IMG_4523,Visualising CNN,Visualising CNN,0.8712770938873291,0.0
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4525__IMG_4543__B3_L04_3a7ac5a4,IMG_4525,Visualising CNN,Visualising CNN,0.889630138874054,0.0
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4526__IMG_4543__B3_L04_871136a6,IMG_4526,Visualising CNN,Visalising crw,0.8562954664230347,0.2
+"Airdrop B3 (unseen board, main test)",TPGSR pretrained,IMG_4546__IMG_4543__B3_L04_4c3f2c09,IMG_4546,Visualising CNN,Visualising cuw,0.830296516418457,0.13333333333333333
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4515__IMG_4543__B3_L01_d268ce0b,IMG_4515,CNN Architecture,CMN Axchitecture,0.9185346364974976,0.125
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4525__IMG_4543__B3_L01_d81fdd82,IMG_4525,CNN Architecture,CMN Achitecture,0.9795840382575989,0.125
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4526__IMG_4543__B3_L01_1165703c,IMG_4526,CNN Architecture,CNN Achitecture,0.909049928188324,0.0625
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4527__IMG_4543__B3_L01_0ba4f0a2,IMG_4527,CNN Architecture,CNN Achitecture,0.9611206650733948,0.0625
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4528__IMG_4543__B3_L01_c7aaafda,IMG_4528,CNN Architecture,CMN Achitectire,0.9228094220161438,0.1875
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4534__IMG_4543__B3_L01_22e39e8e,IMG_4534,CNN Architecture,CMN Achitecture,0.936537504196167,0.125
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4546__IMG_4543__B3_L01_e820e6b2,IMG_4546,CNN Architecture,CMN Achitectre,0.9221609234809875,0.1875
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4565__IMG_4543__B3_L01_69497b37,IMG_4565,CNN Architecture,CNN Achitecture,0.9187524914741516,0.0625
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4515__IMG_4543__B3_L02_9ba28846,IMG_4515,"LeNet, Alexnet, Resnet","Levet, Akxnet, Resrat",0.8992018103599548,0.22727272727272727
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4547__IMG_4539__B3_L07_3ad73522,IMG_4547,Saliency via occlusion,Solancy pia ocivsian,0.8080395460128784,0.36363636363636365
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4565__IMG_4539__B3_L07_71328f8c,IMG_4565,Saliency via occlusion,Solacy nia accivsior,0.7644302248954773,0.4090909090909091
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4526__IMG_4543__B3_L06_a9931c56,IMG_4526,Visualise feature layer,Visabire festure layer,0.8735523223876953,0.17391304347826086
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4546__IMG_4543__B3_L06_343fe2af,IMG_4546,Visualise feature layer,visatre festre layer,0.8944031596183777,0.2608695652173913
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4565__IMG_4543__B3_L06_d389c900,IMG_4565,Visualise feature layer,Vianice frsure layer,0.8588882684707642,0.30434782608695654
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4515__IMG_4543__B3_L05_641b1a53,IMG_4515,Visualise filter & output,Visvalise filter  output,0.9127049446105957,0.12
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4525__IMG_4543__B3_L05_c2f2dae1,IMG_4525,Visualise filter & output,Visvalize filter  output,0.9289541840553284,0.16
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4526__IMG_4543__B3_L05_7f0c1b94,IMG_4526,Visualise filter & output,Visualize filter I ootput,0.8532823324203491,0.12
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4546__IMG_4543__B3_L05_1484b726,IMG_4546,Visualise filter & output,Viswalize filter 8octat,0.8695831298828125,0.28
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4515__IMG_4543__B3_L04_86eb6baa,IMG_4515,Visualising CNN,Visulising cnw,0.875421941280365,0.13333333333333333
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4523__IMG_4543__B3_L04_47b9b728,IMG_4523,Visualising CNN,Visualising CNN,0.8712770938873291,0.0
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4525__IMG_4543__B3_L04_3a7ac5a4,IMG_4525,Visualising CNN,Visualising CNN,0.889630138874054,0.0
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4526__IMG_4543__B3_L04_871136a6,IMG_4526,Visualising CNN,Visalising crw,0.8562954664230347,0.2
+"Airdrop B3 (unseen board, main test)",TPGSR fine-tuned,IMG_4546__IMG_4543__B3_L04_4c3f2c09,IMG_4546,Visualising CNN,Visualising cuw,0.830296516418457,0.13333333333333333
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4515__IMG_4543__B3_L01_d268ce0b,IMG_4515,CNN Architecture,CMN Arhitiativre,0.7862664461135864,0.375
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4525__IMG_4543__B3_L01_d81fdd82,IMG_4525,CNN Architecture,CMN Arhitictine,0.8316462635993958,0.3125
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4526__IMG_4543__B3_L01_1165703c,IMG_4526,CNN Architecture,CMN Arhitictivn,0.7851378917694092,0.375
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4527__IMG_4543__B3_L01_0ba4f0a2,IMG_4527,CNN Architecture,CNN Achitictivce,0.8196827173233032,0.3125
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4528__IMG_4543__B3_L01_c7aaafda,IMG_4528,CNN Architecture,CNN Achitectine,0.8263705372810364,0.1875
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4534__IMG_4543__B3_L01_22e39e8e,IMG_4534,CNN Architecture,CMN Achitesticn,0.8055897951126099,0.375
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4546__IMG_4543__B3_L01_e820e6b2,IMG_4546,CNN Architecture,CMV gchiticticn,0.7586839199066162,0.5
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4565__IMG_4543__B3_L01_69497b37,IMG_4565,CNN Architecture,CNN Arhitrctivn,0.7778453826904297,0.3125
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4515__IMG_4543__B3_L02_9ba28846,IMG_4515,"LeNet, Alexnet, Resnet","Levet, Akxnet, Resrat",0.8992018103599548,0.22727272727272727
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4547__IMG_4539__B3_L07_3ad73522,IMG_4547,Saliency via occlusion,Solancy pia ocivsian,0.8080395460128784,0.36363636363636365
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4565__IMG_4539__B3_L07_71328f8c,IMG_4565,Saliency via occlusion,Solacy nia accivsior,0.7644302248954773,0.4090909090909091
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4526__IMG_4543__B3_L06_a9931c56,IMG_4526,Visualise feature layer,Visabire festure layer,0.8735523223876953,0.17391304347826086
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4546__IMG_4543__B3_L06_343fe2af,IMG_4546,Visualise feature layer,visatre festre layer,0.8944031596183777,0.2608695652173913
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4565__IMG_4543__B3_L06_d389c900,IMG_4565,Visualise feature layer,Vianice frsure layer,0.8588882684707642,0.30434782608695654
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4515__IMG_4543__B3_L05_641b1a53,IMG_4515,Visualise filter & output,Visvalise filteroutpat,0.913408637046814,0.2
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4525__IMG_4543__B3_L05_c2f2dae1,IMG_4525,Visualise filter & output,Visvalise filteroutpat,0.9172664880752563,0.2
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4526__IMG_4543__B3_L05_7f0c1b94,IMG_4526,Visualise filter & output,Visumalice filter output,0.8248311877250671,0.16
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4546__IMG_4543__B3_L05_1484b726,IMG_4546,Visualise filter & output,Visualise filteroutpat,0.9193645715713501,0.16
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4515__IMG_4543__B3_L04_86eb6baa,IMG_4515,Visualising CNN,Visulising cnw,0.875421941280365,0.13333333333333333
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4523__IMG_4543__B3_L04_47b9b728,IMG_4523,Visualising CNN,Visualising CNN,0.8712770938873291,0.0
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4525__IMG_4543__B3_L04_3a7ac5a4,IMG_4525,Visualising CNN,Visualising CNN,0.889630138874054,0.0
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4526__IMG_4543__B3_L04_871136a6,IMG_4526,Visualising CNN,Visalising crw,0.8562954664230347,0.2
+"Airdrop B3 (unseen board, main test)","TPGSR fine-tuned, every word",IMG_4546__IMG_4543__B3_L04_4c3f2c09,IMG_4546,Visualising CNN,Visualising cuw,0.830296516418457,0.13333333333333333
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4515__IMG_4543__B3_L01_d268ce0b,IMG_4515,CNN Architecture,CMN Axchitecture,0.9185346364974976,0.125
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4525__IMG_4543__B3_L01_d81fdd82,IMG_4525,CNN Architecture,CMN Achitecture,0.9795840382575989,0.125
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4526__IMG_4543__B3_L01_1165703c,IMG_4526,CNN Architecture,CNN Achitecture,0.909049928188324,0.0625
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4527__IMG_4543__B3_L01_0ba4f0a2,IMG_4527,CNN Architecture,CNN Achitecture,0.9611206650733948,0.0625
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4528__IMG_4543__B3_L01_c7aaafda,IMG_4528,CNN Architecture,CMN Achitectire,0.9228094220161438,0.1875
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4534__IMG_4543__B3_L01_22e39e8e,IMG_4534,CNN Architecture,CMN Achitecture,0.936537504196167,0.125
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4546__IMG_4543__B3_L01_e820e6b2,IMG_4546,CNN Architecture,CMN Achitectre,0.9221609234809875,0.1875
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4565__IMG_4543__B3_L01_69497b37,IMG_4565,CNN Architecture,CNN Achitecture,0.9187524914741516,0.0625
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4515__IMG_4543__B3_L02_9ba28846,IMG_4515,"LeNet, Alexnet, Resnet","Levet, Akxnat, Resnet",0.8902402520179749,0.18181818181818182
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4547__IMG_4539__B3_L07_3ad73522,IMG_4547,Saliency via occlusion,Solancy via occusion,0.8353975415229797,0.18181818181818182
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4565__IMG_4539__B3_L07_71328f8c,IMG_4565,Saliency via occlusion,Solacy nia aclusior,0.8085488677024841,0.36363636363636365
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4526__IMG_4543__B3_L06_a9931c56,IMG_4526,Visualise feature layer,Viswobire festure layer,0.8918484449386597,0.21739130434782608
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4546__IMG_4543__B3_L06_343fe2af,IMG_4546,Visualise feature layer,visatire festure layer,0.8707179427146912,0.17391304347826086
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4565__IMG_4543__B3_L06_d389c900,IMG_4565,Visualise feature layer,Vismice testure layer,0.8577707409858704,0.2608695652173913
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4515__IMG_4543__B3_L05_641b1a53,IMG_4515,Visualise filter & output,Visvalise filter  output,0.9127049446105957,0.12
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4525__IMG_4543__B3_L05_c2f2dae1,IMG_4525,Visualise filter & output,Visvalize filter  output,0.9289541840553284,0.16
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4526__IMG_4543__B3_L05_7f0c1b94,IMG_4526,Visualise filter & output,Visualize filter I ootput,0.8532823324203491,0.12
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4546__IMG_4543__B3_L05_1484b726,IMG_4546,Visualise filter & output,Viswalize filter 8octat,0.8695831298828125,0.28
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4515__IMG_4543__B3_L04_86eb6baa,IMG_4515,Visualising CNN,Visulising cuw,0.8372336030006409,0.2
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4523__IMG_4543__B3_L04_47b9b728,IMG_4523,Visualising CNN,Visualising CNN,0.8869226574897766,0.0
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4525__IMG_4543__B3_L04_3a7ac5a4,IMG_4525,Visualising CNN,Visualising CNN,0.8906548023223877,0.0
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4526__IMG_4543__B3_L04_871136a6,IMG_4526,Visualising CNN,Visalising cuw,0.8550442457199097,0.2
+"Airdrop B3 (unseen board, main test)",blend (alpha 0.3),IMG_4546__IMG_4543__B3_L04_4c3f2c09,IMG_4546,Visualising CNN,Visualing cuw,0.8219238519668579,0.26666666666666666
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4515__IMG_4543__B3_L01_d268ce0b,IMG_4515,CNN Architecture,CMN Axchitecture,0.9185346364974976,0.125
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4525__IMG_4543__B3_L01_d81fdd82,IMG_4525,CNN Architecture,CMN Achitecture,0.9795840382575989,0.125
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4526__IMG_4543__B3_L01_1165703c,IMG_4526,CNN Architecture,CNN Achitecture,0.909049928188324,0.0625
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4527__IMG_4543__B3_L01_0ba4f0a2,IMG_4527,CNN Architecture,CNN Achitecture,0.9611206650733948,0.0625
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4528__IMG_4543__B3_L01_c7aaafda,IMG_4528,CNN Architecture,CMN Achitectire,0.9228094220161438,0.1875
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4534__IMG_4543__B3_L01_22e39e8e,IMG_4534,CNN Architecture,CMN Achitecture,0.936537504196167,0.125
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4546__IMG_4543__B3_L01_e820e6b2,IMG_4546,CNN Architecture,CMN Achitectre,0.9221609234809875,0.1875
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4565__IMG_4543__B3_L01_69497b37,IMG_4565,CNN Architecture,CNN Achitecture,0.9187524914741516,0.0625
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4515__IMG_4543__B3_L02_9ba28846,IMG_4515,"LeNet, Alexnet, Resnet","Levet, Akxnat, Resnet",0.8902402520179749,0.18181818181818182
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4547__IMG_4539__B3_L07_3ad73522,IMG_4547,Saliency via occlusion,Solancy via ousian,0.8929988145828247,0.3181818181818182
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4565__IMG_4539__B3_L07_71328f8c,IMG_4565,Saliency via occlusion,Solacy nia aclusior,0.8085488677024841,0.36363636363636365
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4526__IMG_4543__B3_L06_a9931c56,IMG_4526,Visualise feature layer,Viswobire festure layer,0.8918484449386597,0.21739130434782608
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4546__IMG_4543__B3_L06_343fe2af,IMG_4546,Visualise feature layer,visatre festure lager,0.8907536268234253,0.2608695652173913
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4565__IMG_4543__B3_L06_d389c900,IMG_4565,Visualise feature layer,Vismise testure layer,0.873520016670227,0.21739130434782608
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4515__IMG_4543__B3_L05_641b1a53,IMG_4515,Visualise filter & output,Visvalise filter  output,0.9127049446105957,0.12
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4525__IMG_4543__B3_L05_c2f2dae1,IMG_4525,Visualise filter & output,Visvalize filter  output,0.9289541840553284,0.16
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4526__IMG_4543__B3_L05_7f0c1b94,IMG_4526,Visualise filter & output,Visualize filter I ootput,0.8532823324203491,0.12
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4546__IMG_4543__B3_L05_1484b726,IMG_4546,Visualise filter & output,Viswalize filter 8octat,0.8695831298828125,0.28
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4515__IMG_4543__B3_L04_86eb6baa,IMG_4515,Visualising CNN,Visulising cuw,0.8372336030006409,0.2
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4523__IMG_4543__B3_L04_47b9b728,IMG_4523,Visualising CNN,Visualising CNN,0.8959013819694519,0.0
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4525__IMG_4543__B3_L04_3a7ac5a4,IMG_4525,Visualising CNN,Visualising CNN,0.8906548023223877,0.0
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4526__IMG_4543__B3_L04_871136a6,IMG_4526,Visualising CNN,Visalising cuw,0.8550442457199097,0.2
+"Airdrop B3 (unseen board, main test)",gate (margin 0.0),IMG_4546__IMG_4543__B3_L04_4c3f2c09,IMG_4546,Visualising CNN,Visualing cuw,0.8219238519668579,0.26666666666666666
+17 Oct held-out photos,raw input,IMG_4697__IMG_4681__L01_81447fde84,IMG_4697,What is deep learning,Whot is cdao haing.,0.6753341555595398,0.47619047619047616
+17 Oct held-out photos,raw input,IMG_4697__IMG_4681__L02_36fe5b4df3,IMG_4697,1. Take a neural network, Take a neural network,0.9424415826797485,0.125
+17 Oct held-out photos,raw input,IMG_4697__IMG_4681__L04_9d3792f7c2,IMG_4697,by weights and biases,by woaghts an bravses,0.7828779816627502,0.23809523809523808
+17 Oct held-out photos,raw input,IMG_4697__IMG_4691__L05_c930c26fef,IMG_4697,Complex cells respond to light orientation and movement.,[AE,0.36204254627227783,0.9642857142857143
+17 Oct held-out photos,raw input,IMG_4748__IMG_4728__L01_279181ba0b,IMG_4748,Simple Linear Regression,Simpke Limar Regresion,0.9245145916938782,0.16666666666666666
+17 Oct held-out photos,raw input,IMG_4748__IMG_4728__L02_ff9c740dbe,IMG_4748,The data we can learn from,The data we can learnfrom,0.9701406359672546,0.038461538461538464
+17 Oct held-out photos,raw input,IMG_4748__IMG_4730__L01_428bfdc5de,IMG_4748,A model of how to transform,A model of how to transfom,0.8924703001976013,0.037037037037037035
+17 Oct held-out photos,raw input,IMG_4748__IMG_4730__L02_f205bae23c,IMG_4748,the data,the data,0.9860074520111084,0.0
+17 Oct held-out photos,raw input,IMG_4748__IMG_4730__L03_31b64cd1e5,IMG_4748,A loss function that quantifies,Aloss function tatquanes,0.8114087581634521,0.22580645161290322
+17 Oct held-out photos,raw input,IMG_4748__IMG_4730__L04_0bb1222d46,IMG_4748,the badness of our model,the badmess of our mode!,0.9241857528686523,0.08333333333333333
+17 Oct held-out photos,raw input,IMG_4748__IMG_4732__L01_9a0577c7b9,IMG_4748,An optimization algorithm to,an optimcation algnitano,0.8446543216705322,0.2857142857142857
+17 Oct held-out photos,raw input,IMG_4748__IMG_4732__L02_30c3b027d9,IMG_4748,adjust the model parameters,adjust the model parameters,0.9126179814338684,0.0
+17 Oct held-out photos,raw input,IMG_4748__IMG_4732__L03_08b48459cd,IMG_4748,to minimize the loss,to minimize the loss,0.9681869745254517,0.0
+17 Oct held-out photos,raw input,IMG_4748__IMG_4741__L01_a48baaea15,IMG_4748,Analogue and digital world,Bnologue nd digita world,0.8261837363243103,0.15384615384615385
+17 Oct held-out photos,raw input,IMG_4748__IMG_4741__L02_6faf48e979,IMG_4748,The human world is analogue,The human world is anlogue,0.8959482908248901,0.037037037037037035
+17 Oct held-out photos,raw input,IMG_4748__IMG_4741__L03_94a6a2fb8b,IMG_4748,"and continuous, while","and continuous, while",0.988458514213562,0.0
+17 Oct held-out photos,raw input,IMG_4748__IMG_4741__L04_7a523c26b7,IMG_4748,the computer world is,the computer world is,0.9110422730445862,0.0
+17 Oct held-out photos,raw input,IMG_4748__IMG_4741__L05_76f4436e53,IMG_4748,discrete and digital.,discrete and digitaal.,0.9890425205230713,0.047619047619047616
+17 Oct held-out photos,raw input,IMG_4748__IMG_4744__L02_5d0ef094f3,IMG_4748,analogue and digital,f anlogue and digial,0.8482708930969238,0.2
+17 Oct held-out photos,raw input,IMG_4748__IMG_4744__L03_b1e1d588c7,IMG_4748,electronics to represent the,electronics to repriesent the,0.9125895500183105,0.03571428571428571
+17 Oct held-out photos,raw input,IMG_4748__IMG_4744__L04_048f867f5d,IMG_4748,Corresponding signal,Corresponding signal,0.7431749105453491,0.0
+17 Oct held-out photos,raw input,IMG_4750__IMG_4728__L01_279181ba0b,IMG_4750,Simple Linear Regression,Simpk Linear Regresion,0.8654789328575134,0.125
+17 Oct held-out photos,raw input,IMG_4750__IMG_4728__L02_ff9c740dbe,IMG_4750,The data we can learn from,The dlata we cn learnfrom,0.8762277960777283,0.11538461538461539
+17 Oct held-out photos,raw input,IMG_4750__IMG_4730__L01_428bfdc5de,IMG_4750,A model of how to transform,A model of how to transfom,0.9128950834274292,0.037037037037037035
+17 Oct held-out photos,raw input,IMG_4750__IMG_4730__L02_f205bae23c,IMG_4750,the data,the data,0.9890342950820923,0.0
+17 Oct held-out photos,raw input,IMG_4750__IMG_4730__L03_31b64cd1e5,IMG_4750,A loss function that quantifies,Aloss function thatquas,0.8126837015151978,0.25806451612903225
+17 Oct held-out photos,raw input,IMG_4750__IMG_4730__L04_0bb1222d46,IMG_4750,the badness of our model,the badnes of our mode!,0.9173009991645813,0.08333333333333333
+17 Oct held-out photos,raw input,IMG_4750__IMG_4732__L01_9a0577c7b9,IMG_4750,An optimization algorithm to,Bn opkmeation algniteanto,0.7239295244216919,0.35714285714285715
+17 Oct held-out photos,raw input,IMG_4750__IMG_4732__L02_30c3b027d9,IMG_4750,adjust the model parameters,adjust the model paameters,0.8416499495506287,0.037037037037037035
+17 Oct held-out photos,raw input,IMG_4750__IMG_4732__L03_08b48459cd,IMG_4750,to minimize the loss,to minimize the loss,0.948390007019043,0.0
+17 Oct held-out photos,raw input,IMG_4750__IMG_4741__L02_6faf48e979,IMG_4750,The human world is analogue,The human wardis anlogue,0.9485378265380859,0.14814814814814814
+17 Oct held-out photos,raw input,IMG_4750__IMG_4741__L03_94a6a2fb8b,IMG_4750,"and continuous, while","and continuous, while",0.9851576685905457,0.0
+17 Oct held-out photos,raw input,IMG_4750__IMG_4741__L04_7a523c26b7,IMG_4750,the computer world is,the computer world is,0.9597773551940918,0.0
+17 Oct held-out photos,raw input,IMG_4750__IMG_4741__L05_76f4436e53,IMG_4750,discrete and digital.,discrete and digital.,0.9540668725967407,0.0
+17 Oct held-out photos,raw input,IMG_4750__IMG_4744__L02_5d0ef094f3,IMG_4750,analogue and digital, annlogue and digital,0.8663402795791626,0.05
+17 Oct held-out photos,raw input,IMG_4750__IMG_4744__L03_b1e1d588c7,IMG_4750,electronics to represent the,electronis to repressent the,0.848410427570343,0.07142857142857142
+17 Oct held-out photos,raw input,IMG_4750__IMG_4744__L04_048f867f5d,IMG_4750,Corresponding signal,colresponding signal,0.7638840079307556,0.05
+17 Oct held-out photos,"16px path, no network",IMG_4697__IMG_4681__L01_81447fde84,IMG_4697,What is deep learning,Whot is cdao haing.,0.6753341555595398,0.47619047619047616
+17 Oct held-out photos,"16px path, no network",IMG_4697__IMG_4681__L02_36fe5b4df3,IMG_4697,1. Take a neural network, Take a neural network,0.9424415826797485,0.125
+17 Oct held-out photos,"16px path, no network",IMG_4697__IMG_4681__L04_9d3792f7c2,IMG_4697,by weights and biases,by woaghts an bravses,0.7828779816627502,0.23809523809523808
+17 Oct held-out photos,"16px path, no network",IMG_4697__IMG_4691__L05_c930c26fef,IMG_4697,Complex cells respond to light orientation and movement.,[AE,0.36204254627227783,0.9642857142857143
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4728__L01_279181ba0b,IMG_4748,Simple Linear Regression,Simpke Limar Regresion,0.9245145916938782,0.16666666666666666
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4728__L02_ff9c740dbe,IMG_4748,The data we can learn from,The data we can learnfrom,0.9701406359672546,0.038461538461538464
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4730__L01_428bfdc5de,IMG_4748,A model of how to transform,A model of how to transfom,0.8924703001976013,0.037037037037037035
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4730__L02_f205bae23c,IMG_4748,the data,the data,0.9860074520111084,0.0
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4730__L03_31b64cd1e5,IMG_4748,A loss function that quantifies,Aloss function tatquanes,0.8114087581634521,0.22580645161290322
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4730__L04_0bb1222d46,IMG_4748,the badness of our model,the badmess of our mode!,0.9241857528686523,0.08333333333333333
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4732__L01_9a0577c7b9,IMG_4748,An optimization algorithm to,an optimcation algnitano,0.8446543216705322,0.2857142857142857
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4732__L02_30c3b027d9,IMG_4748,adjust the model parameters,adjust the model parameters,0.9126179814338684,0.0
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4732__L03_08b48459cd,IMG_4748,to minimize the loss,to minimize the loss,0.9681869745254517,0.0
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4741__L01_a48baaea15,IMG_4748,Analogue and digital world,Bnologue nd digita world,0.8261837363243103,0.15384615384615385
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4741__L02_6faf48e979,IMG_4748,The human world is analogue,The human world is anlogue,0.8959482908248901,0.037037037037037035
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4741__L03_94a6a2fb8b,IMG_4748,"and continuous, while","and continuous, while",0.988458514213562,0.0
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4741__L04_7a523c26b7,IMG_4748,the computer world is,the computer world is,0.9110422730445862,0.0
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4741__L05_76f4436e53,IMG_4748,discrete and digital.,discrete and digitaal.,0.9890425205230713,0.047619047619047616
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4744__L02_5d0ef094f3,IMG_4748,analogue and digital,f anlogue and digial,0.8482708930969238,0.2
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4744__L03_b1e1d588c7,IMG_4748,electronics to represent the,electronics to repriesent the,0.9125895500183105,0.03571428571428571
+17 Oct held-out photos,"16px path, no network",IMG_4748__IMG_4744__L04_048f867f5d,IMG_4748,Corresponding signal,Corresponding signal,0.7431749105453491,0.0
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4728__L01_279181ba0b,IMG_4750,Simple Linear Regression,Simpk Linear Regresion,0.8654789328575134,0.125
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4728__L02_ff9c740dbe,IMG_4750,The data we can learn from,The dlata we cn learnfrom,0.8762277960777283,0.11538461538461539
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4730__L01_428bfdc5de,IMG_4750,A model of how to transform,A model of how to transfom,0.9128950834274292,0.037037037037037035
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4730__L02_f205bae23c,IMG_4750,the data,the data,0.9890342950820923,0.0
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4730__L03_31b64cd1e5,IMG_4750,A loss function that quantifies,Aloss function thatquas,0.8126837015151978,0.25806451612903225
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4730__L04_0bb1222d46,IMG_4750,the badness of our model,the badnes of our mode!,0.9173009991645813,0.08333333333333333
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4732__L01_9a0577c7b9,IMG_4750,An optimization algorithm to,Bn opkmeation algniteanto,0.7239295244216919,0.35714285714285715
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4732__L02_30c3b027d9,IMG_4750,adjust the model parameters,adjust the model paameters,0.8416499495506287,0.037037037037037035
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4732__L03_08b48459cd,IMG_4750,to minimize the loss,to minimize the loss,0.948390007019043,0.0
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4741__L02_6faf48e979,IMG_4750,The human world is analogue,The human wardis anlogue,0.9485378265380859,0.14814814814814814
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4741__L03_94a6a2fb8b,IMG_4750,"and continuous, while","and continuous, while",0.9851576685905457,0.0
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4741__L04_7a523c26b7,IMG_4750,the computer world is,the computer world is,0.9597773551940918,0.0
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4741__L05_76f4436e53,IMG_4750,discrete and digital.,discrete and digital.,0.9540668725967407,0.0
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4744__L02_5d0ef094f3,IMG_4750,analogue and digital, annlogue and digital,0.8663402795791626,0.05
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4744__L03_b1e1d588c7,IMG_4750,electronics to represent the,electronis to repressent the,0.848410427570343,0.07142857142857142
+17 Oct held-out photos,"16px path, no network",IMG_4750__IMG_4744__L04_048f867f5d,IMG_4750,Corresponding signal,colresponding signal,0.7638840079307556,0.05
+17 Oct held-out photos,TPGSR pretrained,IMG_4697__IMG_4681__L01_81447fde84,IMG_4697,What is deep learning,Whot is cdao haing.,0.6753341555595398,0.47619047619047616
+17 Oct held-out photos,TPGSR pretrained,IMG_4697__IMG_4681__L02_36fe5b4df3,IMG_4697,1. Take a neural network, Take a neural network,0.9424415826797485,0.125
+17 Oct held-out photos,TPGSR pretrained,IMG_4697__IMG_4681__L04_9d3792f7c2,IMG_4697,by weights and biases,by woaghts an bravses,0.7828779816627502,0.23809523809523808
+17 Oct held-out photos,TPGSR pretrained,IMG_4697__IMG_4691__L05_c930c26fef,IMG_4697,Complex cells respond to light orientation and movement.,[AE,0.36204254627227783,0.9642857142857143
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4728__L01_279181ba0b,IMG_4748,Simple Linear Regression,Simpke Limar Regresion,0.9245145916938782,0.16666666666666666
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4728__L02_ff9c740dbe,IMG_4748,The data we can learn from,The data we can learnfrom,0.9701406359672546,0.038461538461538464
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4730__L01_428bfdc5de,IMG_4748,A model of how to transform,A model of how to transfom,0.8924703001976013,0.037037037037037035
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4730__L02_f205bae23c,IMG_4748,the data,the data,0.9860074520111084,0.0
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4730__L03_31b64cd1e5,IMG_4748,A loss function that quantifies,Aloss function tatquanes,0.8114087581634521,0.22580645161290322
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4730__L04_0bb1222d46,IMG_4748,the badness of our model,the badmess of our mode!,0.9241857528686523,0.08333333333333333
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4732__L01_9a0577c7b9,IMG_4748,An optimization algorithm to,an optimcation algnitano,0.8446543216705322,0.2857142857142857
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4732__L02_30c3b027d9,IMG_4748,adjust the model parameters,adjust the model parameters,0.9126179814338684,0.0
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4732__L03_08b48459cd,IMG_4748,to minimize the loss,to minimize the loss,0.9681869745254517,0.0
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4741__L01_a48baaea15,IMG_4748,Analogue and digital world,Bnologue nd digita world,0.8261837363243103,0.15384615384615385
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4741__L02_6faf48e979,IMG_4748,The human world is analogue,The human world is anlogue,0.8959482908248901,0.037037037037037035
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4741__L03_94a6a2fb8b,IMG_4748,"and continuous, while","and continuous, while",0.988458514213562,0.0
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4741__L04_7a523c26b7,IMG_4748,the computer world is,the computer world is,0.9110422730445862,0.0
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4741__L05_76f4436e53,IMG_4748,discrete and digital.,discrete and digitaal.,0.9890425205230713,0.047619047619047616
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4744__L02_5d0ef094f3,IMG_4748,analogue and digital,f anlogue and digial,0.8482708930969238,0.2
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4744__L03_b1e1d588c7,IMG_4748,electronics to represent the,electronics to repriesent the,0.9125895500183105,0.03571428571428571
+17 Oct held-out photos,TPGSR pretrained,IMG_4748__IMG_4744__L04_048f867f5d,IMG_4748,Corresponding signal,Corresponding signal,0.7431749105453491,0.0
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4728__L01_279181ba0b,IMG_4750,Simple Linear Regression,Simpk Linear Regresion,0.8654789328575134,0.125
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4728__L02_ff9c740dbe,IMG_4750,The data we can learn from,The dlata we cn learnfrom,0.8762277960777283,0.11538461538461539
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4730__L01_428bfdc5de,IMG_4750,A model of how to transform,A model of how to transfom,0.9128950834274292,0.037037037037037035
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4730__L02_f205bae23c,IMG_4750,the data,the data,0.9890342950820923,0.0
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4730__L03_31b64cd1e5,IMG_4750,A loss function that quantifies,Aloss function thatquas,0.8126837015151978,0.25806451612903225
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4730__L04_0bb1222d46,IMG_4750,the badness of our model,the badnes of our mode!,0.9173009991645813,0.08333333333333333
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4732__L01_9a0577c7b9,IMG_4750,An optimization algorithm to,Bn opkmeation algniteanto,0.7239295244216919,0.35714285714285715
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4732__L02_30c3b027d9,IMG_4750,adjust the model parameters,adjust the model paameters,0.8416499495506287,0.037037037037037035
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4732__L03_08b48459cd,IMG_4750,to minimize the loss,to minimize the loss,0.948390007019043,0.0
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4741__L02_6faf48e979,IMG_4750,The human world is analogue,The human wardis anlogue,0.9485378265380859,0.14814814814814814
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4741__L03_94a6a2fb8b,IMG_4750,"and continuous, while","and continuous, while",0.9851576685905457,0.0
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4741__L04_7a523c26b7,IMG_4750,the computer world is,the computer world is,0.9597773551940918,0.0
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4741__L05_76f4436e53,IMG_4750,discrete and digital.,discrete and digital.,0.9540668725967407,0.0
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4744__L02_5d0ef094f3,IMG_4750,analogue and digital, annlogue and digital,0.8663402795791626,0.05
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4744__L03_b1e1d588c7,IMG_4750,electronics to represent the,electronis to repressent the,0.848410427570343,0.07142857142857142
+17 Oct held-out photos,TPGSR pretrained,IMG_4750__IMG_4744__L04_048f867f5d,IMG_4750,Corresponding signal,colresponding signal,0.7638840079307556,0.05
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4697__IMG_4681__L01_81447fde84,IMG_4697,What is deep learning,Whot is cdao haing.,0.6753341555595398,0.47619047619047616
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4697__IMG_4681__L02_36fe5b4df3,IMG_4697,1. Take a neural network, Take a neural network,0.9424415826797485,0.125
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4697__IMG_4681__L04_9d3792f7c2,IMG_4697,by weights and biases,by woaghts an bravses,0.7828779816627502,0.23809523809523808
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4697__IMG_4691__L05_c930c26fef,IMG_4697,Complex cells respond to light orientation and movement.,[AE,0.36204254627227783,0.9642857142857143
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4728__L01_279181ba0b,IMG_4748,Simple Linear Regression,Simpke Limar Regresion,0.9245145916938782,0.16666666666666666
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4728__L02_ff9c740dbe,IMG_4748,The data we can learn from,The data we can learnfrom,0.9701406359672546,0.038461538461538464
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4730__L01_428bfdc5de,IMG_4748,A model of how to transform,A model of how to transfom,0.8924703001976013,0.037037037037037035
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4730__L02_f205bae23c,IMG_4748,the data,the data,0.9860074520111084,0.0
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4730__L03_31b64cd1e5,IMG_4748,A loss function that quantifies,Aloss function tatquanes,0.8114087581634521,0.22580645161290322
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4730__L04_0bb1222d46,IMG_4748,the badness of our model,the badmess of our mode!,0.9241857528686523,0.08333333333333333
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4732__L01_9a0577c7b9,IMG_4748,An optimization algorithm to,an optimcation algnitano,0.8446543216705322,0.2857142857142857
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4732__L02_30c3b027d9,IMG_4748,adjust the model parameters,adjust the model parameters,0.9126179814338684,0.0
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4732__L03_08b48459cd,IMG_4748,to minimize the loss,to minimize the loss,0.9681869745254517,0.0
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4741__L01_a48baaea15,IMG_4748,Analogue and digital world,Bnologue nd digita world,0.8261837363243103,0.15384615384615385
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4741__L02_6faf48e979,IMG_4748,The human world is analogue,The human world is anlogue,0.8959482908248901,0.037037037037037035
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4741__L03_94a6a2fb8b,IMG_4748,"and continuous, while","and continuous, while",0.988458514213562,0.0
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4741__L04_7a523c26b7,IMG_4748,the computer world is,the computer world is,0.9110422730445862,0.0
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4741__L05_76f4436e53,IMG_4748,discrete and digital.,discrete and digitaal.,0.9890425205230713,0.047619047619047616
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4744__L02_5d0ef094f3,IMG_4748,analogue and digital,f anlogue and digial,0.8482708930969238,0.2
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4744__L03_b1e1d588c7,IMG_4748,electronics to represent the,electronics to repriesent the,0.9125895500183105,0.03571428571428571
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4748__IMG_4744__L04_048f867f5d,IMG_4748,Corresponding signal,Corresponding signal,0.7431749105453491,0.0
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4728__L01_279181ba0b,IMG_4750,Simple Linear Regression,Simpk Linear Regresion,0.8654789328575134,0.125
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4728__L02_ff9c740dbe,IMG_4750,The data we can learn from,The dlata we cn learnfrom,0.8762277960777283,0.11538461538461539
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4730__L01_428bfdc5de,IMG_4750,A model of how to transform,A model of how to transfom,0.9128950834274292,0.037037037037037035
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4730__L02_f205bae23c,IMG_4750,the data,the data,0.9890342950820923,0.0
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4730__L03_31b64cd1e5,IMG_4750,A loss function that quantifies,Aloss function thatquas,0.8126837015151978,0.25806451612903225
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4730__L04_0bb1222d46,IMG_4750,the badness of our model,the badnes of our mode!,0.9173009991645813,0.08333333333333333
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4732__L01_9a0577c7b9,IMG_4750,An optimization algorithm to,Bn opkmeation algniteanto,0.7239295244216919,0.35714285714285715
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4732__L02_30c3b027d9,IMG_4750,adjust the model parameters,adjust the model paameters,0.8416499495506287,0.037037037037037035
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4732__L03_08b48459cd,IMG_4750,to minimize the loss,to minimize the loss,0.948390007019043,0.0
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4741__L02_6faf48e979,IMG_4750,The human world is analogue,The human wardis anlogue,0.9485378265380859,0.14814814814814814
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4741__L03_94a6a2fb8b,IMG_4750,"and continuous, while","and continuous, while",0.9851576685905457,0.0
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4741__L04_7a523c26b7,IMG_4750,the computer world is,the computer world is,0.9597773551940918,0.0
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4741__L05_76f4436e53,IMG_4750,discrete and digital.,discrete and digital.,0.9540668725967407,0.0
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4744__L02_5d0ef094f3,IMG_4750,analogue and digital, annlogue and digital,0.8663402795791626,0.05
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4744__L03_b1e1d588c7,IMG_4750,electronics to represent the,electronis to repressent the,0.848410427570343,0.07142857142857142
+17 Oct held-out photos,TPGSR fine-tuned,IMG_4750__IMG_4744__L04_048f867f5d,IMG_4750,Corresponding signal,colresponding signal,0.7638840079307556,0.05
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4697__IMG_4681__L01_81447fde84,IMG_4697,What is deep learning,What is dieop leaing,0.7895811796188354,0.19047619047619047
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4697__IMG_4681__L02_36fe5b4df3,IMG_4697,1. Take a neural network,.Take a neural networle,0.9053469896316528,0.16666666666666666
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4697__IMG_4681__L04_9d3792f7c2,IMG_4697,by weights and biases,by wought and bavses,0.7871829867362976,0.23809523809523808
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4697__IMG_4691__L05_c930c26fef,IMG_4697,Complex cells respond to light orientation and movement.,[,0.6059163808822632,1.0
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4728__L01_279181ba0b,IMG_4748,Simple Linear Regression,Simple Linear Regessian,0.9354450106620789,0.08333333333333333
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4728__L02_ff9c740dbe,IMG_4748,The data we can learn from,The data we can learnfrom,0.8937100172042847,0.038461538461538464
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4730__L01_428bfdc5de,IMG_4748,A model of how to transform,A model of how to ranstfom,0.9601892828941345,0.1111111111111111
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4730__L02_f205bae23c,IMG_4748,the data,the data,0.9984010457992554,0.0
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4730__L03_31b64cd1e5,IMG_4748,A loss function that quantifies,A loss function taques,0.794258713722229,0.2903225806451613
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4730__L04_0bb1222d46,IMG_4748,the badness of our model,the badnes of our model,0.9259236454963684,0.041666666666666664
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4732__L01_9a0577c7b9,IMG_4748,An optimization algorithm to,Bn optimization algrithno,0.8364337682723999,0.17857142857142858
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4732__L02_30c3b027d9,IMG_4748,adjust the model parameters,adjust the model paramers,0.8477174639701843,0.07407407407407407
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4732__L03_08b48459cd,IMG_4748,to minimize the loss,to minimize the loss,0.9759975671768188,0.0
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4741__L01_a48baaea15,IMG_4748,Analogue and digital world,Anologue and difa world,0.8232280015945435,0.19230769230769232
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4741__L02_6faf48e979,IMG_4748,The human world is analogue,The human world is analague,0.9016020894050598,0.037037037037037035
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4741__L03_94a6a2fb8b,IMG_4748,"and continuous, while","and continuous, while",0.9731917381286621,0.0
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4741__L04_7a523c26b7,IMG_4748,the computer world is,the computer world is,0.978604257106781,0.0
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4741__L05_76f4436e53,IMG_4748,discrete and digital.,discrete and digital.,0.9669771790504456,0.0
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4744__L02_5d0ef094f3,IMG_4748,analogue and digital,f anlogue and digital,0.9304178953170776,0.15
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4744__L03_b1e1d588c7,IMG_4748,electronics to represent the,electronics to rpresent the,0.9412628412246704,0.03571428571428571
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4748__IMG_4744__L04_048f867f5d,IMG_4748,Corresponding signal,Corresponding signal,0.7533611059188843,0.0
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4728__L01_279181ba0b,IMG_4750,Simple Linear Regression,Simple Linear Regmession,0.8923807740211487,0.041666666666666664
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4728__L02_ff9c740dbe,IMG_4750,The data we can learn from,The data we cn learnfrom,0.9359626770019531,0.07692307692307693
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4730__L01_428bfdc5de,IMG_4750,A model of how to transform,A model of how to transfom,0.9537834525108337,0.037037037037037035
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4730__L02_f205bae23c,IMG_4750,the data,the data,0.9918531179428101,0.0
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4730__L03_31b64cd1e5,IMG_4750,A loss function that quantifies,Aloss function tques,0.8071203231811523,0.3548387096774194
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4730__L04_0bb1222d46,IMG_4750,the badness of our model,the badnes of our model,0.9419652819633484,0.041666666666666664
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4732__L01_9a0577c7b9,IMG_4750,An optimization algorithm to,Bn optimzation algorithnto,0.8122578859329224,0.14285714285714285
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4732__L02_30c3b027d9,IMG_4750,adjust the model parameters,adjust the moodel parameers,0.8997197151184082,0.07407407407407407
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4732__L03_08b48459cd,IMG_4750,to minimize the loss,to minimize the loss,0.9582780599594116,0.0
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4741__L02_6faf48e979,IMG_4750,The human world is analogue,The human world is analogue,0.9191445708274841,0.0
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4741__L03_94a6a2fb8b,IMG_4750,"and continuous, while","and continuous, while",0.9907290935516357,0.0
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4741__L04_7a523c26b7,IMG_4750,the computer world is,the computer world is,0.9441458582878113,0.0
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4741__L05_76f4436e53,IMG_4750,discrete and digital.,discrete and digital.,0.9743857383728027,0.0
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4744__L02_5d0ef094f3,IMG_4750,analogue and digital, anlogue and digital,0.8836038708686829,0.05
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4744__L03_b1e1d588c7,IMG_4750,electronics to represent the,electronics to rpresent the,0.9238736629486084,0.03571428571428571
+17 Oct held-out photos,"TPGSR fine-tuned, every word",IMG_4750__IMG_4744__L04_048f867f5d,IMG_4750,Corresponding signal,colresponding signeal,0.7677971720695496,0.1
+17 Oct held-out photos,blend (alpha 0.3),IMG_4697__IMG_4681__L01_81447fde84,IMG_4697,What is deep learning,Whot is cdao haing.,0.6753341555595398,0.47619047619047616
+17 Oct held-out photos,blend (alpha 0.3),IMG_4697__IMG_4681__L02_36fe5b4df3,IMG_4697,1. Take a neural network, Take a neural network,0.9424415826797485,0.125
+17 Oct held-out photos,blend (alpha 0.3),IMG_4697__IMG_4681__L04_9d3792f7c2,IMG_4697,by weights and biases,by woaghts an bravses,0.7828779816627502,0.23809523809523808
+17 Oct held-out photos,blend (alpha 0.3),IMG_4697__IMG_4691__L05_c930c26fef,IMG_4697,Complex cells respond to light orientation and movement.,[AE,0.36204254627227783,0.9642857142857143
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4728__L01_279181ba0b,IMG_4748,Simple Linear Regression,Simpke Limar Regresion,0.9245145916938782,0.16666666666666666
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4728__L02_ff9c740dbe,IMG_4748,The data we can learn from,The data we can learnfrom,0.9701406359672546,0.038461538461538464
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4730__L01_428bfdc5de,IMG_4748,A model of how to transform,A model of how to transfom,0.8924703001976013,0.037037037037037035
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4730__L02_f205bae23c,IMG_4748,the data,the data,0.9860074520111084,0.0
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4730__L03_31b64cd1e5,IMG_4748,A loss function that quantifies,Aloss function tatquanes,0.8114087581634521,0.22580645161290322
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4730__L04_0bb1222d46,IMG_4748,the badness of our model,the badmess of our mode!,0.9241857528686523,0.08333333333333333
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4732__L01_9a0577c7b9,IMG_4748,An optimization algorithm to,an optimcation algnitano,0.8446543216705322,0.2857142857142857
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4732__L02_30c3b027d9,IMG_4748,adjust the model parameters,adjust the model parameters,0.9126179814338684,0.0
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4732__L03_08b48459cd,IMG_4748,to minimize the loss,to minimize the loss,0.9681869745254517,0.0
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4741__L01_a48baaea15,IMG_4748,Analogue and digital world,Bnologue nd digita world,0.8261837363243103,0.15384615384615385
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4741__L02_6faf48e979,IMG_4748,The human world is analogue,The human world is anlogue,0.8959482908248901,0.037037037037037035
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4741__L03_94a6a2fb8b,IMG_4748,"and continuous, while","and continuous, while",0.988458514213562,0.0
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4741__L04_7a523c26b7,IMG_4748,the computer world is,the computer world is,0.9110422730445862,0.0
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4741__L05_76f4436e53,IMG_4748,discrete and digital.,discrete and digitaal.,0.9890425205230713,0.047619047619047616
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4744__L02_5d0ef094f3,IMG_4748,analogue and digital,f anlogue and digial,0.8482708930969238,0.2
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4744__L03_b1e1d588c7,IMG_4748,electronics to represent the,electronics to repriesent the,0.9125895500183105,0.03571428571428571
+17 Oct held-out photos,blend (alpha 0.3),IMG_4748__IMG_4744__L04_048f867f5d,IMG_4748,Corresponding signal,Corresponding signal,0.7431749105453491,0.0
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4728__L01_279181ba0b,IMG_4750,Simple Linear Regression,Simpk Linear Regresion,0.8654789328575134,0.125
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4728__L02_ff9c740dbe,IMG_4750,The data we can learn from,The dlata we cn learnfrom,0.8762277960777283,0.11538461538461539
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4730__L01_428bfdc5de,IMG_4750,A model of how to transform,A model of how to transfom,0.9128950834274292,0.037037037037037035
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4730__L02_f205bae23c,IMG_4750,the data,the data,0.9890342950820923,0.0
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4730__L03_31b64cd1e5,IMG_4750,A loss function that quantifies,Aloss function thatquas,0.8126837015151978,0.25806451612903225
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4730__L04_0bb1222d46,IMG_4750,the badness of our model,the badnes of our mode!,0.9173009991645813,0.08333333333333333
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4732__L01_9a0577c7b9,IMG_4750,An optimization algorithm to,Bn opkmeation algniteanto,0.7239295244216919,0.35714285714285715
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4732__L02_30c3b027d9,IMG_4750,adjust the model parameters,adjust the model paameters,0.8416499495506287,0.037037037037037035
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4732__L03_08b48459cd,IMG_4750,to minimize the loss,to minimize the loss,0.948390007019043,0.0
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4741__L02_6faf48e979,IMG_4750,The human world is analogue,The human wardis anlogue,0.9485378265380859,0.14814814814814814
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4741__L03_94a6a2fb8b,IMG_4750,"and continuous, while","and continuous, while",0.9851576685905457,0.0
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4741__L04_7a523c26b7,IMG_4750,the computer world is,the computer world is,0.9597773551940918,0.0
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4741__L05_76f4436e53,IMG_4750,discrete and digital.,discrete and digital.,0.9540668725967407,0.0
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4744__L02_5d0ef094f3,IMG_4750,analogue and digital, annlogue and digital,0.8663402795791626,0.05
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4744__L03_b1e1d588c7,IMG_4750,electronics to represent the,electronis to repressent the,0.848410427570343,0.07142857142857142
+17 Oct held-out photos,blend (alpha 0.3),IMG_4750__IMG_4744__L04_048f867f5d,IMG_4750,Corresponding signal,colresponding signal,0.7638840079307556,0.05
+17 Oct held-out photos,gate (margin 0.0),IMG_4697__IMG_4681__L01_81447fde84,IMG_4697,What is deep learning,Whot is cdao haing.,0.6753341555595398,0.47619047619047616
+17 Oct held-out photos,gate (margin 0.0),IMG_4697__IMG_4681__L02_36fe5b4df3,IMG_4697,1. Take a neural network, Take a neural network,0.9424415826797485,0.125
+17 Oct held-out photos,gate (margin 0.0),IMG_4697__IMG_4681__L04_9d3792f7c2,IMG_4697,by weights and biases,by woaghts an bravses,0.7828779816627502,0.23809523809523808
+17 Oct held-out photos,gate (margin 0.0),IMG_4697__IMG_4691__L05_c930c26fef,IMG_4697,Complex cells respond to light orientation and movement.,[AE,0.36204254627227783,0.9642857142857143
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4728__L01_279181ba0b,IMG_4748,Simple Linear Regression,Simpke Limar Regresion,0.9245145916938782,0.16666666666666666
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4728__L02_ff9c740dbe,IMG_4748,The data we can learn from,The data we can learnfrom,0.9701406359672546,0.038461538461538464
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4730__L01_428bfdc5de,IMG_4748,A model of how to transform,A model of how to transfom,0.8924703001976013,0.037037037037037035
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4730__L02_f205bae23c,IMG_4748,the data,the data,0.9860074520111084,0.0
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4730__L03_31b64cd1e5,IMG_4748,A loss function that quantifies,Aloss function tatquanes,0.8114087581634521,0.22580645161290322
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4730__L04_0bb1222d46,IMG_4748,the badness of our model,the badmess of our mode!,0.9241857528686523,0.08333333333333333
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4732__L01_9a0577c7b9,IMG_4748,An optimization algorithm to,an optimcation algnitano,0.8446543216705322,0.2857142857142857
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4732__L02_30c3b027d9,IMG_4748,adjust the model parameters,adjust the model parameters,0.9126179814338684,0.0
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4732__L03_08b48459cd,IMG_4748,to minimize the loss,to minimize the loss,0.9681869745254517,0.0
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4741__L01_a48baaea15,IMG_4748,Analogue and digital world,Bnologue nd digita world,0.8261837363243103,0.15384615384615385
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4741__L02_6faf48e979,IMG_4748,The human world is analogue,The human world is anlogue,0.8959482908248901,0.037037037037037035
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4741__L03_94a6a2fb8b,IMG_4748,"and continuous, while","and continuous, while",0.988458514213562,0.0
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4741__L04_7a523c26b7,IMG_4748,the computer world is,the computer world is,0.9110422730445862,0.0
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4741__L05_76f4436e53,IMG_4748,discrete and digital.,discrete and digitaal.,0.9890425205230713,0.047619047619047616
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4744__L02_5d0ef094f3,IMG_4748,analogue and digital,f anlogue and digial,0.8482708930969238,0.2
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4744__L03_b1e1d588c7,IMG_4748,electronics to represent the,electronics to repriesent the,0.9125895500183105,0.03571428571428571
+17 Oct held-out photos,gate (margin 0.0),IMG_4748__IMG_4744__L04_048f867f5d,IMG_4748,Corresponding signal,Corresponding signal,0.7431749105453491,0.0
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4728__L01_279181ba0b,IMG_4750,Simple Linear Regression,Simpk Linear Regresion,0.8654789328575134,0.125
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4728__L02_ff9c740dbe,IMG_4750,The data we can learn from,The dlata we cn learnfrom,0.8762277960777283,0.11538461538461539
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4730__L01_428bfdc5de,IMG_4750,A model of how to transform,A model of how to transfom,0.9128950834274292,0.037037037037037035
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4730__L02_f205bae23c,IMG_4750,the data,the data,0.9890342950820923,0.0
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4730__L03_31b64cd1e5,IMG_4750,A loss function that quantifies,Aloss function thatquas,0.8126837015151978,0.25806451612903225
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4730__L04_0bb1222d46,IMG_4750,the badness of our model,the badnes of our mode!,0.9173009991645813,0.08333333333333333
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4732__L01_9a0577c7b9,IMG_4750,An optimization algorithm to,Bn opkmeation algniteanto,0.7239295244216919,0.35714285714285715
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4732__L02_30c3b027d9,IMG_4750,adjust the model parameters,adjust the model paameters,0.8416499495506287,0.037037037037037035
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4732__L03_08b48459cd,IMG_4750,to minimize the loss,to minimize the loss,0.948390007019043,0.0
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4741__L02_6faf48e979,IMG_4750,The human world is analogue,The human wardis anlogue,0.9485378265380859,0.14814814814814814
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4741__L03_94a6a2fb8b,IMG_4750,"and continuous, while","and continuous, while",0.9851576685905457,0.0
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4741__L04_7a523c26b7,IMG_4750,the computer world is,the computer world is,0.9597773551940918,0.0
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4741__L05_76f4436e53,IMG_4750,discrete and digital.,discrete and digital.,0.9540668725967407,0.0
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4744__L02_5d0ef094f3,IMG_4750,analogue and digital, annlogue and digital,0.8663402795791626,0.05
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4744__L03_b1e1d588c7,IMG_4750,electronics to represent the,electronis to repressent the,0.848410427570343,0.07142857142857142
+17 Oct held-out photos,gate (margin 0.0),IMG_4750__IMG_4744__L04_048f867f5d,IMG_4750,Corresponding signal,colresponding signal,0.7638840079307556,0.05

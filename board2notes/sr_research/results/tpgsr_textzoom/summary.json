@@ -1,0 +1,14 @@
+{
+  "pairs": 1343,
+  "bicubic_psnr": 20.508905027639134,
+  "tpgsr_psnr": 20.47837304615985,
+  "bicubic_ssim": 0.5863103257828821,
+  "tpgsr_ssim": 0.617312549924535,
+  "bicubic_cer": 0.4493305594779468,
+  "tpgsr_cer": 0.4798994430931271,
+  "bicubic_exact": 0.37751303052866714,
+  "tpgsr_exact": 0.31347728965003724,
+  "improved": 179,
+  "unchanged": 845,
+  "worsened": 319
+}

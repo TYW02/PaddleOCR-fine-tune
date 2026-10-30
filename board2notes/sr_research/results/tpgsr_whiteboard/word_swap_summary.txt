@@ -1,0 +1,36 @@
+
+=== Airdrop B3 (unseen board): 23 lines, 64 words ===
+raw CER 0.153 | every word from the clear photo 0.068 | gap (the most a perfect super-resolution of these words could win) +0.084
+whole clear line (words AND the bits between them: commas, underlines, bullets) 0.067 -> +0.002 of the error lives outside the word boxes
+lines that ANY word swap can improve: 15 of 23
+fixing only the single most important word recovers 69% of the gap
+lines where ONE word holds >= 80% of the gap: 6 of 15
+mean gain from fixing one word: box < 16 px in the far photo +0.047 (32 words) vs >= 16 px -0.011 (32 words)
+correlation of gain with word width (longer words = more letters): +0.02
+words that break an otherwise clear line the most (damage = CER added when only this word stays far):
+  'CNN Architecture' word 2: damage +0.188 (box 24 px tall in the far photo)
+  'Saliency via occlusion' word 1: damage +0.182 (box 12 px tall in the far photo)
+  'Saliency via occlusion' word 1: damage +0.182 (box 9 px tall in the far photo)
+  'Saliency via occlusion' word 2: damage +0.136 (box 9 px tall in the far photo)
+  'Visualise feature layer' word 2: damage +0.130 (box 11 px tall in the far photo)
+
+=== 17 Oct held-out photos: 37 lines, 184 words ===
+raw CER 0.120 | every word from the clear photo 0.110 | gap (the most a perfect super-resolution of these words could win) +0.010
+whole clear line (words AND the bits between them: commas, underlines, bullets) 0.129 -> -0.019 of the error lives outside the word boxes
+lines that ANY word swap can improve: 13 of 37
+fixing only the single most important word recovers 89% of the gap
+lines where ONE word holds >= 80% of the gap: 7 of 13
+correlation of gain with word width (longer words = more letters): +0.15
+words that break an otherwise clear line the most (damage = CER added when only this word stays far):
+  'What is deep learning' word 4: damage +0.143 (box 124 px tall in the far photo)
+  'adjust the model parameters' word 5: damage +0.111 (box 91 px tall in the far photo)
+  'electronics to represent the' word 2: damage +0.107 (box 133 px tall in the far photo)
+  'by weights and biases' word 2: damage +0.095 (box 49 px tall in the far photo)
+  'Analogue and digital world' word 3: damage +0.077 (box 44 px tall in the far photo)
+
+How to read it:
+- 'Every word clear' much worse than 'whole clear line': the word boxes miss punctuation/strokes; fix boxes first.
+- Gap ~0: these lines are not limited by blur: super-resolution of the words cannot help them.
+- Most of the gap in ONE word per line: a targeted fix (better crop, retake prompt, that word's reading) is enough.
+- Gap spread over all words: every word is degraded; only a better capture (closer / zoom) or a reader trained on such
+  images can close it.

@@ -1,0 +1,7 @@
+split,source,lines,photos_or_files,boards,different_texts
+train,board,212,13,lecture,64
+train,iam,1500,1500,-,1466
+val,board,22,8,"animal, cnn, television",9
+val,iam,150,150,-,150
+test,board,24,10,quiz,5
+test,iam,100,100,-,100

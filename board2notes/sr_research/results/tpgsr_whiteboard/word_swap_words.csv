@@ -1,0 +1,249 @@
+set,pair_id,label,word_index,native_h,box_w,gain_if_fixed_alone,damage_if_left_blurry,read_fixed_alone
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L01_d268ce0b,CNN Architecture,0,27.1,185,0.0625,0.0,CNN Achitecture
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L01_d268ce0b,CNN Architecture,1,27.1,313,0.0625,0.0,CMN Architecture
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L01_d81fdd82,CNN Architecture,0,28.6,203,0.0625,0.0,CNN Achitecture
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L01_d81fdd82,CNN Architecture,1,28.6,311,0.0625,0.0,CMN Architecture
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L01_1165703c,CNN Architecture,0,27.9,185,-0.0625,0.0625,CNNAchitecture
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L01_1165703c,CNN Architecture,1,27.9,314,-0.0625,0.0625,CMNArchitecture
+Airdrop B3 (unseen board),IMG_4527__IMG_4543__B3_L01_0ba4f0a2,CNN Architecture,0,24.8,195,-0.0625,0.0625,CNNAchitecture
+Airdrop B3 (unseen board),IMG_4527__IMG_4543__B3_L01_0ba4f0a2,CNN Architecture,1,24.8,320,0.0,0.125,CNNArchitecture
+Airdrop B3 (unseen board),IMG_4528__IMG_4543__B3_L01_c7aaafda,CNN Architecture,0,24.1,177,-0.0625,0.0625,.CNNAchitectire
+Airdrop B3 (unseen board),IMG_4528__IMG_4543__B3_L01_c7aaafda,CNN Architecture,1,24.1,321,0.0625,0.1875,CMNArchitecture
+Airdrop B3 (unseen board),IMG_4534__IMG_4543__B3_L01_22e39e8e,CNN Architecture,0,28.2,183,0.0,0.125,CNNAchitecture
+Airdrop B3 (unseen board),IMG_4534__IMG_4543__B3_L01_22e39e8e,CNN Architecture,1,28.2,333,0.0,0.125,CMNArchitecture
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L01_e820e6b2,CNN Architecture,0,23.5,183,0.0,0.0625,CNNAchitectre
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L01_e820e6b2,CNN Architecture,1,23.5,315,0.0625,0.125,CMN Architectre
+Airdrop B3 (unseen board),IMG_4565__IMG_4543__B3_L01_69497b37,CNN Architecture,0,18.1,183,-0.0625,0.0,CNNAchitecture
+Airdrop B3 (unseen board),IMG_4565__IMG_4543__B3_L01_69497b37,CNN Architecture,1,18.1,315,0.0,0.0625,CNNArchitecture
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L02_9ba28846,"LeNet, Alexnet, Resnet",0,14.1,91,0.09090909090909091,0.09090909090909091,"LeNet, Akxnat, Resnet"
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L02_9ba28846,"LeNet, Alexnet, Resnet",1,14.1,143,-0.04545454545454544,0.09090909090909091,"levet,Akxnet,Resnat"
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L02_9ba28846,"LeNet, Alexnet, Resnet",2,14.1,133,0.0,0.09090909090909091,"levet, Akxnat,Resnet"
+Airdrop B3 (unseen board),IMG_4547__IMG_4539__B3_L07_3ad73522,Saliency via occlusion,0,12.4,104,0.18181818181818182,0.18181818181818182,Saliency via olsion
+Airdrop B3 (unseen board),IMG_4547__IMG_4539__B3_L07_3ad73522,Saliency via occlusion,1,12.4,38,0.18181818181818182,0.045454545454545456,Solancy via occlusion
+Airdrop B3 (unseen board),IMG_4547__IMG_4539__B3_L07_3ad73522,Saliency via occlusion,2,12.4,126,0.13636363636363635,0.09090909090909091,Solacy via occlusion
+Airdrop B3 (unseen board),IMG_4565__IMG_4539__B3_L07_71328f8c,Saliency via occlusion,0,8.7,102,0.04545454545454544,0.18181818181818182,Saliencynia aclusion
+Airdrop B3 (unseen board),IMG_4565__IMG_4539__B3_L07_71328f8c,Saliency via occlusion,1,8.7,37,0.0,0.13636363636363635,Solacy via acclusion
+Airdrop B3 (unseen board),IMG_4565__IMG_4539__B3_L07_71328f8c,Saliency via occlusion,2,8.7,117,-0.04545454545454544,0.0,Solacy nia occlusior
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L06_a9931c56,Visualise feature layer,0,14.1,118,0.08695652173913043,0.08695652173913043,Visualisefesture layer
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L06_a9931c56,Visualise feature layer,1,14.1,108,-0.043478260869565216,0.0,Vismabirefeaturelayer
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L06_a9931c56,Visualise feature layer,2,14.1,100,0.043478260869565216,0.0,Visabise festure layer
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L06_343fe2af,Visualise feature layer,0,13.5,119,0.2608695652173913,0.08695652173913043,Visualise feature layer
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L06_343fe2af,Visualise feature layer,1,13.5,110,0.13043478260869565,-0.043478260869565216,visatire feature layer
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L06_343fe2af,Visualise feature layer,2,13.5,102,0.13043478260869565,-0.043478260869565216,Visatire feature layer
+Airdrop B3 (unseen board),IMG_4565__IMG_4543__B3_L06_d389c900,Visualise feature layer,0,11.1,119,0.043478260869565216,0.0,Visualisetrsture layer
+Airdrop B3 (unseen board),IMG_4565__IMG_4543__B3_L06_d389c900,Visualise feature layer,1,11.1,111,0.08695652173913043,0.13043478260869565,Visalisefeaturelayer
+Airdrop B3 (unseen board),IMG_4565__IMG_4543__B3_L06_d389c900,Visualise feature layer,2,11.1,99,-0.043478260869565216,0.0,Vismise trsture layer
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L05_641b1a53,Visualise filter & output,0,20.8,132,-0.04000000000000001,0.07999999999999999,Visualisefilter outpat
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L05_641b1a53,Visualise filter & output,1,20.8,94,-0.08000000000000002,0.04000000000000001,Visvalisefilteroutput
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L05_641b1a53,Visualise filter & output,2,20.8,51,0.0,0.0,Visualise filter8output
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L05_641b1a53,Visualise filter & output,3,20.8,110,-0.04000000000000001,-0.04000000000000001,Visvalise filter 8outpat
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L05_c2f2dae1,Visualise filter & output,0,20.4,134,0.04000000000000001,0.12,Visualisefilter output
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L05_c2f2dae1,Visualise filter & output,1,20.4,95,-0.07999999999999999,0.08000000000000002,VisvalizefilterSoutput
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L05_c2f2dae1,Visualise filter & output,2,20.4,52,-0.04000000000000001,0.04000000000000001,Visvalize filter8output
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L05_c2f2dae1,Visualise filter & output,3,20.4,112,-0.04000000000000001,-0.039999999999999994,Visvalize filter Soutpat
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L05_7f0c1b94,Visualise filter & output,0,20.4,135,-0.04000000000000001,0.12000000000000002,Visualisefilter ootput
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L05_7f0c1b94,Visualise filter & output,1,20.4,95,-0.12,0.12000000000000002,VisualizefilterSootput
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L05_7f0c1b94,Visualise filter & output,2,20.4,52,-0.08000000000000002,0.0,Visualize filter8ootput
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L05_7f0c1b94,Visualise filter & output,3,20.4,113,-0.04000000000000001,0.0,Visualize filter Soutpat
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L05_1484b726,Visualise filter & output,0,18.0,130,0.12000000000000002,0.12000000000000002,Visualisefilter &ootpt
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L05_1484b726,Visualise filter & output,1,18.0,91,-0.03999999999999998,0.0,Viswalizefilter8octpt
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L05_1484b726,Visualise filter & output,2,18.0,51,0.0,0.0,Viswalize filter8ootpt
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L05_1484b726,Visualise filter & output,3,18.0,115,0.08000000000000002,0.0,Viswalize filter 8outpat
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L04_86eb6baa,Visualising CNN,0,14.9,189,0.06666666666666667,0.06666666666666667,Visualising CNN
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L04_86eb6baa,Visualising CNN,1,14.9,112,-0.06666666666666667,-0.06666666666666667,Visualising CU
+Airdrop B3 (unseen board),IMG_4523__IMG_4543__B3_L04_47b9b728,Visualising CNN,0,11.1,80,0.0,0.0,Visualising CNN
+Airdrop B3 (unseen board),IMG_4523__IMG_4543__B3_L04_47b9b728,Visualising CNN,1,11.1,101,0.0,0.0,Visualising CNN
+Airdrop B3 (unseen board),IMG_4523__IMG_4543__B3_L04_47b9b728,Visualising CNN,2,11.1,50,0.0,0.0,Visualising CNN
+Airdrop B3 (unseen board),IMG_4523__IMG_4543__B3_L04_47b9b728,Visualising CNN,3,11.1,99,0.0,0.0,Visualising CNN
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L04_3a7ac5a4,Visualising CNN,0,11.1,129,0.0,0.0,Visualising CNN
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L04_3a7ac5a4,Visualising CNN,1,11.1,87,0.0,0.0,Visualising CNN
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L04_3a7ac5a4,Visualising CNN,2,11.1,113,-0.06666666666666667,-0.06666666666666667,Visualising CUN
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L04_871136a6,Visualising CNN,0,10.2,150,0.0,0.0,Visalising crw
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L04_871136a6,Visualising CNN,1,10.2,89,0.0,0.0,Visalising crw
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L04_871136a6,Visualising CNN,2,10.2,94,0.0,0.0,Visalising cuw
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L04_4c3f2c09,Visualising CNN,0,14.3,185,0.13333333333333336,0.0,Visualising cuN
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L04_4c3f2c09,Visualising CNN,1,14.3,112,0.2,0.06666666666666667,Visualising CNN
+17 Oct held-out photos,IMG_4697__IMG_4681__L01_81447fde84,What is deep learning,0,123.9,544,0.09523809523809523,0.047619047619047616,Whad is dao lhaing.
+17 Oct held-out photos,IMG_4697__IMG_4681__L01_81447fde84,What is deep learning,1,123.9,196,0.0,0.047619047619047616,Whot is cao haing.
+17 Oct held-out photos,IMG_4697__IMG_4681__L01_81447fde84,What is deep learning,2,123.9,421,0.047619047619047616,0.0,Whot is dom haing.
+17 Oct held-out photos,IMG_4697__IMG_4681__L01_81447fde84,What is deep learning,3,123.9,693,0.14285714285714285,0.14285714285714285,Whod is dano leaing
+17 Oct held-out photos,IMG_4697__IMG_4681__L02_36fe5b4df3,1. Take a neural network,0,91.0,113,0.0,-0.08333333333333333, Take a neural network
+17 Oct held-out photos,IMG_4697__IMG_4681__L02_36fe5b4df3,1. Take a neural network,1,91.0,362,0.0,0.0, Take a neural network
+17 Oct held-out photos,IMG_4697__IMG_4681__L02_36fe5b4df3,1. Take a neural network,2,91.0,157,0.0,0.041666666666666685, Take a neural network
+17 Oct held-out photos,IMG_4697__IMG_4681__L02_36fe5b4df3,1. Take a neural network,3,91.0,533,-0.04166666666666666,0.0, Take a neural netuwork
+17 Oct held-out photos,IMG_4697__IMG_4681__L02_36fe5b4df3,1. Take a neural network,4,91.0,638,-0.04166666666666666,0.0, Take a neural networke
+17 Oct held-out photos,IMG_4697__IMG_4681__L04_9d3792f7c2,by weights and biases,0,49.1,359,-0.047619047619047616,0.0,by woaughts an bravses
+17 Oct held-out photos,IMG_4697__IMG_4681__L04_9d3792f7c2,by weights and biases,1,49.1,381,0.0,0.09523809523809523,by woaghts an bravses
+17 Oct held-out photos,IMG_4697__IMG_4681__L04_9d3792f7c2,by weights and biases,2,49.1,412,0.0,0.047619047619047616,by woaghts an bravses
+17 Oct held-out photos,IMG_4697__IMG_4681__L04_9d3792f7c2,by weights and biases,3,49.1,367,0.0,0.0,by woaghts an bravses
+17 Oct held-out photos,IMG_4697__IMG_4681__L04_9d3792f7c2,by weights and biases,4,49.1,429,0.0,0.047619047619047616,by woaghts an bravses
+17 Oct held-out photos,IMG_4697__IMG_4691__L05_c930c26fef,Complex cells respond to light orientation and movement.,0,71.0,51,-0.017857142857142794,0.0,[A
+17 Oct held-out photos,IMG_4697__IMG_4691__L05_c930c26fef,Complex cells respond to light orientation and movement.,1,71.0,511,-0.017857142857142794,0.0,[A
+17 Oct held-out photos,IMG_4697__IMG_4691__L05_c930c26fef,Complex cells respond to light orientation and movement.,2,71.0,283,0.0,0.0,[AE
+17 Oct held-out photos,IMG_4697__IMG_4691__L05_c930c26fef,Complex cells respond to light orientation and movement.,3,71.0,494,0.0,0.0,[AE
+17 Oct held-out photos,IMG_4697__IMG_4691__L05_c930c26fef,Complex cells respond to light orientation and movement.,4,71.0,156,0.0,0.0,[AE
+17 Oct held-out photos,IMG_4697__IMG_4691__L05_c930c26fef,Complex cells respond to light orientation and movement.,5,71.0,299,-0.017857142857142794,-0.017857142857142905,[E
+17 Oct held-out photos,IMG_4697__IMG_4691__L05_c930c26fef,Complex cells respond to light orientation and movement.,6,71.0,664,0.0,0.0,[AE
+17 Oct held-out photos,IMG_4697__IMG_4691__L05_c930c26fef,Complex cells respond to light orientation and movement.,7,71.0,216,0.0,0.0,[AE
+17 Oct held-out photos,IMG_4697__IMG_4691__L05_c930c26fef,Complex cells respond to light orientation and movement.,8,71.0,555,0.0,0.0,[AE
+17 Oct held-out photos,IMG_4748__IMG_4728__L01_279181ba0b,Simple Linear Regression,0,68.9,933,0.04166666666666666,0.041666666666666664,Simple Limar Regresion
+17 Oct held-out photos,IMG_4748__IMG_4728__L01_279181ba0b,Simple Linear Regression,1,68.9,896,0.08333333333333333,0.041666666666666664,Simpke Linear Regresion
+17 Oct held-out photos,IMG_4748__IMG_4728__L01_279181ba0b,Simple Linear Regression,2,68.9,1385,0.08333333333333333,0.041666666666666664,Simpke Linar Regression
+17 Oct held-out photos,IMG_4748__IMG_4728__L02_ff9c740dbe,The data we can learn from,0,39.0,97,0.0,0.0,The data we can learnfrom
+17 Oct held-out photos,IMG_4748__IMG_4728__L02_ff9c740dbe,The data we can learn from,1,39.0,273,0.0,0.0,The data we can learnfrom
+17 Oct held-out photos,IMG_4748__IMG_4728__L02_ff9c740dbe,The data we can learn from,2,39.0,612,0.038461538461538464,0.0,The data we can learn from
+17 Oct held-out photos,IMG_4748__IMG_4728__L02_ff9c740dbe,The data we can learn from,3,39.0,325,-0.038461538461538464,0.0,The data we can earnfrom
+17 Oct held-out photos,IMG_4748__IMG_4728__L02_ff9c740dbe,The data we can learn from,4,39.0,392,0.0,0.0,The data we can learnfrom
+17 Oct held-out photos,IMG_4748__IMG_4728__L02_ff9c740dbe,The data we can learn from,5,39.0,600,-0.038461538461538464,-0.038461538461538464,The data we can bearnfrom
+17 Oct held-out photos,IMG_4748__IMG_4728__L02_ff9c740dbe,The data we can learn from,6,39.0,604,0.0,0.0,The data we can learnfrom
+17 Oct held-out photos,IMG_4748__IMG_4730__L01_428bfdc5de,A model of how to transform,0,46.2,261,0.0,-0.037037037037037035,A model of how to transfom
+17 Oct held-out photos,IMG_4748__IMG_4730__L01_428bfdc5de,A model of how to transform,1,46.2,779,0.037037037037037035,0.0,A model of how to transform
+17 Oct held-out photos,IMG_4748__IMG_4730__L01_428bfdc5de,A model of how to transform,2,46.2,332,0.0,0.0,A model of how to transfom
+17 Oct held-out photos,IMG_4748__IMG_4730__L01_428bfdc5de,A model of how to transform,3,46.2,451,0.0,-0.037037037037037035,A model of how to transfom
+17 Oct held-out photos,IMG_4748__IMG_4730__L01_428bfdc5de,A model of how to transform,4,46.2,240,-0.07407407407407407,0.0,A model of how to trsfom
+17 Oct held-out photos,IMG_4748__IMG_4730__L01_428bfdc5de,A model of how to transform,5,46.2,899,0.0,0.037037037037037035,A model of how to transfom
+17 Oct held-out photos,IMG_4748__IMG_4730__L02_f205bae23c,the data,0,37.4,429,0.0,0.0,the data
+17 Oct held-out photos,IMG_4748__IMG_4730__L02_f205bae23c,the data,1,37.4,603,0.0,0.0,the data
+17 Oct held-out photos,IMG_4748__IMG_4730__L03_31b64cd1e5,A loss function that quantifies,0,46.0,199,0.0,0.0,Aloss function tatquanes
+17 Oct held-out photos,IMG_4748__IMG_4730__L03_31b64cd1e5,A loss function that quantifies,1,46.0,451,0.0,0.0,Aloss function tatquanes
+17 Oct held-out photos,IMG_4748__IMG_4730__L03_31b64cd1e5,A loss function that quantifies,2,46.0,964,0.0,0.03225806451612903,Aloss function tatquanes
+17 Oct held-out photos,IMG_4748__IMG_4730__L03_31b64cd1e5,A loss function that quantifies,3,46.0,443,0.0967741935483871,0.0,Aloss function that quantes
+17 Oct held-out photos,IMG_4748__IMG_4730__L03_31b64cd1e5,A loss function that quantifies,4,46.0,1062,0.12903225806451613,0.03225806451612903,Aloss function that quanties
+17 Oct held-out photos,IMG_4748__IMG_4730__L04_0bb1222d46,the badness of our model,0,48.4,385,0.0,0.0,the badess of our mode!
+17 Oct held-out photos,IMG_4748__IMG_4730__L04_0bb1222d46,the badness of our model,1,48.4,804,-0.04166666666666667,-0.08333333333333334,the badmes of our mode!
+17 Oct held-out photos,IMG_4748__IMG_4730__L04_0bb1222d46,the badness of our model,2,48.4,312,0.0,0.0,the badess of our mode!
+17 Oct held-out photos,IMG_4748__IMG_4730__L04_0bb1222d46,the badness of our model,3,48.4,481,0.0,-0.041666666666666685,the badmess of our mode!
+17 Oct held-out photos,IMG_4748__IMG_4730__L04_0bb1222d46,the badness of our model,4,48.4,628,-0.04166666666666667,-0.08333333333333334,the badmess of our made!
+17 Oct held-out photos,IMG_4748__IMG_4732__L01_9a0577c7b9,An optimization algorithm to,0,46.6,375,0.0,0.0357142857142857,An optimcation algnitano
+17 Oct held-out photos,IMG_4748__IMG_4732__L01_9a0577c7b9,An optimization algorithm to,1,46.6,1504,-0.035714285714285754,-0.07142857142857142,an opimation algnitano
+17 Oct held-out photos,IMG_4748__IMG_4732__L01_9a0577c7b9,An optimization algorithm to,2,46.6,1086,0.07142857142857142,0.07142857142857145,an optimeation algrithao
+17 Oct held-out photos,IMG_4748__IMG_4732__L01_9a0577c7b9,An optimization algorithm to,3,46.6,274,0.0,0.0357142857142857,an optimcation algnitano
+17 Oct held-out photos,IMG_4748__IMG_4732__L02_30c3b027d9,adjust the model parameters,0,44.3,130,0.0,0.0,adjust the model parameters
+17 Oct held-out photos,IMG_4748__IMG_4732__L02_30c3b027d9,adjust the model parameters,1,44.3,849,0.0,0.0,adjust the model parameters
+17 Oct held-out photos,IMG_4748__IMG_4732__L02_30c3b027d9,adjust the model parameters,2,44.3,401,0.0,0.0,adjust the model parameters
+17 Oct held-out photos,IMG_4748__IMG_4732__L02_30c3b027d9,adjust the model parameters,3,44.3,684,0.0,0.0,adjust the model parameters
+17 Oct held-out photos,IMG_4748__IMG_4732__L02_30c3b027d9,adjust the model parameters,4,44.3,1180,-0.037037037037037035,0.0,adjust the moodel parameters
+17 Oct held-out photos,IMG_4748__IMG_4732__L03_08b48459cd,to minimize the loss,0,42.7,68,0.0,0.0,to minimize the loss
+17 Oct held-out photos,IMG_4748__IMG_4732__L03_08b48459cd,to minimize the loss,1,42.7,345,0.0,0.0,to minimize the loss
+17 Oct held-out photos,IMG_4748__IMG_4732__L03_08b48459cd,to minimize the loss,2,42.7,991,0.0,0.0,to minimize the loss
+17 Oct held-out photos,IMG_4748__IMG_4732__L03_08b48459cd,to minimize the loss,3,42.7,368,0.0,0.0,to minimize the loss
+17 Oct held-out photos,IMG_4748__IMG_4732__L03_08b48459cd,to minimize the loss,4,42.7,468,0.0,0.05,to minimize the loss
+17 Oct held-out photos,IMG_4748__IMG_4741__L01_a48baaea15,Analogue and digital world,0,44.0,990,-0.07692307692307693,-0.07692307692307693,Arologue ad dita world
+17 Oct held-out photos,IMG_4748__IMG_4741__L01_a48baaea15,Analogue and digital world,1,44.0,450,0.07692307692307693,0.07692307692307693,Bnologue and digital world
+17 Oct held-out photos,IMG_4748__IMG_4741__L01_a48baaea15,Analogue and digital world,2,44.0,678,0.0,0.07692307692307693,Bnologue nd diyital world
+17 Oct held-out photos,IMG_4748__IMG_4741__L01_a48baaea15,Analogue and digital world,3,44.0,605,0.07692307692307693,-0.038461538461538464,Bnologue and digital world
+17 Oct held-out photos,IMG_4748__IMG_4741__L02_6faf48e979,The human world is analogue,0,40.6,92,0.0,0.0,The human world is anlogue
+17 Oct held-out photos,IMG_4748__IMG_4741__L02_6faf48e979,The human world is analogue,1,40.6,356,-0.037037037037037035,0.037037037037037035,The human word is anlogue
+17 Oct held-out photos,IMG_4748__IMG_4741__L02_6faf48e979,The human world is analogue,2,40.6,601,-0.037037037037037035,0.037037037037037035,The human word is anlogue
+17 Oct held-out photos,IMG_4748__IMG_4741__L02_6faf48e979,The human world is analogue,3,40.6,608,-0.037037037037037035,0.0,The human warld is anlogue
+17 Oct held-out photos,IMG_4748__IMG_4741__L02_6faf48e979,The human world is analogue,4,40.6,206,0.0,0.0,The human world is anlogue
+17 Oct held-out photos,IMG_4748__IMG_4741__L02_6faf48e979,The human world is analogue,5,40.6,909,-0.037037037037037035,0.037037037037037035,The human world is anlague
+17 Oct held-out photos,IMG_4748__IMG_4741__L03_94a6a2fb8b,"and continuous, while",0,35.9,85,0.0,0.0,"and continuous, while"
+17 Oct held-out photos,IMG_4748__IMG_4741__L03_94a6a2fb8b,"and continuous, while",1,35.9,453,0.0,0.0,"and continuous, while"
+17 Oct held-out photos,IMG_4748__IMG_4741__L03_94a6a2fb8b,"and continuous, while",2,35.9,478,0.0,0.0,"and continuous, while"
+17 Oct held-out photos,IMG_4748__IMG_4741__L03_94a6a2fb8b,"and continuous, while",3,35.9,655,0.0,0.0,"and continuous, while"
+17 Oct held-out photos,IMG_4748__IMG_4741__L03_94a6a2fb8b,"and continuous, while",4,35.9,127,0.0,0.0,"and continuous, while"
+17 Oct held-out photos,IMG_4748__IMG_4741__L03_94a6a2fb8b,"and continuous, while",5,35.9,590,0.0,0.0,"and continuous, while"
+17 Oct held-out photos,IMG_4748__IMG_4741__L04_7a523c26b7,the computer world is,0,33.8,73,0.0,0.0,the computer world is
+17 Oct held-out photos,IMG_4748__IMG_4741__L04_7a523c26b7,the computer world is,1,33.8,330,0.0,0.0,the computer world is
+17 Oct held-out photos,IMG_4748__IMG_4741__L04_7a523c26b7,the computer world is,2,33.8,937,-0.047619047619047616,0.0,the computer worrld is
+17 Oct held-out photos,IMG_4748__IMG_4741__L04_7a523c26b7,the computer world is,3,33.8,633,0.0,0.0,the computer world is
+17 Oct held-out photos,IMG_4748__IMG_4741__L04_7a523c26b7,the computer world is,4,33.8,213,0.0,0.0,the computer world is
+17 Oct held-out photos,IMG_4748__IMG_4741__L05_76f4436e53,discrete and digital.,0,44.4,867,0.047619047619047616,0.0,discrete and digital.
+17 Oct held-out photos,IMG_4748__IMG_4741__L05_76f4436e53,discrete and digital.,1,44.4,509,0.047619047619047616,0.0,discrete and digital.
+17 Oct held-out photos,IMG_4748__IMG_4741__L05_76f4436e53,discrete and digital.,2,44.4,959,0.047619047619047616,0.0,discrete and digital.
+17 Oct held-out photos,IMG_4748__IMG_4744__L02_5d0ef094f3,analogue and digital,0,48.9,159,-0.04999999999999999,0.0,f annlogue anddigial
+17 Oct held-out photos,IMG_4748__IMG_4744__L02_5d0ef094f3,analogue and digital,1,48.9,1033,0.0,-0.1,f annlogue and digial
+17 Oct held-out photos,IMG_4748__IMG_4744__L02_5d0ef094f3,analogue and digital,2,48.9,418,0.0,-0.04999999999999999,f anlogue and digial
+17 Oct held-out photos,IMG_4748__IMG_4744__L02_5d0ef094f3,analogue and digital,3,48.9,708,0.0,-0.04999999999999999,f anlogue anddigital
+17 Oct held-out photos,IMG_4748__IMG_4744__L03_b1e1d588c7,electronics to represent the,0,48.6,762,0.0,0.03571428571428571,electronis to represent the
+17 Oct held-out photos,IMG_4748__IMG_4744__L03_b1e1d588c7,electronics to represent the,1,48.6,676,-0.03571428571428571,0.03571428571428571,electronis to repriesent the
+17 Oct held-out photos,IMG_4748__IMG_4744__L03_b1e1d588c7,electronics to represent the,2,48.6,275,-0.07142857142857142,0.0,electronics torpriesent the
+17 Oct held-out photos,IMG_4748__IMG_4744__L03_b1e1d588c7,electronics to represent the,3,48.6,1118,0.03571428571428571,0.03571428571428571,electronics to represent the
+17 Oct held-out photos,IMG_4748__IMG_4744__L03_b1e1d588c7,electronics to represent the,4,48.6,341,0.0,0.0,electronics to repriesent the
+17 Oct held-out photos,IMG_4748__IMG_4744__L04_048f867f5d,Corresponding signal,0,24.8,563,0.0,0.0,Corresponding signal
+17 Oct held-out photos,IMG_4748__IMG_4744__L04_048f867f5d,Corresponding signal,1,24.8,732,0.0,0.0,Corresponding signal
+17 Oct held-out photos,IMG_4748__IMG_4744__L04_048f867f5d,Corresponding signal,2,24.8,248,0.0,0.0,Corresponding signal
+17 Oct held-out photos,IMG_4748__IMG_4744__L04_048f867f5d,Corresponding signal,3,24.8,225,0.0,0.0,Corresponding signal
+17 Oct held-out photos,IMG_4748__IMG_4744__L04_048f867f5d,Corresponding signal,4,24.8,304,0.0,0.0,Corresponding signal
+17 Oct held-out photos,IMG_4748__IMG_4744__L04_048f867f5d,Corresponding signal,5,24.8,549,-0.05,-0.05,Corresponding signeal
+17 Oct held-out photos,IMG_4748__IMG_4744__L04_048f867f5d,Corresponding signal,6,24.8,125,0.0,0.0,Corresponding signal
+17 Oct held-out photos,IMG_4750__IMG_4728__L01_279181ba0b,Simple Linear Regression,0,143.9,932,0.04166666666666667,0.041666666666666664,Simpke Linear Regresion
+17 Oct held-out photos,IMG_4750__IMG_4728__L01_279181ba0b,Simple Linear Regression,1,143.9,898,0.0,0.0,Simpk Linear Regresion
+17 Oct held-out photos,IMG_4750__IMG_4728__L01_279181ba0b,Simple Linear Regression,2,143.9,1385,0.0,0.041666666666666664,Simpk Linear Regresion
+17 Oct held-out photos,IMG_4750__IMG_4728__L02_ff9c740dbe,The data we can learn from,0,79.1,97,0.07692307692307693,0.0,The data we can learnfrom
+17 Oct held-out photos,IMG_4750__IMG_4728__L02_ff9c740dbe,The data we can learn from,1,79.1,271,0.038461538461538464,0.0,The dlata we can learnfrom
+17 Oct held-out photos,IMG_4750__IMG_4728__L02_ff9c740dbe,The data we can learn from,2,79.1,611,0.038461538461538464,0.038461538461538464,The data we an learnfrom
+17 Oct held-out photos,IMG_4750__IMG_4728__L02_ff9c740dbe,The data we can learn from,3,79.1,321,0.038461538461538464,0.0,The dlata we can learnfrom
+17 Oct held-out photos,IMG_4750__IMG_4728__L02_ff9c740dbe,The data we can learn from,4,79.1,391,0.0,0.0,The dlata we cn learnfrom
+17 Oct held-out photos,IMG_4750__IMG_4728__L02_ff9c740dbe,The data we can learn from,5,79.1,602,-0.038461538461538464,-0.07692307692307693,The dlata we cn kearnfrom
+17 Oct held-out photos,IMG_4750__IMG_4728__L02_ff9c740dbe,The data we can learn from,6,79.1,605,0.07692307692307693,0.0,The data we cacn learn from
+17 Oct held-out photos,IMG_4750__IMG_4730__L01_428bfdc5de,A model of how to transform,0,93.4,261,-0.037037037037037035,-0.037037037037037035,A model of how to trasfom
+17 Oct held-out photos,IMG_4750__IMG_4730__L01_428bfdc5de,A model of how to transform,1,93.4,780,-0.037037037037037035,-0.037037037037037035,A model of how to trasfom
+17 Oct held-out photos,IMG_4750__IMG_4730__L01_428bfdc5de,A model of how to transform,2,93.4,329,0.0,0.0,A model of how to transfom
+17 Oct held-out photos,IMG_4750__IMG_4730__L01_428bfdc5de,A model of how to transform,3,93.4,449,0.0,0.0,A model of how to transfom
+17 Oct held-out photos,IMG_4750__IMG_4730__L01_428bfdc5de,A model of how to transform,4,93.4,242,-0.07407407407407407,-0.07407407407407407,A model of how to trsfom
+17 Oct held-out photos,IMG_4750__IMG_4730__L01_428bfdc5de,A model of how to transform,5,93.4,904,0.037037037037037035,0.037037037037037035,A model of how to transform
+17 Oct held-out photos,IMG_4750__IMG_4730__L02_f205bae23c,the data,0,69.8,429,0.0,0.0,the data
+17 Oct held-out photos,IMG_4750__IMG_4730__L02_f205bae23c,the data,1,69.8,606,0.0,0.0,the data
+17 Oct held-out photos,IMG_4750__IMG_4730__L03_31b64cd1e5,A loss function that quantifies,0,93.8,200,0.0,0.03225806451612903,Aloss function thatquas
+17 Oct held-out photos,IMG_4750__IMG_4730__L03_31b64cd1e5,A loss function that quantifies,1,93.8,450,-0.03225806451612906,-0.03225806451612903,Aloss function tatquas
+17 Oct held-out photos,IMG_4750__IMG_4730__L03_31b64cd1e5,A loss function that quantifies,2,93.8,961,0.0,0.03225806451612903,Aloss function thatquas
+17 Oct held-out photos,IMG_4750__IMG_4730__L03_31b64cd1e5,A loss function that quantifies,3,93.8,442,0.03225806451612903,0.0,Aloss function that quas
+17 Oct held-out photos,IMG_4750__IMG_4730__L03_31b64cd1e5,A loss function that quantifies,4,93.8,1068,0.03225806451612903,0.03225806451612903,Aloss function tatquaies
+17 Oct held-out photos,IMG_4750__IMG_4730__L04_0bb1222d46,the badness of our model,0,97.2,386,-0.04166666666666667,0.0,the badnes of our moade!
+17 Oct held-out photos,IMG_4750__IMG_4730__L04_0bb1222d46,the badness of our model,1,97.2,806,-0.04166666666666667,0.0,the bades of our mode!
+17 Oct held-out photos,IMG_4750__IMG_4730__L04_0bb1222d46,the badness of our model,2,97.2,313,0.0,0.0,the badnes of our mode!
+17 Oct held-out photos,IMG_4750__IMG_4730__L04_0bb1222d46,the badness of our model,3,97.2,478,-0.04166666666666667,0.0,the bades of our mode!
+17 Oct held-out photos,IMG_4750__IMG_4730__L04_0bb1222d46,the badness of our model,4,97.2,629,-0.08333333333333333,-0.04166666666666666,the bades of our made!
+17 Oct held-out photos,IMG_4750__IMG_4732__L01_9a0577c7b9,An optimization algorithm to,0,96.2,375,0.0357142857142857,0.035714285714285754,An opkmeation algnitanto
+17 Oct held-out photos,IMG_4750__IMG_4732__L01_9a0577c7b9,An optimization algorithm to,1,96.2,1512,0.0,0.0,Bn opkmeation algnitanto
+17 Oct held-out photos,IMG_4750__IMG_4732__L01_9a0577c7b9,An optimization algorithm to,2,96.2,1088,0.07142857142857145,0.035714285714285754,Bn opkmeation algrithanto
+17 Oct held-out photos,IMG_4750__IMG_4732__L01_9a0577c7b9,An optimization algorithm to,3,96.2,276,0.0,-0.0357142857142857,Bn opkmeation algniteanto
+17 Oct held-out photos,IMG_4750__IMG_4732__L02_30c3b027d9,adjust the model parameters,0,90.6,137,0.0,0.0,adjust the model paraneters
+17 Oct held-out photos,IMG_4750__IMG_4732__L02_30c3b027d9,adjust the model parameters,1,90.6,850,-0.07407407407407407,0.037037037037037035,adjust the model paraners
+17 Oct held-out photos,IMG_4750__IMG_4732__L02_30c3b027d9,adjust the model parameters,2,90.6,400,-0.037037037037037035,0.0,adjust the model paaneters
+17 Oct held-out photos,IMG_4750__IMG_4732__L02_30c3b027d9,adjust the model parameters,3,90.6,684,0.0,0.037037037037037035,adjust the model paranmeters
+17 Oct held-out photos,IMG_4750__IMG_4732__L02_30c3b027d9,adjust the model parameters,4,90.6,1179,0.0,0.1111111111111111,adjust the moodel parameters
+17 Oct held-out photos,IMG_4750__IMG_4732__L03_08b48459cd,to minimize the loss,0,84.0,72,0.0,0.0,to minimize the loss
+17 Oct held-out photos,IMG_4750__IMG_4732__L03_08b48459cd,to minimize the loss,1,84.0,341,0.0,0.0,to minimize the loss
+17 Oct held-out photos,IMG_4750__IMG_4732__L03_08b48459cd,to minimize the loss,2,84.0,984,0.0,0.0,to minimize the loss
+17 Oct held-out photos,IMG_4750__IMG_4732__L03_08b48459cd,to minimize the loss,3,84.0,367,0.0,0.05,to minimize the loss
+17 Oct held-out photos,IMG_4750__IMG_4732__L03_08b48459cd,to minimize the loss,4,84.0,467,-0.05,0.0,to minimize the losss
+17 Oct held-out photos,IMG_4750__IMG_4741__L02_6faf48e979,The human world is analogue,0,109.5,94,0.037037037037037035,0.0,The human ward is anlogue
+17 Oct held-out photos,IMG_4750__IMG_4741__L02_6faf48e979,The human world is analogue,1,109.5,357,0.0,0.0,The human wardis anlogue
+17 Oct held-out photos,IMG_4750__IMG_4741__L02_6faf48e979,The human world is analogue,2,109.5,602,0.037037037037037035,0.0,The human ward is anlogue
+17 Oct held-out photos,IMG_4750__IMG_4741__L02_6faf48e979,The human world is analogue,3,109.5,611,0.07407407407407407,0.037037037037037035,The human warld is anlogue
+17 Oct held-out photos,IMG_4750__IMG_4741__L02_6faf48e979,The human world is analogue,4,109.5,206,0.0,0.0,The human wardis anlogue
+17 Oct held-out photos,IMG_4750__IMG_4741__L02_6faf48e979,The human world is analogue,5,109.5,914,0.037037037037037035,0.0,The human ward is analague
+17 Oct held-out photos,IMG_4750__IMG_4741__L03_94a6a2fb8b,"and continuous, while",0,92.8,85,0.0,0.0,"and continuous, while"
+17 Oct held-out photos,IMG_4750__IMG_4741__L03_94a6a2fb8b,"and continuous, while",1,92.8,454,0.0,0.0,"and continuous, while"
+17 Oct held-out photos,IMG_4750__IMG_4741__L03_94a6a2fb8b,"and continuous, while",2,92.8,477,0.0,0.0,"and continuous, while"
+17 Oct held-out photos,IMG_4750__IMG_4741__L03_94a6a2fb8b,"and continuous, while",3,92.8,654,0.0,0.0,"and continuous, while"
+17 Oct held-out photos,IMG_4750__IMG_4741__L03_94a6a2fb8b,"and continuous, while",4,92.8,120,0.0,0.0,"and continuous, while"
+17 Oct held-out photos,IMG_4750__IMG_4741__L03_94a6a2fb8b,"and continuous, while",5,92.8,591,0.0,0.0,"and continuous, while"
+17 Oct held-out photos,IMG_4750__IMG_4741__L04_7a523c26b7,the computer world is,0,90.3,134,0.0,0.0,the computer world is
+17 Oct held-out photos,IMG_4750__IMG_4741__L04_7a523c26b7,the computer world is,1,90.3,335,0.0,0.0,the computer world is
+17 Oct held-out photos,IMG_4750__IMG_4741__L04_7a523c26b7,the computer world is,2,90.3,934,0.0,0.0,the computer world is
+17 Oct held-out photos,IMG_4750__IMG_4741__L04_7a523c26b7,the computer world is,3,90.3,635,0.0,0.0,the computer world is
+17 Oct held-out photos,IMG_4750__IMG_4741__L04_7a523c26b7,the computer world is,4,90.3,218,0.0,0.0,the computer world is
+17 Oct held-out photos,IMG_4750__IMG_4741__L05_76f4436e53,discrete and digital.,0,117.0,868,0.0,0.0,discrete and digital.
+17 Oct held-out photos,IMG_4750__IMG_4741__L05_76f4436e53,discrete and digital.,1,117.0,505,0.0,0.0,discrete and digital.
+17 Oct held-out photos,IMG_4750__IMG_4741__L05_76f4436e53,discrete and digital.,2,117.0,954,0.0,0.0,discrete and digital.
+17 Oct held-out photos,IMG_4750__IMG_4744__L02_5d0ef094f3,analogue and digital,0,133.5,159,-0.09999999999999999,-0.1,f annlogue and digital
+17 Oct held-out photos,IMG_4750__IMG_4744__L02_5d0ef094f3,analogue and digital,1,133.5,1024,0.0,0.0, annlogue and digital
+17 Oct held-out photos,IMG_4750__IMG_4744__L02_5d0ef094f3,analogue and digital,2,133.5,415,-0.09999999999999999,0.0,f annlogue and digital
+17 Oct held-out photos,IMG_4750__IMG_4744__L02_5d0ef094f3,analogue and digital,3,133.5,717,-0.05,-0.05000000000000002, annlogue and digial
+17 Oct held-out photos,IMG_4750__IMG_4744__L03_b1e1d588c7,electronics to represent the,0,133.3,770,-0.07142857142857142,0.0,electrancsto represpent the
+17 Oct held-out photos,IMG_4750__IMG_4744__L03_b1e1d588c7,electronics to represent the,1,133.3,676,0.0,0.10714285714285715,electroics to represpent the
+17 Oct held-out photos,IMG_4750__IMG_4744__L03_b1e1d588c7,electronics to represent the,2,133.3,276,-0.03571428571428571,0.0,electronis t repressent the
+17 Oct held-out photos,IMG_4750__IMG_4744__L03_b1e1d588c7,electronics to represent the,3,133.3,1123,-0.03571428571428571,0.03571428571428571,electronis t rpresent the
+17 Oct held-out photos,IMG_4750__IMG_4744__L03_b1e1d588c7,electronics to represent the,4,133.3,341,-0.07142857142857142,0.0,electronis t represseat the
+17 Oct held-out photos,IMG_4750__IMG_4744__L04_048f867f5d,Corresponding signal,0,68.2,84,-0.05,0.0,colresponding signeal
+17 Oct held-out photos,IMG_4750__IMG_4744__L04_048f867f5d,Corresponding signal,1,68.2,568,0.0,0.0,colresponding signal
+17 Oct held-out photos,IMG_4750__IMG_4744__L04_048f867f5d,Corresponding signal,2,68.2,733,-0.05,0.0,colresponding signeal
+17 Oct held-out photos,IMG_4750__IMG_4744__L04_048f867f5d,Corresponding signal,3,68.2,248,0.0,0.0,colresponding signal
+17 Oct held-out photos,IMG_4750__IMG_4744__L04_048f867f5d,Corresponding signal,4,68.2,224,0.0,0.0,colresponding signal
+17 Oct held-out photos,IMG_4750__IMG_4744__L04_048f867f5d,Corresponding signal,5,68.2,305,0.0,0.0,colresponding signal
+17 Oct held-out photos,IMG_4750__IMG_4744__L04_048f867f5d,Corresponding signal,6,68.2,552,0.0,0.0,colresponding signal
+17 Oct held-out photos,IMG_4750__IMG_4744__L04_048f867f5d,Corresponding signal,7,68.2,117,-0.05,-0.05,colresponding signeal

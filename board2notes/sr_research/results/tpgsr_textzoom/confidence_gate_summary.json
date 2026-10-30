@@ -1,0 +1,20 @@
+{
+  "blend_alpha": 0.3,
+  "selected_confidence_margin": 0.0,
+  "calibration_bicubic_cer": 0.43531595447618354,
+  "calibration_bicubic_exact": 0.4139344262295082,
+  "calibration_gated_cer": 0.4249523380097046,
+  "calibration_gated_exact": 0.42418032786885246,
+  "test_pairs": 1343,
+  "bicubic_cer": 0.4493305594779468,
+  "blend_cer": 0.4391463829776869,
+  "gated_cer": 0.43703449015469953,
+  "bicubic_exact": 0.37751303052866714,
+  "blend_exact": 0.37230081906180196,
+  "gated_exact": 0.3812360387192852,
+  "selected_blend": 702,
+  "selected_bicubic": 641,
+  "gated_improved": 94,
+  "gated_unchanged": 1195,
+  "gated_worsened": 54
+}

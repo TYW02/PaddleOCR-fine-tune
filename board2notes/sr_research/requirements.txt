@@ -1,0 +1,33 @@
+# Python 3.12 (PaddlePaddle does not support 3.13+ yet)
+# Versions below are the ones the notebooks were run and tested with.
+
+# OCR models
+paddlepaddle==3.3.1
+paddleocr==3.7.0
+paddlex==3.7.2
+
+# image processing / data
+opencv-contrib-python==4.10.0.84     # "contrib" build: includes cv2.dnn_superres (used for ESPCN/FSRCNN/EDSR tests)
+numpy==2.3.5
+pillow==12.3.0
+pillow-heif==1.8.1                    # full-resolution iPhone HEIC decoding for the paired-dataset pipeline
+pandas==3.0.6
+pyarrow==25.0.1                       # reading the IAM-line parquet files
+lmdb>=1.4                             # reading the official TextZoom LR/HR benchmark
+openpyxl                              # reading the .xlsx label files (data/board2notes_v1); pin the version once tested
+PyYAML==6.0.2                         # augmentation policy
+
+# evaluation / notebooks
+jiwer==4.0.0                          # character / word error rate
+matplotlib==3.11.2
+ipykernel==7.3.0
+ipywidgets==8.1.9                      # interactive accept/reject transcription review notebook
+
+# only for notebooks/experiments/whiteboard_segmentation_yolo.ipynb (not needed by the main pipeline)
+# ultralytics==8.4.161
+
+# only for notebooks/experiments/super_resolution_pretrained.ipynb (Real-ESRGAN comparison)
+torch==2.14.0
+torchvision==0.29.0
+basicsr==1.4.2
+realesrgan==0.3.0

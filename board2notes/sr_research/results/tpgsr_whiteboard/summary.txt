@@ -1,0 +1,22 @@
+Size gate chosen on validation: only words < 16 px (far photo) are restored, in every version except 'raw input' and 'TPGSR fine-tuned, every word'. The 16px path uses the same gate, so it isolates the network.
+
+=== Airdrop B3 (unseen board, main test): 23 lines ===
+raw input                  CER 0.153 | vs raw +0.000 [+0.000, +0.000] | better 0 / same 23 / worse 0
+16px path, no network      CER 0.153 | vs raw -0.001 [-0.016, +0.016] | better 2 / same 19 / worse 2
+TPGSR pretrained           CER 0.166 | vs raw -0.014 [-0.040, +0.004] | better 1 / same 18 / worse 4
+TPGSR fine-tuned           CER 0.166 | vs raw -0.014 [-0.040, +0.004] | better 1 / same 18 / worse 4
+TPGSR fine-tuned, every word CER 0.247 | vs raw -0.094 [-0.136, -0.059] | better 2 / same 7 / worse 14
+blend (alpha 0.3)          CER 0.159 | vs raw -0.007 [-0.025, +0.016] | better 3 / same 15 / worse 5
+gate (margin 0.0)          CER 0.167 | vs raw -0.015 [-0.024, -0.005] | better 1 / same 18 / worse 4
+
+=== 17 Oct held-out photos: 37 lines ===
+raw input                  CER 0.120 | vs raw +0.000 [+0.000, +0.000] | better 0 / same 37 / worse 0
+16px path, no network      CER 0.120 | vs raw +0.000 [+0.000, +0.000] | better 0 / same 37 / worse 0
+TPGSR pretrained           CER 0.120 | vs raw +0.000 [+0.000, +0.000] | better 0 / same 37 / worse 0
+TPGSR fine-tuned           CER 0.120 | vs raw +0.000 [+0.000, +0.000] | better 0 / same 37 / worse 0
+TPGSR fine-tuned, every word CER 0.102 | vs raw +0.018 [+0.005, +0.052] | better 12 / same 16 / worse 9
+blend (alpha 0.3)          CER 0.120 | vs raw +0.000 [+0.000, +0.000] | better 0 / same 37 / worse 0
+gate (margin 0.0)          CER 0.120 | vs raw +0.000 [+0.000, +0.000] | better 0 / same 37 / worse 0
+
+VERDICT (rule fixed before training, unseen board; version chosen on validation = gate (margin 0.0)):
+  CER 0.167 vs raw input 0.153 and 16px path 0.153; 1 lines better / 4 worse -> FAILS

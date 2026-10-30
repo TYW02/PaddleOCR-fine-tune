@@ -1,0 +1,18 @@
+# Model weights, private data and generated runs are shared separately.
+**/.venv*/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/data/
+**/models/
+**/outputs/
+**/*.pt
+**/*.pth
+**/*.pdparams
+**/*.pdopt
+**/*.pdiparams
+**/*.mdb
+**/*.zip
+**/*.HEIC
+**/*.heic
+**/*.log
+.env*

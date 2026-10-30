@@ -1,0 +1,1201 @@
+height,method,gt,read,cer
+16,none,apple car,ent ar,0.6666666666666666
+16,none,television,elevision,0.1
+16,none,apple car,sto,1.0
+16,none,television,hecon,0.7
+16,none,apple car,ta,0.8888888888888888
+16,none,television,1eou,0.8
+16,none,television,loor,0.8
+16,none,apple car,sta,0.8888888888888888
+16,none,television,Eeron,0.6
+16,none,television,he,0.9
+16,none,television,he,0.9
+16,none,television,Rlevison,0.3
+16,none,Visualise feature layer,iwis hess iger,0.6521739130434783
+16,none,CNN Architecture,C ,0.9375
+16,none,Visualising CNN,liy cer,0.7333333333333333
+16,none,Visualise filter & output,ikie iop?,0.72
+16,none,"LeNet, Alexnet, Resnet","whe, lon, Ran!",0.5909090909090909
+16,none,Saliency via occlusion,Wiang to ailcion,0.6363636363636364
+16,none,"Dropout, Batch Normalization","Dught, Done omtiontion",0.5714285714285714
+16,none,CNN Architecture,CN Aman,0.75
+16,none,Visualising CNN,Diating Cas,0.5333333333333333
+16,none,"LeNet, Alexnet, Resnet","e, Maai, Ron!",0.6818181818181818
+16,none,Visualise feature layer,cavis hove iger,0.6521739130434783
+16,none,Saliency via occlusion,Silany n oultion,0.5
+16,none,"Dropout, Batch Normalization","Duout, Bond Nornalisation",0.32142857142857145
+16,none,CNN Architecture,C02/ ne,0.875
+16,none,"LeNet, Alexnet, Resnet","ane, Mani, Ront",0.5454545454545454
+16,none,Saliency via occlusion,Salay on acdcion,0.5454545454545454
+16,none,CNN Architecture,CN ,0.875
+16,none,Visualise feature layer,raie hote loger,0.5652173913043478
+16,none,"LeNet, Alexnet, Resnet","ler, Bont, Rant",0.5
+16,none,Saliency via occlusion,Seleary ais aulution,0.45454545454545453
+16,none,"Dropout, Batch Normalization","Dropout, Both Wormeliontion",0.21428571428571427
+16,none,[Please set the computer,te  hme,0.75
+16,none,[Please set the computer,1,1.0
+16,none,The quiz today is, ,1.0
+16,none,[Please set the computer,few or the cmpule,0.5
+16,none,so hard.,to haof,0.5
+16,none,The quiz today is,songe,0.9411764705882353
+16,none,[Please set the computer,fes or te omper,0.5
+16,none,so hard.,in had,0.5
+16,none,[Please set the computer,toe ot th impe,0.5833333333333334
+16,none,"more mcq and matching,",ea,0.9090909090909091
+16,none,<50% of the question,0iiay,0.9
+16,none,[Please set the computer,es te a me,0.6666666666666666
+16,none,"more mcq and matching,",Naum,0.9090909090909091
+16,none,<50% of the question,othr,0.85
+16,none,[Please set the computer,,1.0
+16,bicubic+sharpen,apple car,,1.0
+16,bicubic+sharpen,television,Ekvision,0.3
+16,bicubic+sharpen,apple car,sta,0.8888888888888888
+16,bicubic+sharpen,television,ihtason,0.7
+16,bicubic+sharpen,apple car,9t0,1.0
+16,bicubic+sharpen,television,1ce,0.9
+16,bicubic+sharpen,television,lbor,0.8
+16,bicubic+sharpen,apple car,sta,0.8888888888888888
+16,bicubic+sharpen,television,Xercr,0.9
+16,bicubic+sharpen,television,a,1.0
+16,bicubic+sharpen,television,T,0.9
+16,bicubic+sharpen,television,Rlerison,0.4
+16,bicubic+sharpen,Visualise feature layer,ian hass ,0.8260869565217391
+16,bicubic+sharpen,CNN Architecture,,1.0
+16,bicubic+sharpen,Visualising CNN,liny tev,0.7333333333333333
+16,bicubic+sharpen,Visualise filter & output,ikt bmv  1240,0.84
+16,bicubic+sharpen,"LeNet, Alexnet, Resnet","ahe, lbns foat",0.6818181818181818
+16,bicubic+sharpen,Saliency via occlusion,Wing sa silacian,0.6363636363636364
+16,bicubic+sharpen,"Dropout, Batch Normalization","Dygat, hone womti+tion",0.5714285714285714
+16,bicubic+sharpen,CNN Architecture,C031ma,0.9375
+16,bicubic+sharpen,Visualising CNN,liating ces,0.5333333333333333
+16,bicubic+sharpen,"LeNet, Alexnet, Resnet","a1. Maat, Rumt",0.7272727272727273
+16,bicubic+sharpen,Visualise feature layer,Eavie luke lger,0.5652173913043478
+16,bicubic+sharpen,Saliency via occlusion,Sikany on abcan,0.6818181818181818
+16,bicubic+sharpen,"Dropout, Batch Normalization","Duyht , Some Normlnntin",0.5714285714285714
+16,bicubic+sharpen,CNN Architecture,C22/,0.9375
+16,bicubic+sharpen,"LeNet, Alexnet, Resnet","ahet, Mnt, Riuat",0.5454545454545454
+16,bicubic+sharpen,Saliency via occlusion,Sakay in acdoon,0.5909090909090909
+16,bicubic+sharpen,CNN Architecture,Ca1 ,0.875
+16,bicubic+sharpen,Visualise feature layer,riais hnte lager,0.4782608695652174
+16,bicubic+sharpen,"LeNet, Alexnet, Resnet","ay, kost, saat",0.6818181818181818
+16,bicubic+sharpen,Saliency via occlusion,Selengy as acurmen,0.5454545454545454
+16,bicubic+sharpen,"Dropout, Batch Normalization","Dupoat , Both Wonrmeliention",0.39285714285714285
+16,bicubic+sharpen,[Please set the computer,tathme,0.7916666666666666
+16,bicubic+sharpen,[Please set the computer,.,1.0
+16,bicubic+sharpen,The quiz today is,5,1.0
+16,bicubic+sharpen,[Please set the computer,e  he,0.7916666666666666
+16,bicubic+sharpen,so hard.,to hagf,0.5
+16,bicubic+sharpen,The quiz today is,1,1.0
+16,bicubic+sharpen,[Please set the computer,Yon or se oper,0.6666666666666666
+16,bicubic+sharpen,so hard.,io ted,0.625
+16,bicubic+sharpen,[Please set the computer,tee st ta e,0.625
+16,bicubic+sharpen,"more mcq and matching,",N,0.9545454545454546
+16,bicubic+sharpen,<50% of the question,9172,1.0
+16,bicubic+sharpen,[Please set the computer,as,0.9166666666666666
+16,bicubic+sharpen,"more mcq and matching,",Nau,0.9090909090909091
+16,bicubic+sharpen,<50% of the question,ofAr,0.9
+16,bicubic+sharpen,[Please set the computer,,1.0
+16,espcn,apple car,tca,0.7777777777777778
+16,espcn,television,elevision,0.1
+16,espcn,apple car,sta,0.8888888888888888
+16,espcn,television,ntsson,0.7
+16,espcn,apple car,Na,0.8888888888888888
+16,espcn,television,1eco,0.8
+16,espcn,television,loor,0.8
+16,espcn,apple car,sta,0.8888888888888888
+16,espcn,television,bercon,0.7
+16,espcn,television,he,0.9
+16,espcn,television,he,0.9
+16,espcn,television,Rlevison,0.3
+16,espcn,Visualise feature layer,iais hes igor,0.6521739130434783
+16,espcn,CNN Architecture,C0N ,0.875
+16,espcn,Visualising CNN,lnny cer,0.7333333333333333
+16,espcn,Visualise filter & output,tidie tip?,0.76
+16,espcn,"LeNet, Alexnet, Resnet","the, ln an",0.6818181818181818
+16,espcn,Saliency via occlusion,Sing ta sae,0.6818181818181818
+16,espcn,"Dropout, Batch Normalization","Dngat, Bene wormlention",0.5
+16,espcn,CNN Architecture,CNAa,0.8125
+16,espcn,Visualising CNN,piating Cas,0.5333333333333333
+16,espcn,"LeNet, Alexnet, Resnet","e Mas, Ront",0.6818181818181818
+16,espcn,Visualise feature layer,cavit hove lger,0.6521739130434783
+16,espcn,Saliency via occlusion,Sihany on adaion,0.6363636363636364
+16,espcn,"Dropout, Batch Normalization","Duout, Bond Normelisetion",0.35714285714285715
+16,espcn,CNN Architecture,C03/ adate,0.75
+16,espcn,"LeNet, Alexnet, Resnet","ihe. Mant, Runt",0.5909090909090909
+16,espcn,Saliency via occlusion,Jalay no scdaion,0.5909090909090909
+16,espcn,CNN Architecture,CN ,0.875
+16,espcn,Visualise feature layer,rais hotien loper,0.6086956521739131
+16,espcn,"LeNet, Alexnet, Resnet","later, Bont, Revnt",0.45454545454545453
+16,espcn,Saliency via occlusion,Seleagy on aulurion,0.5
+16,espcn,"Dropout, Batch Normalization","Dopout, Both Normeliention",0.21428571428571427
+16,espcn,[Please set the computer,aya,0.9583333333333334
+16,espcn,[Please set the computer,r,0.9583333333333334
+16,espcn,The quiz today is,n,1.0
+16,espcn,[Please set the computer,fes ot the omper,0.4166666666666667
+16,espcn,so hard.,to hagd,0.375
+16,espcn,The quiz today is,spge,1.0
+16,espcn,[Please set the computer,fen or the omper,0.5
+16,espcn,so hard.,in hard,0.375
+16,espcn,[Please set the computer,teme or th ipe,0.625
+16,espcn,"more mcq and matching,",N,0.9545454545454546
+16,espcn,<50% of the question,0ty,0.9
+16,espcn,[Please set the computer,e te a me,0.7083333333333334
+16,espcn,"more mcq and matching,",Neum,0.9090909090909091
+16,espcn,<50% of the question,ofhy,0.85
+16,espcn,[Please set the computer,,1.0
+16,espcn-iam,apple car,t,1.0
+16,espcn-iam,television,Pleviston,0.3
+16,espcn-iam,apple car,9,1.0
+16,espcn-iam,television,ceaco,0.8
+16,espcn-iam,apple car,1,1.0
+16,espcn-iam,television,Fexcer,0.9
+16,espcn-iam,television,1,1.0
+16,espcn-iam,apple car,2,1.0
+16,espcn-iam,television,kenor,0.8
+16,espcn-iam,television,P,1.0
+16,espcn-iam,television,D,1.0
+16,espcn-iam,television,2erson,0.6
+16,espcn-iam,Visualise feature layer,,1.0
+16,espcn-iam,CNN Architecture,er Adata,0.8125
+16,espcn-iam,Visualising CNN,107tee,1.0
+16,espcn-iam,Visualise filter & output,k,1.0
+16,espcn-iam,"LeNet, Alexnet, Resnet",hlo,0.9545454545454546
+16,espcn-iam,Saliency via occlusion,hagy sa ,0.8181818181818182
+16,espcn-iam,"Dropout, Batch Normalization","aget, lone Hartivtion",0.6428571428571429
+16,espcn-iam,CNN Architecture,CNL AMAbre,0.625
+16,espcn-iam,Visualising CNN,piak y cer,0.7333333333333333
+16,espcn-iam,"LeNet, Alexnet, Resnet", Mt lot,0.8181818181818182
+16,espcn-iam,Visualise feature layer,in,0.9565217391304348
+16,espcn-iam,Saliency via occlusion,Syn dan,0.7727272727272727
+16,espcn-iam,"Dropout, Batch Normalization","Degout, Bane Nomlntion",0.39285714285714285
+16,espcn-iam,CNN Architecture,C ,0.9375
+16,espcn-iam,"LeNet, Alexnet, Resnet"," bot, Rout",0.7727272727272727
+16,espcn-iam,Saliency via occlusion,ling n deon,0.6818181818181818
+16,espcn-iam,CNN Architecture,CN ,0.875
+16,espcn-iam,Visualise feature layer,roin hoee hager,0.6956521739130435
+16,espcn-iam,"LeNet, Alexnet, Resnet","liker, bbost, Lont",0.5909090909090909
+16,espcn-iam,Saliency via occlusion,Stheeg 4 aduren,0.7272727272727273
+16,espcn-iam,"Dropout, Batch Normalization","out, Both horenion",0.5
+16,espcn-iam,[Please set the computer,fer y ,0.9166666666666666
+16,espcn-iam,[Please set the computer,CK2,0.9583333333333334
+16,espcn-iam,The quiz today is, o u,0.8823529411764706
+16,espcn-iam,[Please set the computer,Ths th,0.8333333333333334
+16,espcn-iam,so hard.,n hasd,0.5
+16,espcn-iam,The quiz today is,,1.0
+16,espcn-iam,[Please set the computer,You ir te ,0.8333333333333334
+16,espcn-iam,so hard.,th,0.875
+16,espcn-iam,[Please set the computer,fa,0.9583333333333334
+16,espcn-iam,"more mcq and matching,",,1.0
+16,espcn-iam,<50% of the question,athre,0.85
+16,espcn-iam,[Please set the computer,,1.0
+16,espcn-iam,"more mcq and matching,",,1.0
+16,espcn-iam,<50% of the question,elAr,0.95
+16,espcn-iam,[Please set the computer,Tra te,0.8333333333333334
+16,espcn-board,apple car,ca,0.7777777777777778
+16,espcn-board,television,Elevisian,0.2
+16,espcn-board,apple car,e,0.8888888888888888
+16,espcn-board,television,iescon,0.6
+16,espcn-board,apple car,,1.0
+16,espcn-board,television,theo,0.7
+16,espcn-board,television,1h,1.0
+16,espcn-board,apple car,4t4,1.0
+16,espcn-board,television,Leres,0.7
+16,espcn-board,television,ts ar,0.8
+16,espcn-board,television,Pecet,0.8
+16,espcn-board,television,Rkrson,0.7
+16,espcn-board,Visualise feature layer,0bo,1.0
+16,espcn-board,CNN Architecture,Cd,0.9375
+16,espcn-board,Visualising CNN,Leaming teur,0.7333333333333333
+16,espcn-board,Visualise filter & output,cnde fo Sropt,0.72
+16,espcn-board,"LeNet, Alexnet, Resnet",the dond lon,0.7727272727272727
+16,espcn-board,Saliency via occlusion,Whang va altian,0.6363636363636364
+16,espcn-board,"Dropout, Batch Normalization","Sopat, Send oaiotion",0.5357142857142857
+16,espcn-board,CNN Architecture,CV Amatia,0.75
+16,espcn-board,Visualising CNN,ilating cem,0.5333333333333333
+16,espcn-board,"LeNet, Alexnet, Resnet",te leaut Re,0.6363636363636364
+16,espcn-board,Visualise feature layer,Si01s lube bager,0.6086956521739131
+16,espcn-board,Saliency via occlusion,Solaniy ad antition,0.5909090909090909
+16,espcn-board,"Dropout, Batch Normalization","Dyout, Bond Nornolioeran",0.5
+16,espcn-board,CNN Architecture,C5q/e,0.875
+16,espcn-board,"LeNet, Alexnet, Resnet","ket. eot, Reaut",0.5454545454545454
+16,espcn-board,Saliency via occlusion,Sabey ne acdeon,0.5909090909090909
+16,espcn-board,CNN Architecture,CENV to,0.8125
+16,espcn-board,Visualise feature layer,rooks hootme lager,0.6086956521739131
+16,espcn-board,"LeNet, Alexnet, Resnet","lenet. Deoret, Reout",0.36363636363636365
+16,espcn-board,Saliency via occlusion,Splanny owe asvimen,0.6818181818181818
+16,espcn-board,"Dropout, Batch Normalization","Dupaut, Dorch Nomoliomtion",0.35714285714285715
+16,espcn-board,[Please set the computer,,1.0
+16,espcn-board,[Please set the computer,1,1.0
+16,espcn-board,The quiz today is,,1.0
+16,espcn-board,[Please set the computer,Te s th ,0.75
+16,espcn-board,so hard.,hasd,0.625
+16,espcn-board,The quiz today is,,1.0
+16,espcn-board,[Please set the computer,Pe o te ma,0.6666666666666666
+16,espcn-board,so hard.,,1.0
+16,espcn-board,[Please set the computer,tame st th inwe,0.5833333333333334
+16,espcn-board,"more mcq and matching,",,1.0
+16,espcn-board,<50% of the question,中,1.0
+16,espcn-board,[Please set the computer,,1.0
+16,espcn-board,"more mcq and matching,",1,1.0
+16,espcn-board,<50% of the question,014r,0.95
+16,espcn-board,[Please set the computer,Tee t te bew,0.625
+20,none,apple car,appk cv,0.4444444444444444
+20,none,television,Television,0.0
+20,none,apple car,opk ov,0.7777777777777778
+20,none,television,Telenson,0.3
+20,none,apple car,nt,1.0
+20,none,television,Teenson,0.4
+20,none,television,hon,0.8
+20,none,apple car,sta,0.8888888888888888
+20,none,television,elerson,0.4
+20,none,television,lhse,0.8
+20,none,television,lbir,0.8
+20,none,television,Television,0.0
+20,none,Visualise feature layer,cite lotae loger,0.6086956521739131
+20,none,CNN Architecture,CN Acthtecteen,0.4375
+20,none,Visualising CNN,nalong car,0.6
+20,none,Visualise filter & output,Sovele iteoIepaet,0.68
+20,none,"LeNet, Alexnet, Resnet","lme, Aeynt, Revat",0.4090909090909091
+20,none,Saliency via occlusion,Swheny io cocletcion,0.5
+20,none,"Dropout, Batch Normalization","Dropaut, Bath omliation",0.21428571428571427
+20,none,CNN Architecture,CUN Achtetaen,0.4375
+20,none,Visualising CNN,ivelong cor,0.6
+20,none,"LeNet, Alexnet, Resnet","cane, Myont, Reant",0.45454545454545453
+20,none,Visualise feature layer,viwile lontve loger,0.5217391304347826
+20,none,Saliency via occlusion,Selansy en occuian,0.45454545454545453
+20,none,"Dropout, Batch Normalization","Duput, Both Normelisntion",0.2857142857142857
+20,none,CNN Architecture,CUV Achtichae,0.5
+20,none,"LeNet, Alexnet, Resnet","wet, Riyont, Resout",0.45454545454545453
+20,none,Saliency via occlusion,Selaty wia acusion,0.4090909090909091
+20,none,CNN Architecture,CV Achtesticen,0.5
+20,none,Visualise feature layer,vsulie lostve loyer,0.391304347826087
+20,none,"LeNet, Alexnet, Resnet","Limst, Akxout, Resrat",0.4090909090909091
+20,none,Saliency via occlusion,Salmaty in actusion,0.4090909090909091
+20,none,"Dropout, Batch Normalization","Dropout, Bath Normaliontion",0.10714285714285714
+20,none,[Please set the computer,time st tk ime,0.625
+20,none,[Please set the computer,21 400,0.9583333333333334
+20,none,The quiz today is,in go tay t,0.6470588235294118
+20,none,[Please set the computer,I Pince sat the computer,0.2916666666666667
+20,none,so hard.,so had,0.25
+20,none,The quiz today is,In pe tay ,0.7058823529411765
+20,none,[Please set the computer,IPimie set the campuer,0.2916666666666667
+20,none,so hard.,5o had,0.375
+20,none,[Please set the computer,Pime not th compe,0.4583333333333333
+20,none,"more mcq and matching,",The nag of oton,0.7272727272727273
+20,none,<50% of the question,123 64 p,0.9
+20,none,[Please set the computer, Pmp ie th omper,0.5
+20,none,"more mcq and matching,",he as at amy,0.7272727272727273
+20,none,<50% of the question,114 00,0.95
+20,none,[Please set the computer,Pose sf the cmpie,0.4166666666666667
+20,bicubic+sharpen,apple car,appk cv,0.4444444444444444
+20,bicubic+sharpen,television,Television,0.0
+20,bicubic+sharpen,apple car,pk.a,0.7777777777777778
+20,bicubic+sharpen,television,felenson,0.4
+20,bicubic+sharpen,apple car,tc,0.8888888888888888
+20,bicubic+sharpen,television,eenson,0.5
+20,bicubic+sharpen,television,thow,0.8
+20,bicubic+sharpen,apple car,5ta,0.8888888888888888
+20,bicubic+sharpen,television,elerson,0.4
+20,bicubic+sharpen,television,ibte,0.9
+20,bicubic+sharpen,television,lbibe,0.8
+20,bicubic+sharpen,television,Television,0.0
+20,bicubic+sharpen,Visualise feature layer,cit lnte lager,0.6086956521739131
+20,bicubic+sharpen,CNN Architecture,CN Acthtectcen,0.4375
+20,bicubic+sharpen,Visualising CNN,mulony car,0.6666666666666666
+20,bicubic+sharpen,Visualise filter & output,avele ievept,0.72
+20,bicubic+sharpen,"LeNet, Alexnet, Resnet","lime, Aepas, levat",0.5454545454545454
+20,bicubic+sharpen,Saliency via occlusion,Swangy is caclatcion,0.5454545454545454
+20,bicubic+sharpen,"Dropout, Batch Normalization","Dropht, Bath Nomlioation",0.21428571428571427
+20,bicubic+sharpen,CNN Architecture,CeN Achtectee,0.3125
+20,bicubic+sharpen,Visualising CNN,hivelong cor,0.6
+20,bicubic+sharpen,"LeNet, Alexnet, Resnet","ane, Myat, Reuat",0.5454545454545454
+20,bicubic+sharpen,Visualise feature layer,Vonie tontve loger,0.5652173913043478
+20,bicubic+sharpen,Saliency via occlusion,Sileany n occuian,0.45454545454545453
+20,bicubic+sharpen,"Dropout, Batch Normalization","Deuput, Both Normalisntion",0.25
+20,bicubic+sharpen,CNN Architecture,CUW Achtichire,0.4375
+20,bicubic+sharpen,"LeNet, Alexnet, Resnet","waet, Riput, Resuat",0.5
+20,bicubic+sharpen,Saliency via occlusion,Selasty nia actusion,0.4090909090909091
+20,bicubic+sharpen,CNN Architecture,CW Achtestcen,0.5
+20,bicubic+sharpen,Visualise feature layer,visulie flostve layer,0.30434782608695654
+20,bicubic+sharpen,"LeNet, Alexnet, Resnet","liket, Akxut, Resnat",0.3181818181818182
+20,bicubic+sharpen,Saliency via occlusion,Salanty oin occturon,0.36363636363636365
+20,bicubic+sharpen,"Dropout, Batch Normalization","Dropout, Bath Normliontion",0.14285714285714285
+20,bicubic+sharpen,[Please set the computer,[time se tk ima,0.625
+20,bicubic+sharpen,[Please set the computer,21800,1.0
+20,bicubic+sharpen,The quiz today is,In go tay ,0.7058823529411765
+20,bicubic+sharpen,[Please set the computer,I Piance sat the compuer,0.3333333333333333
+20,bicubic+sharpen,so hard.,so hosd,0.375
+20,bicubic+sharpen,The quiz today is,In ge tny t,0.7058823529411765
+20,bicubic+sharpen,[Please set the computer,IPimie set the campuer,0.2916666666666667
+20,bicubic+sharpen,so hard.,so hard,0.125
+20,bicubic+sharpen,[Please set the computer,Peme st th cmpe,0.4166666666666667
+20,bicubic+sharpen,"more mcq and matching,",Pheng t o,0.8181818181818182
+20,bicubic+sharpen,<50% of the question,121 74 p,0.9
+20,bicubic+sharpen,[Please set the computer,Pea se th ompr,0.4166666666666667
+20,bicubic+sharpen,"more mcq and matching,",het ,0.9090909090909091
+20,bicubic+sharpen,<50% of the question,31 74 0,0.9
+20,bicubic+sharpen,[Please set the computer,Poe so the cmpe,0.4583333333333333
+20,espcn,apple car,appk cr,0.3333333333333333
+20,espcn,television,Television,0.0
+20,espcn,apple car,opk av,0.6666666666666666
+20,espcn,television,ieenson,0.5
+20,espcn,apple car,tc,0.8888888888888888
+20,espcn,television,kenson,0.6
+20,espcn,television,,1.0
+20,espcn,apple car,ta,0.8888888888888888
+20,espcn,television,elerson,0.4
+20,espcn,television,tse,0.8
+20,espcn,television,lbie,0.8
+20,espcn,television,Television,0.0
+20,espcn,Visualise feature layer,ciwite loiae loger,0.6086956521739131
+20,espcn,CNN Architecture,CW Acththee,0.5625
+20,espcn,Visualising CNN,Malony car,0.6666666666666666
+20,espcn,Visualise filter & output,Davale eoIeutpaet,0.68
+20,espcn,"LeNet, Alexnet, Resnet","lime, Apnt, Reant",0.4090909090909091
+20,espcn,Saliency via occlusion,Swheny in caletcon,0.5
+20,espcn,"Dropout, Batch Normalization","Dropant, Bath Nomalioation",0.17857142857142858
+20,espcn,CNN Architecture,CN Achtetan,0.4375
+20,espcn,Visualising CNN,ivlong cor,0.6
+20,espcn,"LeNet, Alexnet, Resnet","anet, Meyout, Reant",0.4090909090909091
+20,espcn,Visualise feature layer,viawise tortve loger,0.43478260869565216
+20,espcn,Saliency via occlusion,Slaniy n accuian,0.5
+20,espcn,"Dropout, Batch Normalization","Deupout, Both Normalisntion",0.21428571428571427
+20,espcn,CNN Architecture,CMW Achtichae,0.5
+20,espcn,"LeNet, Alexnet, Resnet","wet, Misyont, Resat",0.5
+20,espcn,Saliency via occlusion,Selanty wia achesion,0.4090909090909091
+20,espcn,CNN Architecture,CW Achtestre,0.375
+20,espcn,Visualise feature layer,Visulie fontue layer,0.21739130434782608
+20,espcn,"LeNet, Alexnet, Resnet","Limet, Akxout, Resnat",0.3181818181818182
+20,espcn,Saliency via occlusion,Selanty in acluien,0.45454545454545453
+20,espcn,"Dropout, Batch Normalization","Dropout, Beth Normmliontion",0.17857142857142858
+20,espcn,[Please set the computer,time ste tk ine,0.7083333333333334
+20,espcn,[Please set the computer,214000,1.0
+20,espcn,The quiz today is,in go tay ,0.7058823529411765
+20,espcn,[Please set the computer,I Pince sat the computer,0.2916666666666667
+20,espcn,so hard.,so had,0.25
+20,espcn,The quiz today is,In pe tny,0.7647058823529411
+20,espcn,[Please set the computer,IPimie set the campuer,0.2916666666666667
+20,espcn,so hard.,so had,0.25
+20,espcn,[Please set the computer,Peme not th comper,0.375
+20,espcn,"more mcq and matching,",Pay  ,0.9545454545454546
+20,espcn,<50% of the question,11/4 p,0.95
+20,espcn,[Please set the computer, Pma set the omper,0.3333333333333333
+20,espcn,"more mcq and matching,",he ei it mmy,0.7727272727272727
+20,espcn,<50% of the question,114 0,0.95
+20,espcn,[Please set the computer,IPase so the cmpie,0.375
+20,espcn-iam,apple car,49k cr,0.6666666666666666
+20,espcn-iam,television,Television,0.0
+20,espcn-iam,apple car,7k,1.0
+20,espcn-iam,television,idenson,0.6
+20,espcn-iam,apple car,,1.0
+20,espcn-iam,television,henson,0.6
+20,espcn-iam,television,K0,1.0
+20,espcn-iam,apple car,a,0.8888888888888888
+20,espcn-iam,television,ekrsen,0.7
+20,espcn-iam,television,1e,0.9
+20,espcn-iam,television,1,1.0
+20,espcn-iam,television,elevison,0.2
+20,espcn-iam,Visualise feature layer,weyo,0.9130434782608695
+20,espcn-iam,CNN Architecture,CV Achteatce,0.4375
+20,espcn-iam,Visualising CNN,bycan,0.8666666666666667
+20,espcn-iam,Visualise filter & output,,1.0
+20,espcn-iam,"LeNet, Alexnet, Resnet","Inet,Axpacty Reant",0.5
+20,espcn-iam,Saliency via occlusion,Ing is adleng,0.7272727272727273
+20,espcn-iam,"Dropout, Batch Normalization","Dropent, Bith Hormlaation",0.2857142857142857
+20,espcn-iam,CNN Architecture,CN Achtet,0.4375
+20,espcn-iam,Visualising CNN,indong Cesr,0.7333333333333333
+20,espcn-iam,"LeNet, Alexnet, Resnet",", Moat, leunt",0.6363636363636364
+20,espcn-iam,Visualise feature layer,Kale toake loyge,0.6086956521739131
+20,espcn-iam,Saliency via occlusion,Silegy in acharn,0.5909090909090909
+20,espcn-iam,"Dropout, Batch Normalization","Deigout, Both Normliestion",0.2857142857142857
+20,espcn-iam,CNN Architecture,CMN Achitictre,0.25
+20,espcn-iam,"LeNet, Alexnet, Resnet",aet. liput ranat,0.5909090909090909
+20,espcn-iam,Saliency via occlusion,Seleangy in acderen,0.5909090909090909
+20,espcn-iam,CNN Architecture,CV Achtstce,0.5
+20,espcn-iam,Visualise feature layer,vave topue loger,0.5652173913043478
+20,espcn-iam,"LeNet, Alexnet, Resnet","wat, Akxect, Reant",0.45454545454545453
+20,espcn-iam,Saliency via occlusion,- Solaney on acdurran,0.6818181818181818
+20,espcn-iam,"Dropout, Batch Normalization","Draopout, Beth Normlaestion",0.25
+20,espcn-iam,[Please set the computer,[he n k ne,0.75
+20,espcn-iam,[Please set the computer,bra,0.9583333333333334
+20,espcn-iam,The quiz today is,,1.0
+20,espcn-iam,[Please set the computer,Iplacde at the computer,0.25
+20,espcn-iam,so hard.,so hod,0.375
+20,espcn-iam,The quiz today is,a pe sag,0.8235294117647058
+20,espcn-iam,[Please set the computer,Itimve set the ampuer,0.375
+20,espcn-iam,so hard.,so hod,0.375
+20,espcn-iam,[Please set the computer,[pese to the,0.5833333333333334
+20,espcn-iam,"more mcq and matching,",Maa,0.8636363636363636
+20,espcn-iam,<50% of the question,,1.0
+20,espcn-iam,[Please set the computer,IPea se to one,0.5416666666666666
+20,espcn-iam,"more mcq and matching,",,1.0
+20,espcn-iam,<50% of the question,41,1.0
+20,espcn-iam,[Please set the computer,Ta t te ape,0.625
+20,espcn-board,apple car,ypk or,0.6666666666666666
+20,espcn-board,television,Television,0.0
+20,espcn-board,apple car,4h a,0.7777777777777778
+20,espcn-board,television,sterson,0.6
+20,espcn-board,apple car,Ler,0.6666666666666666
+20,espcn-board,television,Rkenson,0.6
+20,espcn-board,television,the,0.8
+20,espcn-board,apple car,a,0.8888888888888888
+20,espcn-board,television,Ekenson,0.5
+20,espcn-board,television,100,1.0
+20,espcn-board,television,Leur,0.8
+20,espcn-board,television,Television,0.0
+20,espcn-board,Visualise feature layer,swrite lontre lger,0.5217391304347826
+20,espcn-board,CNN Architecture,CUV Achtatee,0.5
+20,espcn-board,Visualising CNN,Actine som,0.7333333333333333
+20,espcn-board,Visualise filter & output,cilvelle rft,0.72
+20,espcn-board,"LeNet, Alexnet, Resnet","lifet, Rtpet Reanat",0.45454545454545453
+20,espcn-board,Saliency via occlusion,Steny nite clascon,0.5
+20,espcn-board,"Dropout, Batch Normalization","Dropht, Both Normlisation",0.21428571428571427
+20,espcn-board,CNN Architecture,CUV Battecten,0.625
+20,espcn-board,Visualising CNN,Aivologe cor,0.7333333333333333
+20,espcn-board,"LeNet, Alexnet, Resnet","laset, Nbxout, Rent",0.4090909090909091
+20,espcn-board,Visualise feature layer,Vimile fote loger,0.4782608695652174
+20,espcn-board,Saliency via occlusion,Silegy macction,0.5
+20,espcn-board,"Dropout, Batch Normalization","Dpot, Both Nomelistion",0.32142857142857145
+20,espcn-board,CNN Architecture,CUV Achtictioen,0.5
+20,espcn-board,"LeNet, Alexnet, Resnet","wet Reput, Reaut",0.5454545454545454
+20,espcn-board,Saliency via occlusion,Solanny ove actusion,0.45454545454545453
+20,espcn-board,CNN Architecture,CV Achitesticn,0.4375
+20,espcn-board,Visualise feature layer,Vimatie fooive layer,0.391304347826087
+20,espcn-board,"LeNet, Alexnet, Resnet","Lemet, Rexnat, Resrat",0.2727272727272727
+20,espcn-board,Saliency via occlusion,- Salmnty ois acstuion,0.5
+20,espcn-board,"Dropout, Batch Normalization","Drofout, Batch Normolioation",0.10714285714285714
+20,espcn-board,[Please set the computer,T,0.9583333333333334
+20,espcn-board,[Please set the computer,1100,1.0
+20,espcn-board,The quiz today is,r,1.0
+20,espcn-board,[Please set the computer,I plove at the comper.,0.4166666666666667
+20,espcn-board,so hard.,so hod,0.375
+20,espcn-board,The quiz today is,,1.0
+20,espcn-board,[Please set the computer,I rhave set the computer,0.20833333333333334
+20,espcn-board,so hard.,se hod,0.5
+20,espcn-board,[Please set the computer,[Pave toe te m,0.5833333333333334
+20,espcn-board,"more mcq and matching,",MAH,0.8636363636363636
+20,espcn-board,<50% of the question,,1.0
+20,espcn-board,[Please set the computer,leat ton,0.7083333333333334
+20,espcn-board,"more mcq and matching,",19日,1.0
+20,espcn-board,<50% of the question,17,1.0
+20,espcn-board,[Please set the computer,Te t the ope,0.5416666666666666
+24,none,apple car,apple car,0.0
+24,none,television,Television,0.0
+24,none,apple car,appk car,0.2222222222222222
+24,none,television,Televison,0.1
+24,none,apple car,ape or,0.4444444444444444
+24,none,television,Televison,0.1
+24,none,television,te,0.8
+24,none,apple car,appe cer,0.2222222222222222
+24,none,television,Televison,0.1
+24,none,television,Hen,0.8
+24,none,television,b,1.0
+24,none,television,Television,0.0
+24,none,Visualise feature layer,vanle tontve lager,0.5217391304347826
+24,none,CNN Architecture,CUV Achtechire,0.375
+24,none,Visualising CNN,Visuloing car,0.3333333333333333
+24,none,Visualise filter & output,Vialie filtr S outpat,0.24
+24,none,"LeNet, Alexnet, Resnet","Wet, Rexont, Resnet",0.3181818181818182
+24,none,Saliency via occlusion,Selancy via axclusiion,0.2727272727272727
+24,none,"Dropout, Batch Normalization","Draput, Bath Normalistion",0.17857142857142858
+24,none,CNN Architecture,CUN Achitechire,0.25
+24,none,Visualising CNN,Visulioing CNT,0.2
+24,none,"LeNet, Alexnet, Resnet","laet, Nexout, Resnet",0.2727272727272727
+24,none,Visualise feature layer,vawie fontue layer,0.34782608695652173
+24,none,Saliency via occlusion,Selancy via oxcluson,0.22727272727272727
+24,none,"Dropout, Batch Normalization","Draput, Bath Normalition",0.17857142857142858
+24,none,CNN Architecture,CMN Achtechire,0.3125
+24,none,"LeNet, Alexnet, Resnet","lavet, Akyout, Reseat",0.4090909090909091
+24,none,Saliency via occlusion,Selancy nit occueion,0.3181818181818182
+24,none,CNN Architecture,CMN Achtechre,0.3125
+24,none,Visualise feature layer,Visable ftesture layer,0.2608695652173913
+24,none,"LeNet, Alexnet, Resnet","Livet, Akyonet, Resret",0.2727272727272727
+24,none,Saliency via occlusion,Selancy ria occlusion,0.18181818181818182
+24,none,"Dropout, Batch Normalization","Dropout, Batch Normalization",0.0
+24,none,[Please set the computer,fee o th one,0.625
+24,none,[Please set the computer,Ta  d 0,0.8333333333333334
+24,none,The quiz today is,The quis todey if,0.17647058823529413
+24,none,[Please set the computer,[Place set the computer,0.08333333333333333
+24,none,so hard.,so hard,0.125
+24,none,The quiz today is,The gie tdy it,0.35294117647058826
+24,none,[Please set the computer,[Pince set the computer,0.16666666666666666
+24,none,so hard.,so hard,0.125
+24,none,[Please set the computer,[Piance set the omper,0.2916666666666667
+24,none,"more mcq and matching,",Pe nin af mnttay,0.6818181818181818
+24,none,<50% of the question,50% fit po,0.6
+24,none,[Please set the computer,Place set the corar,0.3333333333333333
+24,none,"more mcq and matching,",Mhe ant aod mithy,0.5454545454545454
+24,none,<50% of the question,) is pe,0.85
+24,none,[Please set the computer,Pince set the compatr,0.2916666666666667
+24,bicubic+sharpen,apple car,apple car,0.0
+24,bicubic+sharpen,television,Television,0.0
+24,bicubic+sharpen,apple car,appe cr,0.2222222222222222
+24,bicubic+sharpen,television,Televison,0.1
+24,bicubic+sharpen,apple car,ape or,0.4444444444444444
+24,bicubic+sharpen,television,elevison,0.2
+24,bicubic+sharpen,television,tersie,0.6
+24,bicubic+sharpen,apple car,appe cer,0.2222222222222222
+24,bicubic+sharpen,television,Televison,0.1
+24,bicubic+sharpen,television,Hen,0.8
+24,bicubic+sharpen,television,b,1.0
+24,bicubic+sharpen,television,Television,0.0
+24,bicubic+sharpen,Visualise feature layer,vanle tontie layer,0.4782608695652174
+24,bicubic+sharpen,CNN Architecture,CUV Achtectire,0.3125
+24,bicubic+sharpen,Visualising CNN,Visuloing cur,0.3333333333333333
+24,bicubic+sharpen,Visualise filter & output,Viahle filtr S ouitp,0.4
+24,bicubic+sharpen,"LeNet, Alexnet, Resnet","Wet, Rexnet, Reset",0.2727272727272727
+24,bicubic+sharpen,Saliency via occlusion,Selancy nia oxclusion,0.22727272727272727
+24,bicubic+sharpen,"Dropout, Batch Normalization","Draput, Bath Normlisation",0.17857142857142858
+24,bicubic+sharpen,CNN Architecture,CUN Achitectire,0.1875
+24,bicubic+sharpen,Visualising CNN,visulioing CNT,0.2
+24,bicubic+sharpen,"LeNet, Alexnet, Resnet","st, Aexout, Resset",0.36363636363636365
+24,bicubic+sharpen,Visualise feature layer,vawie tontue layer,0.391304347826087
+24,bicubic+sharpen,Saliency via occlusion,Selancy via acclusion,0.18181818181818182
+24,bicubic+sharpen,"Dropout, Batch Normalization","Draput, Bath Normalition",0.17857142857142858
+24,bicubic+sharpen,CNN Architecture,CMN Achtechire,0.3125
+24,bicubic+sharpen,"LeNet, Alexnet, Resnet","lavet, Akout, Reseat",0.4090909090909091
+24,bicubic+sharpen,Saliency via occlusion,Solascy vis acusion,0.36363636363636365
+24,bicubic+sharpen,CNN Architecture,CMN Achtechre,0.3125
+24,bicubic+sharpen,Visualise feature layer,Visabie ftesture layer,0.21739130434782608
+24,bicubic+sharpen,"LeNet, Alexnet, Resnet","Livet, Akionet, Resrect",0.3181818181818182
+24,bicubic+sharpen,Saliency via occlusion,Sulancy ria occusion,0.22727272727272727
+24,bicubic+sharpen,"Dropout, Batch Normalization","Dropout , Batch Normalizntion",0.07142857142857142
+24,bicubic+sharpen,[Please set the computer,ee sth ope,0.5833333333333334
+24,bicubic+sharpen,[Please set the computer,Te ,0.9166666666666666
+24,bicubic+sharpen,The quiz today is,The quis todey isf,0.17647058823529413
+24,bicubic+sharpen,[Please set the computer,IPlase set the compuer,0.125
+24,bicubic+sharpen,so hard.,so hard,0.125
+24,bicubic+sharpen,The quiz today is,Th ge sdy is,0.47058823529411764
+24,bicubic+sharpen,[Please set the computer,[Pince set the computer,0.16666666666666666
+24,bicubic+sharpen,so hard.,so hard,0.125
+24,bicubic+sharpen,[Please set the computer,Plance set the opiry,0.4166666666666667
+24,bicubic+sharpen,"more mcq and matching,",Pe ning ad mettay,0.6818181818181818
+24,bicubic+sharpen,<50% of the question,50 fa p,0.75
+24,bicubic+sharpen,[Please set the computer,IPlace set the oraie,0.375
+24,bicubic+sharpen,"more mcq and matching,",Mhe ant ad mittey,0.5909090909090909
+24,bicubic+sharpen,<50% of the question, 2 pre,0.9
+24,bicubic+sharpen,[Please set the computer,Plonce set the comgr,0.3333333333333333
+24,espcn,apple car,apple car,0.0
+24,espcn,television,Television,0.0
+24,espcn,apple car,appk cr,0.3333333333333333
+24,espcn,television,Televison,0.1
+24,espcn,apple car,apeor,0.5555555555555556
+24,espcn,television,Televison,0.1
+24,espcn,television,t,0.9
+24,espcn,apple car,ppecer,0.4444444444444444
+24,espcn,television,Televison,0.1
+24,espcn,television,len,0.7
+24,espcn,television,he,0.9
+24,espcn,television,Television,0.0
+24,espcn,Visualise feature layer,vanle tortue lager,0.4782608695652174
+24,espcn,CNN Architecture,CUV Achitechire,0.3125
+24,espcn,Visualising CNN,Visuloing Cur,0.3333333333333333
+24,espcn,Visualise filter & output,Visvale ilter outpat,0.28
+24,espcn,"LeNet, Alexnet, Resnet","wet, Rekxoat, Resnet",0.36363636363636365
+24,espcn,Saliency via occlusion,Selancy ia oxclusion,0.22727272727272727
+24,espcn,"Dropout, Batch Normalization","Draput, Bath Normalioation",0.14285714285714285
+24,espcn,CNN Architecture,CUN Achitectire,0.1875
+24,espcn,Visualising CNN,visulioing Cuw,0.26666666666666666
+24,espcn,"LeNet, Alexnet, Resnet","liwet, Aeyout, Resnet",0.2727272727272727
+24,espcn,Visualise feature layer,vismie ontuve layer,0.34782608695652173
+24,espcn,Saliency via occlusion,Selancy via acclusion,0.18181818181818182
+24,espcn,"Dropout, Batch Normalization","Drapout, Bath Normaliotion",0.14285714285714285
+24,espcn,CNN Architecture,CMN Achtechire,0.3125
+24,espcn,"LeNet, Alexnet, Resnet","lovet, Akyout, Reseat",0.4090909090909091
+24,espcn,Saliency via occlusion,Selascy nis acusion,0.4090909090909091
+24,espcn,CNN Architecture,CMN Achitechre,0.25
+24,espcn,Visualise feature layer,Visabile festure layer,0.17391304347826086
+24,espcn,"LeNet, Alexnet, Resnet","LiNet, Akyonet, Resrect",0.2727272727272727
+24,espcn,Saliency via occlusion,Sulancy ria accusion,0.2727272727272727
+24,espcn,"Dropout, Batch Normalization","Dropout , Batch Normalization",0.03571428571428571
+24,espcn,[Please set the computer,[ee o th ope,0.5416666666666666
+24,espcn,[Please set the computer,  d,1.0
+24,espcn,The quiz today is,The quis todey isf,0.17647058823529413
+24,espcn,[Please set the computer,[Plase set the compuler,0.08333333333333333
+24,espcn,so hard.,so hard,0.125
+24,espcn,The quiz today is,The gie todey it,0.29411764705882354
+24,espcn,[Please set the computer,[Pince set the computer,0.16666666666666666
+24,espcn,so hard.,so hard,0.125
+24,espcn,[Please set the computer,[Piance set the ompir,0.3333333333333333
+24,espcn,"more mcq and matching,",Pe nin af mittay,0.6818181818181818
+24,espcn,<50% of the question,50% fi p,0.7
+24,espcn,[Please set the computer,[Plave set the or,0.3333333333333333
+24,espcn,"more mcq and matching,",Mhe ny ad mithey,0.5454545454545454
+24,espcn,<50% of the question, p,1.0
+24,espcn,[Please set the computer,Ploce set the comgi,0.375
+24,espcn-iam,apple car,apple car,0.0
+24,espcn-iam,television,Television,0.0
+24,espcn-iam,apple car,,1.0
+24,espcn-iam,television,elevisan,0.3
+24,espcn-iam,apple car,,1.0
+24,espcn-iam,television,Devisan,0.5
+24,espcn-iam,television,lec,0.8
+24,espcn-iam,apple car, ce,0.8888888888888888
+24,espcn-iam,television,elevison,0.2
+24,espcn-iam,television,,1.0
+24,espcn-iam,television,1,1.0
+24,espcn-iam,television,Television,0.0
+24,espcn-iam,Visualise feature layer,takle trse layer,0.5217391304347826
+24,espcn-iam,CNN Architecture,CUN Achtechire,0.3125
+24,espcn-iam,Visualising CNN,Viralaing Ck,0.4
+24,espcn-iam,Visualise filter & output,Vaa llertp,0.68
+24,espcn-iam,"LeNet, Alexnet, Resnet","Whit Akxnet, Renct",0.4090909090909091
+24,espcn-iam,Saliency via occlusion,Selarycdusion,0.5909090909090909
+24,espcn-iam,"Dropout, Batch Normalization","Draput, Batch Normlieation",0.14285714285714285
+24,espcn-iam,CNN Architecture,CUN Achtectire,0.25
+24,espcn-iam,Visualising CNN,Visatiting CNL,0.26666666666666666
+24,espcn-iam,"LeNet, Alexnet, Resnet","akst, Akxout, Renet",0.4090909090909091
+24,espcn-iam,Visualise feature layer,vinile tnitire lager,0.43478260869565216
+24,espcn-iam,Saliency via occlusion,Sepeancy  acdussion,0.5
+24,espcn-iam,"Dropout, Batch Normalization","Draput, Bath Normlisation",0.17857142857142858
+24,espcn-iam,CNN Architecture,CMN Achitechire,0.25
+24,espcn-iam,"LeNet, Alexnet, Resnet","livet, Aexout, Reant",0.3181818181818182
+24,espcn-iam,Saliency via occlusion,Stlancy nie acduion,0.4090909090909091
+24,espcn-iam,CNN Architecture,CUN Achitachre,0.3125
+24,espcn-iam,Visualise feature layer,Visakie teature layer,0.17391304347826086
+24,espcn-iam,"LeNet, Alexnet, Resnet","Livet, Akexnet, Resrect",0.22727272727272727
+24,espcn-iam,Saliency via occlusion,Sulanry ni occuasion,0.36363636363636365
+24,espcn-iam,"Dropout, Batch Normalization","Dropout, Batch Normolization",0.03571428571428571
+24,espcn-iam,[Please set the computer,the,0.875
+24,espcn-iam,[Please set the computer,,1.0
+24,espcn-iam,The quiz today is,Te ge say ,0.6470588235294118
+24,espcn-iam,[Please set the computer,[Plase set the computer,0.041666666666666664
+24,espcn-iam,so hard.,so hard,0.125
+24,espcn-iam,The quiz today is,Ta pey,0.8235294117647058
+24,espcn-iam,[Please set the computer,IPluise set the composter,0.20833333333333334
+24,espcn-iam,so hard.,so hard,0.125
+24,espcn-iam,[Please set the computer,[flace of the op,0.5
+24,espcn-iam,"more mcq and matching,",2,1.0
+24,espcn-iam,<50% of the question,0,0.95
+24,espcn-iam,[Please set the computer,[Plase set the o,0.3333333333333333
+24,espcn-iam,"more mcq and matching,",re n of ,0.7727272727272727
+24,espcn-iam,<50% of the question,,1.0
+24,espcn-iam,[Please set the computer,Plone st the o,0.5
+24,espcn-board,apple car,apple car,0.0
+24,espcn-board,television,Television,0.0
+24,espcn-board,apple car,oppk car,0.3333333333333333
+24,espcn-board,television,televison,0.1
+24,espcn-board,apple car,re o,0.7777777777777778
+24,espcn-board,television,tlevison,0.2
+24,espcn-board,television,teese,0.6
+24,espcn-board,apple car,ppe co,0.4444444444444444
+24,espcn-board,television,elevision,0.1
+24,espcn-board,television,tese,0.7
+24,espcn-board,television,12,1.0
+24,espcn-board,television,Television,0.0
+24,espcn-board,Visualise feature layer,twale fontive layer,0.43478260869565216
+24,espcn-board,CNN Architecture,CUV Achitactie,0.375
+24,espcn-board,Visualising CNN,Wisakting CN,0.4
+24,espcn-board,Visualise filter & output,Viwehie ilar B.otpat,0.48
+24,espcn-board,"LeNet, Alexnet, Resnet","Likit, Rexret, Resnet",0.2727272727272727
+24,espcn-board,Saliency via occlusion,Salarcy nia cacusion,0.3181818181818182
+24,espcn-board,"Dropout, Batch Normalization","Drapout, Bath Normalisation",0.10714285714285714
+24,espcn-board,CNN Architecture,CUN Achtectiren,0.3125
+24,espcn-board,Visualising CNN,visulising CRN,0.13333333333333333
+24,espcn-board,"LeNet, Alexnet, Resnet","eist, Rexoet, Resset",0.3181818181818182
+24,espcn-board,Visualise feature layer,visate fotre layer,0.30434782608695654
+24,espcn-board,Saliency via occlusion,Selancy rie acclusion,0.2727272727272727
+24,espcn-board,"Dropout, Batch Normalization","Draput, Bath Normalization",0.10714285714285714
+24,espcn-board,CNN Architecture,CMN/ Achitechie,0.375
+24,espcn-board,"LeNet, Alexnet, Resnet","Livet, Akxout, Resanat",0.36363636363636365
+24,espcn-board,Saliency via occlusion,Solaccy mis acussaon,0.5
+24,espcn-board,CNN Architecture,CMN Achitechire,0.25
+24,espcn-board,Visualise feature layer,Vinabie festure layer,0.21739130434782608
+24,espcn-board,"LeNet, Alexnet, Resnet","LeNet, Akxanet, Resrect",0.22727272727272727
+24,espcn-board,Saliency via occlusion,-Suliancy ria aeccusion,0.3181818181818182
+24,espcn-board,"Dropout, Batch Normalization","Dropout, Batch Normolization",0.03571428571428571
+24,espcn-board,[Please set the computer,[fea sot th soe,0.5
+24,espcn-board,[Please set the computer,Pt,0.9166666666666666
+24,espcn-board,The quiz today is,Thepe mty ,0.7058823529411765
+24,espcn-board,[Please set the computer,IPlase set the computer,0.08333333333333333
+24,espcn-board,so hard.,so hod,0.375
+24,espcn-board,The quiz today is,The pe y ,0.6470588235294118
+24,espcn-board,[Please set the computer,[plavce set the computer,0.125
+24,espcn-board,so hard.,so hod,0.375
+24,espcn-board,[Please set the computer,[Place set the ompter,0.16666666666666666
+24,espcn-board,"more mcq and matching,",限用,1.0
+24,espcn-board,<50% of the question,(50% ,0.85
+24,espcn-board,[Please set the computer,[lave set the car,0.375
+24,espcn-board,"more mcq and matching,",oe at w att,0.6818181818181818
+24,espcn-board,<50% of the question,,1.0
+24,espcn-board,[Please set the computer,Pine ste te coapay,0.5416666666666666
+28,none,apple car,apple car,0.0
+28,none,television,television,0.0
+28,none,apple car,apple car,0.0
+28,none,television,Television,0.0
+28,none,apple car,appk car,0.2222222222222222
+28,none,television,Television,0.0
+28,none,television,kerson,0.6
+28,none,apple car,appe cor,0.2222222222222222
+28,none,television,Television,0.0
+28,none,television,ebicen,0.7
+28,none,television,kbion,0.7
+28,none,television,television,0.0
+28,none,Visualise feature layer,Vvinlie totue loger,0.4782608695652174
+28,none,CNN Architecture,CMN Achtectire,0.25
+28,none,Visualising CNN,Visuliting CrM,0.26666666666666666
+28,none,Visualise filter & output,Vvisualie filter S outpt,0.16
+28,none,"LeNet, Alexnet, Resnet","LeNet, Rexont, Resnet",0.18181818181818182
+28,none,Saliency via occlusion,Selency via occclusion,0.13636363636363635
+28,none,"Dropout, Batch Normalization","Drepat, Bath Normaliation",0.17857142857142858
+28,none,CNN Architecture,CMN Achitectiren,0.25
+28,none,Visualising CNN,Visuling Cuw,0.3333333333333333
+28,none,"LeNet, Alexnet, Resnet","levet, Akxont, Resnet",0.22727272727272727
+28,none,Visualise feature layer,visuie tetve layer,0.30434782608695654
+28,none,Saliency via occlusion,Selancy ria occlusion,0.18181818181818182
+28,none,"Dropout, Batch Normalization","Drepout, Bath Normaliation",0.10714285714285714
+28,none,CNN Architecture,CMN Achtectire,0.25
+28,none,"LeNet, Alexnet, Resnet","leket, Reyout, Resrnet",0.3181818181818182
+28,none,Saliency via occlusion,Selincy via occlusion,0.09090909090909091
+28,none,CNN Architecture,CMN Achtectre,0.25
+28,none,Visualise feature layer,Viaulice festure layer,0.17391304347826086
+28,none,"LeNet, Alexnet, Resnet","Levet, Akyxnet, Resret",0.18181818181818182
+28,none,Saliency via occlusion,-Suliancy via occlusion,0.13636363636363635
+28,none,"Dropout, Batch Normalization","Dropout, Batch Normalizntion",0.03571428571428571
+28,none,[Please set the computer,IPpine of the omi,0.5833333333333334
+28,none,[Please set the computer,Nn st th coper,0.5
+28,none,The quiz today is,The quie today i5,0.11764705882352941
+28,none,[Please set the computer,[Please set the computer,0.0
+28,none,so hard.,so hard,0.125
+28,none,The quiz today is,The quiz today is,0.0
+28,none,[Please set the computer,[Please set the computer,0.0
+28,none,so hard.,so hard,0.125
+28,none,[Please set the computer,[Place set the ompuier,0.16666666666666666
+28,none,"more mcq and matching,",he ag ad matiny,0.5
+28,none,<50% of the question,<50% of te pator,0.35
+28,none,[Please set the computer,[Ppleace set the compir,0.20833333333333334
+28,none,"more mcq and matching,",Pire niog ad methry,0.5909090909090909
+28,none,<50% of the question,(50) t p,0.75
+28,none,[Please set the computer,[Pleace set the compuer,0.08333333333333333
+28,bicubic+sharpen,apple car,apple car,0.0
+28,bicubic+sharpen,television,television,0.0
+28,bicubic+sharpen,apple car,apple car,0.0
+28,bicubic+sharpen,television,Television,0.0
+28,bicubic+sharpen,apple car,ppe cor,0.3333333333333333
+28,bicubic+sharpen,television,Television,0.0
+28,bicubic+sharpen,television,eenson,0.5
+28,bicubic+sharpen,apple car,appk cor,0.3333333333333333
+28,bicubic+sharpen,television,Television,0.0
+28,bicubic+sharpen,television,tebicen,0.6
+28,bicubic+sharpen,television,kbisen,0.7
+28,bicubic+sharpen,television,television,0.0
+28,bicubic+sharpen,Visualise feature layer,vintie tortue lager,0.43478260869565216
+28,bicubic+sharpen,CNN Architecture,CMN Achitectire,0.1875
+28,bicubic+sharpen,Visualising CNN,Visulitingcor,0.3333333333333333
+28,bicubic+sharpen,Visualise filter & output,Visirlie filter S otpit,0.24
+28,bicubic+sharpen,"LeNet, Alexnet, Resnet","LeNet, Rexoet, Resnet",0.13636363636363635
+28,bicubic+sharpen,Saliency via occlusion,Silency ria acclusion,0.18181818181818182
+28,bicubic+sharpen,"Dropout, Batch Normalization","Dripaut, Batch Normalisation",0.10714285714285714
+28,bicubic+sharpen,CNN Architecture,CMN Achitectiren,0.25
+28,bicubic+sharpen,Visualising CNN,Visulicing cuw,0.26666666666666666
+28,bicubic+sharpen,"LeNet, Alexnet, Resnet","levet, Rexiet, Resnet",0.18181818181818182
+28,bicubic+sharpen,Visualise feature layer,Visutie fteitve layer,0.30434782608695654
+28,bicubic+sharpen,Saliency via occlusion,Selancy ria occlusion,0.18181818181818182
+28,bicubic+sharpen,"Dropout, Batch Normalization","Drapout, Batch Normalization",0.03571428571428571
+28,bicubic+sharpen,CNN Architecture,CMN Achtectire,0.25
+28,bicubic+sharpen,"LeNet, Alexnet, Resnet","leket, Rexoxt, Resnet",0.22727272727272727
+28,bicubic+sharpen,Saliency via occlusion,Solincy via occlusion,0.09090909090909091
+28,bicubic+sharpen,CNN Architecture,CMN Achtectre,0.25
+28,bicubic+sharpen,Visualise feature layer,Viaulice testure layer,0.21739130434782608
+28,bicubic+sharpen,"LeNet, Alexnet, Resnet","Livet, Akyxnet, Resret",0.22727272727272727
+28,bicubic+sharpen,Saliency via occlusion,-Suliancy via occlusion,0.13636363636363635
+28,bicubic+sharpen,"Dropout, Batch Normalization","Dropout, Batch Normalizntion",0.03571428571428571
+28,bicubic+sharpen,[Please set the computer,IPpene so the ompi,0.4583333333333333
+28,bicubic+sharpen,[Please set the computer,Nn st th cope,0.5416666666666666
+28,bicubic+sharpen,The quiz today is,The quie torday 15,0.23529411764705882
+28,bicubic+sharpen,[Please set the computer,[Plase set the computer,0.041666666666666664
+28,bicubic+sharpen,so hard.,so hard,0.125
+28,bicubic+sharpen,The quiz today is,The que today is,0.11764705882352941
+28,bicubic+sharpen,[Please set the computer,[Plese set the computer,0.041666666666666664
+28,bicubic+sharpen,so hard.,so hard,0.125
+28,bicubic+sharpen,[Please set the computer,[Pleace set the compuer,0.08333333333333333
+28,bicubic+sharpen,"more mcq and matching,",Phe ag ed matting,0.5
+28,bicubic+sharpen,<50% of the question,<50% fte pat,0.5
+28,bicubic+sharpen,[Please set the computer,Ifleace set the cmier,0.2916666666666667
+28,bicubic+sharpen,"more mcq and matching,",Pise nog of mithry,0.6818181818181818
+28,bicubic+sharpen,<50% of the question,574 p00,0.9
+28,bicubic+sharpen,[Please set the computer,[Pleace set the compaier,0.125
+28,espcn,apple car,apple car,0.0
+28,espcn,television,television,0.0
+28,espcn,apple car,apple car,0.0
+28,espcn,television,Television,0.0
+28,espcn,apple car,appe car,0.1111111111111111
+28,espcn,television,Television,0.0
+28,espcn,television,kenson,0.6
+28,espcn,apple car,appe cor,0.2222222222222222
+28,espcn,television,Television,0.0
+28,espcn,television,eboen,0.8
+28,espcn,television,kbon,0.8
+28,espcn,television,Television,0.0
+28,espcn,Visualise feature layer,Vvinlie totue llayer,0.43478260869565216
+28,espcn,CNN Architecture,CMN Achitecthre,0.1875
+28,espcn,Visualising CNN,Visulitig C,0.3333333333333333
+28,espcn,Visualise filter & output,Visualie filter S output,0.08
+28,espcn,"LeNet, Alexnet, Resnet","LeNet, Rexoet, Resnet",0.13636363636363635
+28,espcn,Saliency via occlusion,Selancy via acclusion,0.18181818181818182
+28,espcn,"Dropout, Batch Normalization","Drepaut, Batch Normalization",0.07142857142857142
+28,espcn,CNN Architecture,CMN Achitectire,0.1875
+28,espcn,Visualising CNN,Viulicing Cuw,0.3333333333333333
+28,espcn,"LeNet, Alexnet, Resnet","leNet, Abxoet, Rent",0.22727272727272727
+28,espcn,Visualise feature layer,Visulie ftestue layer,0.21739130434782608
+28,espcn,Saliency via occlusion,Solancy ria occlusion,0.18181818181818182
+28,espcn,"Dropout, Batch Normalization","Drapout, Batch Normaliation",0.07142857142857142
+28,espcn,CNN Architecture,CMN Achtechire,0.3125
+28,espcn,"LeNet, Alexnet, Resnet","leket, Rexout, Revnet",0.2727272727272727
+28,espcn,Saliency via occlusion,Selency via acclussion,0.18181818181818182
+28,espcn,CNN Architecture,CMV Achtectre,0.3125
+28,espcn,Visualise feature layer,Vialice festure layer,0.17391304347826086
+28,espcn,"LeNet, Alexnet, Resnet","Levet, Akyonet, Resret",0.22727272727272727
+28,espcn,Saliency via occlusion,-Suliancy via occusion,0.18181818181818182
+28,espcn,"Dropout, Batch Normalization","Dropout, Batch Normalization",0.0
+28,espcn,[Please set the computer,IPpere o the ompit,0.4583333333333333
+28,espcn,[Please set the computer,Ne st th coper,0.4583333333333333
+28,espcn,The quiz today is,The quie torty i5,0.23529411764705882
+28,espcn,[Please set the computer,[Please set the computer,0.0
+28,espcn,so hard.,so hard,0.125
+28,espcn,The quiz today is,The qiz today is,0.058823529411764705
+28,espcn,[Please set the computer,[Please set the computer,0.0
+28,espcn,so hard.,so hard,0.125
+28,espcn,[Please set the computer,[Pleace set the ompier,0.16666666666666666
+28,espcn,"more mcq and matching,",he eaq ed mattin,0.5
+28,espcn,<50% of the question,<50% o te patr,0.45
+28,espcn,[Please set the computer,IPpleace set the compier,0.20833333333333334
+28,espcn,"more mcq and matching,",Pire nioq ad meithry,0.5909090909090909
+28,espcn,<50% of the question,50 t p,0.75
+28,espcn,[Please set the computer,[Pleace set the comaier,0.16666666666666666
+28,espcn-iam,apple car,apple car,0.0
+28,espcn-iam,television,Television,0.0
+28,espcn-iam,apple car,applie car,0.1111111111111111
+28,espcn-iam,television,Television,0.0
+28,espcn-iam,apple car,ape cor,0.3333333333333333
+28,espcn-iam,television,Television,0.0
+28,espcn-iam,television,tensor,0.6
+28,espcn-iam,apple car,472.0,1.0
+28,espcn-iam,television,Television,0.0
+28,espcn-iam,television,,1.0
+28,espcn-iam,television,102,1.0
+28,espcn-iam,television,Television,0.0
+28,espcn-iam,Visualise feature layer,tinike tote loager,0.5652173913043478
+28,espcn-iam,CNN Architecture,CMN Achitetre,0.25
+28,espcn-iam,Visualising CNN,Visuliting cru,0.26666666666666666
+28,espcn-iam,Visualise filter & output,Vimalle fifer I oxpit,0.4
+28,espcn-iam,"LeNet, Alexnet, Resnet","Liket. Rexnet, Resnt",0.2727272727272727
+28,espcn-iam,Saliency via occlusion,Silency ria acdurron,0.36363636363636365
+28,espcn-iam,"Dropout, Batch Normalization","Drapaut, Datch Nomlization",0.17857142857142858
+28,espcn-iam,CNN Architecture,CUN Achitecture,0.125
+28,espcn-iam,Visualising CNN,Visulicing Cn,0.2
+28,espcn-iam,"LeNet, Alexnet, Resnet","liaet, Abxint, Rent",0.36363636363636365
+28,espcn-iam,Visualise feature layer,Vasatite eoture layer,0.2608695652173913
+28,espcn-iam,Saliency via occlusion,Selancy via occlusro,0.22727272727272727
+28,espcn-iam,"Dropout, Batch Normalization","Dropout, Batch Normalization",0.0
+28,espcn-iam,CNN Architecture,CMN Achtechre,0.3125
+28,espcn-iam,"LeNet, Alexnet, Resnet","lWet, Reboxt, Rent",0.4090909090909091
+28,espcn-iam,Saliency via occlusion,Selency nia ocdusion,0.22727272727272727
+28,espcn-iam,CNN Architecture,CUN Achitecture,0.125
+28,espcn-iam,Visualise feature layer,Vialite testure layer,0.21739130434782608
+28,espcn-iam,"LeNet, Alexnet, Resnet","Livet, Akxnet, Resnet",0.18181818181818182
+28,espcn-iam,Saliency via occlusion,-Salancy via occusion,0.18181818181818182
+28,espcn-iam,"Dropout, Batch Normalization","Dropout, Batch Normaliention",0.07142857142857142
+28,espcn-iam,[Please set the computer,Plae ot,0.7083333333333334
+28,espcn-iam,[Please set the computer,N,1.0
+28,espcn-iam,The quiz today is,The qyie tay 5,0.35294117647058826
+28,espcn-iam,[Please set the computer,[Platse set the computer,0.08333333333333333
+28,espcn-iam,so hard.,so hard,0.125
+28,espcn-iam,The quiz today is,The go2 today ,0.4117647058823529
+28,espcn-iam,[Please set the computer,[Please set the computer,0.0
+28,espcn-iam,so hard.,so hard,0.125
+28,espcn-iam,[Please set the computer,[ Place ot the comp,0.375
+28,espcn-iam,"more mcq and matching,",Plee eg of mot,0.7272727272727273
+28,espcn-iam,<50% of the question,50% th ,0.7
+28,espcn-iam,[Please set the computer,[Pleae eot the car,0.375
+28,espcn-iam,"more mcq and matching,",re ,0.9090909090909091
+28,espcn-iam,<50% of the question,<0 th p,0.7
+28,espcn-iam,[Please set the computer,IPleaca at the commaino,0.4166666666666667
+28,espcn-board,apple car,apple car,0.0
+28,espcn-board,television,television,0.0
+28,espcn-board,apple car,opple car,0.1111111111111111
+28,espcn-board,television,television,0.0
+28,espcn-board,apple car,apple co,0.2222222222222222
+28,espcn-board,television,Television,0.0
+28,espcn-board,television,terso,0.6
+28,espcn-board,apple car,apphk ar,0.3333333333333333
+28,espcn-board,television,Television,0.0
+28,espcn-board,television,bersa,0.8
+28,espcn-board,television,tese,0.7
+28,espcn-board,television,Television,0.0
+28,espcn-board,Visualise feature layer,vinte rotuee layer,0.43478260869565216
+28,espcn-board,CNN Architecture,CMN Achitechre,0.25
+28,espcn-board,Visualising CNN,Visualising CN,0.06666666666666667
+28,espcn-board,Visualise filter & output,Visalilefilter S outpet,0.2
+28,espcn-board,"LeNet, Alexnet, Resnet","LeNet, Rexoet, Resnet",0.13636363636363635
+28,espcn-board,Saliency via occlusion,Solancy rnie aclusion,0.36363636363636365
+28,espcn-board,"Dropout, Batch Normalization","Drefout, Batch Normalisation",0.10714285714285714
+28,espcn-board,CNN Architecture,CNN Achitectioen,0.25
+28,espcn-board,Visualising CNN,Visualising cInN,0.06666666666666667
+28,espcn-board,"LeNet, Alexnet, Resnet","LeNet, Rbxut, Resnect",0.2727272727272727
+28,espcn-board,Visualise feature layer,Visaie fosture layer,0.21739130434782608
+28,espcn-board,Saliency via occlusion,Solancy ria ocusion,0.2727272727272727
+28,espcn-board,"Dropout, Batch Normalization","Drapout, Bath Normalization",0.07142857142857142
+28,espcn-board,CNN Architecture,CMN Achitechire,0.25
+28,espcn-board,"LeNet, Alexnet, Resnet","Lemst, Reyout, Renct",0.4090909090909091
+28,espcn-board,Saliency via occlusion,Solincy mis acdusion,0.3181818181818182
+28,espcn-board,CNN Architecture,CUN Achitecture,0.125
+28,espcn-board,Visualise feature layer,Vialice feature layer,0.13043478260869565
+28,espcn-board,"LeNet, Alexnet, Resnet","Levet, Akxnet, Resnet",0.13636363636363635
+28,espcn-board,Saliency via occlusion,-Salieancy via ocusion,0.18181818181818182
+28,espcn-board,"Dropout, Batch Normalization","Dropout, Batch Normalization",0.0
+28,espcn-board,[Please set the computer,Iple o the ,0.6666666666666666
+28,espcn-board,[Please set the computer,rn,1.0
+28,espcn-board,The quiz today is,The pyu try,0.5882352941176471
+28,espcn-board,[Please set the computer,[Plase set the compater,0.08333333333333333
+28,espcn-board,so hard.,so hard,0.125
+28,espcn-board,The quiz today is,The pe y ,0.6470588235294118
+28,espcn-board,[Please set the computer,[Please set the compurter,0.041666666666666664
+28,espcn-board,so hard.,so hard,0.125
+28,espcn-board,[Please set the computer,[Place set the compier,0.16666666666666666
+28,espcn-board,"more mcq and matching,",Phee reg oif oattio,0.6818181818181818
+28,espcn-board,<50% of the question,(50% fthe pator,0.45
+28,espcn-board,[Please set the computer,[Please set the camotr,0.16666666666666666
+28,espcn-board,"more mcq and matching,",frey ,0.9090909090909091
+28,espcn-board,<50% of the question,,1.0
+28,espcn-board,[Please set the computer,IPleace set the comante,0.20833333333333334
+32,none,apple car,apple car,0.0
+32,none,television,television,0.0
+32,none,apple car,apple car,0.0
+32,none,television,television,0.0
+32,none,apple car,apple car,0.0
+32,none,television,television,0.0
+32,none,television,teenson,0.4
+32,none,apple car,appe car,0.1111111111111111
+32,none,television,television,0.0
+32,none,television,teenson,0.4
+32,none,television,evison,0.4
+32,none,television,Television,0.0
+32,none,Visualise feature layer,vaie teotuve lager,0.391304347826087
+32,none,CNN Architecture,CMN Achitectire,0.1875
+32,none,Visualising CNN,Visuling CruN,0.3333333333333333
+32,none,Visualise filter & output,Visualiz filter S outpat,0.16
+32,none,"LeNet, Alexnet, Resnet","LeNet, Rexont, Resnet",0.18181818181818182
+32,none,Saliency via occlusion,Solancy via acclusion,0.18181818181818182
+32,none,"Dropout, Batch Normalization","Dropout,Batch Normaliation",0.07142857142857142
+32,none,CNN Architecture,CMN Axhitecture,0.1875
+32,none,Visualising CNN,Visualising CN,0.06666666666666667
+32,none,"LeNet, Alexnet, Resnet","LeNet, Akxont, Resnet",0.18181818181818182
+32,none,Visualise feature layer,Visulite feture layer,0.13043478260869565
+32,none,Saliency via occlusion,Solancy ria occlusion,0.18181818181818182
+32,none,"Dropout, Batch Normalization","Dropout,Bath Normalization",0.07142857142857142
+32,none,CNN Architecture,CMN Achitechire,0.25
+32,none,"LeNet, Alexnet, Resnet","leNet, Rexonet, Resret",0.18181818181818182
+32,none,Saliency via occlusion,Selincy via occusion,0.13636363636363635
+32,none,CNN Architecture,CNN Achitectiren,0.1875
+32,none,Visualise feature layer,Visualise teature layer,0.043478260869565216
+32,none,"LeNet, Alexnet, Resnet","Levet, Akyxnet, Resnet",0.13636363636363635
+32,none,Saliency via occlusion,-Suliency via occlusion,0.09090909090909091
+32,none,"Dropout, Batch Normalization","Dropout, Batch Normalization",0.0
+32,none,[Please set the computer,IPlince set the ompier,0.2916666666666667
+32,none,[Please set the computer,e st aap,0.75
+32,none,The quiz today is,The quiz today is,0.0
+32,none,[Please set the computer,[Please set the computer,0.0
+32,none,so hard.,so hard,0.125
+32,none,The quiz today is,The quiz today is,0.0
+32,none,[Please set the computer,[Please set the computer,0.0
+32,none,so hard.,so hard,0.125
+32,none,[Please set the computer,[Plence set the compuer,0.125
+32,none,"more mcq and matching,",pre enq sid mothing,0.4090909090909091
+32,none,<50% of the question,<50% of the gactn,0.3
+32,none,[Please set the computer,[Please et the computr,0.08333333333333333
+32,none,"more mcq and matching,",he nog ad mathny,0.5
+32,none,<50% of the question,<50% f the pato,0.35
+32,none,[Please set the computer,IPlease set the computer,0.041666666666666664
+32,bicubic+sharpen,apple car,apple car,0.0
+32,bicubic+sharpen,television,television,0.0
+32,bicubic+sharpen,apple car,apple car,0.0
+32,bicubic+sharpen,television,television,0.0
+32,bicubic+sharpen,apple car,appie car,0.1111111111111111
+32,bicubic+sharpen,television,television,0.0
+32,bicubic+sharpen,television,telenison,0.2
+32,bicubic+sharpen,apple car,appe car,0.1111111111111111
+32,bicubic+sharpen,television,Television,0.0
+32,bicubic+sharpen,television,teenson,0.4
+32,bicubic+sharpen,television,kevison,0.4
+32,bicubic+sharpen,television,Television,0.0
+32,bicubic+sharpen,Visualise feature layer,vatie teitve lager,0.43478260869565216
+32,bicubic+sharpen,CNN Architecture,CMN Achitectire,0.1875
+32,bicubic+sharpen,Visualising CNN,Visuling Cru,0.3333333333333333
+32,bicubic+sharpen,Visualise filter & output,Visualiz filter S output,0.12
+32,bicubic+sharpen,"LeNet, Alexnet, Resnet","LWNet, Rexnet, Renet",0.18181818181818182
+32,bicubic+sharpen,Saliency via occlusion,Solancy vria occlusion,0.18181818181818182
+32,bicubic+sharpen,"Dropout, Batch Normalization","Droput, Batch Normaliation",0.07142857142857142
+32,bicubic+sharpen,CNN Architecture,CMN Axhitecture,0.1875
+32,bicubic+sharpen,Visualising CNN,Visualising Cn,0.06666666666666667
+32,bicubic+sharpen,"LeNet, Alexnet, Resnet","levet, Akxont, Resnet",0.22727272727272727
+32,bicubic+sharpen,Visualise feature layer,Visulite feture layer,0.13043478260869565
+32,bicubic+sharpen,Saliency via occlusion,Solancy ria occlusion,0.18181818181818182
+32,bicubic+sharpen,"Dropout, Batch Normalization","Dropout,Bath Normalization",0.07142857142857142
+32,bicubic+sharpen,CNN Architecture,CMN Achitechire,0.25
+32,bicubic+sharpen,"LeNet, Alexnet, Resnet","leWet, Rexnet, Resret",0.18181818181818182
+32,bicubic+sharpen,Saliency via occlusion,Selincy via ocusion,0.18181818181818182
+32,bicubic+sharpen,CNN Architecture,CNN Achitectire,0.125
+32,bicubic+sharpen,Visualise feature layer,Visulise teature layer,0.08695652173913043
+32,bicubic+sharpen,"LeNet, Alexnet, Resnet","Levet, Akyxnet, Resnet",0.13636363636363635
+32,bicubic+sharpen,Saliency via occlusion,-Suliency via occlusion,0.09090909090909091
+32,bicubic+sharpen,"Dropout, Batch Normalization","Dropout, Batch Normalization",0.0
+32,bicubic+sharpen,[Please set the computer,IPlece set the ompir,0.2916666666666667
+32,bicubic+sharpen,[Please set the computer,e p,0.875
+32,bicubic+sharpen,The quiz today is,The quiz today is,0.0
+32,bicubic+sharpen,[Please set the computer,[Pplease set the computer,0.041666666666666664
+32,bicubic+sharpen,so hard.,so hard,0.125
+32,bicubic+sharpen,The quiz today is,The quiz tieday is,0.11764705882352941
+32,bicubic+sharpen,[Please set the computer,[Please set the computer,0.0
+32,bicubic+sharpen,so hard.,so hard,0.125
+32,bicubic+sharpen,[Please set the computer,[Plence set the computer,0.08333333333333333
+32,bicubic+sharpen,"more mcq and matching,",Tre nog sid motthing,0.45454545454545453
+32,bicubic+sharpen,<50% of the question,<50% o the gaton,0.3
+32,bicubic+sharpen,[Please set the computer,IPlease set the computer,0.041666666666666664
+32,bicubic+sharpen,"more mcq and matching,",he nog id mthey,0.6363636363636364
+32,bicubic+sharpen,<50% of the question,<50% ofthe pato,0.35
+32,bicubic+sharpen,[Please set the computer,IPlease set the compour,0.16666666666666666
+32,espcn,apple car,apple car,0.0
+32,espcn,television,television,0.0
+32,espcn,apple car,apple car,0.0
+32,espcn,television,television,0.0
+32,espcn,apple car,apple car,0.0
+32,espcn,television,television,0.0
+32,espcn,television,telenson,0.3
+32,espcn,apple car,appe car,0.1111111111111111
+32,espcn,television,television,0.0
+32,espcn,television,teenson,0.4
+32,espcn,television,evison,0.4
+32,espcn,television,Television,0.0
+32,espcn,Visualise feature layer,vatie teotuve lager,0.391304347826087
+32,espcn,CNN Architecture,CNN Achitectire,0.125
+32,espcn,Visualising CNN,Visulising Cr,0.2
+32,espcn,Visualise filter & output,Visualiz filter S outpat,0.16
+32,espcn,"LeNet, Alexnet, Resnet","LeNet, Rexnet, Resnet",0.09090909090909091
+32,espcn,Saliency via occlusion,Solancy via acclusion,0.18181818181818182
+32,espcn,"Dropout, Batch Normalization","Dropout,Batch Normaliation",0.07142857142857142
+32,espcn,CNN Architecture,CMN Axhitecture,0.1875
+32,espcn,Visualising CNN,Visualising Cu,0.13333333333333333
+32,espcn,"LeNet, Alexnet, Resnet","LeNet, Akxont, Resnet",0.18181818181818182
+32,espcn,Visualise feature layer,Visulite feture layer,0.13043478260869565
+32,espcn,Saliency via occlusion,Solancy ria occlusion,0.18181818181818182
+32,espcn,"Dropout, Batch Normalization","Dropout,Bath Normalization",0.07142857142857142
+32,espcn,CNN Architecture,CMN Achitechire,0.25
+32,espcn,"LeNet, Alexnet, Resnet","leNet, Rexnet, Resret",0.13636363636363635
+32,espcn,Saliency via occlusion,Selincy via occusion,0.13636363636363635
+32,espcn,CNN Architecture,CNN Achitectire,0.125
+32,espcn,Visualise feature layer,Visualise feature layer,0.0
+32,espcn,"LeNet, Alexnet, Resnet","Levet, Akxnet, Resnet",0.13636363636363635
+32,espcn,Saliency via occlusion,-Saliency via occlusion,0.045454545454545456
+32,espcn,"Dropout, Batch Normalization","Dropout, Batch Normalization",0.0
+32,espcn,[Please set the computer,IPlece set thee ompier,0.2916666666666667
+32,espcn,[Please set the computer,e sp,0.8333333333333334
+32,espcn,The quiz today is,The quiz today is,0.0
+32,espcn,[Please set the computer,[Please set the computer,0.0
+32,espcn,so hard.,so hard,0.125
+32,espcn,The quiz today is,The quiz tocday is,0.058823529411764705
+32,espcn,[Please set the computer,[Please set the computer,0.0
+32,espcn,so hard.,so hard,0.125
+32,espcn,[Please set the computer,[Plence set the computer,0.08333333333333333
+32,espcn,"more mcq and matching,",Tre nqg sid mothig,0.5
+32,espcn,<50% of the question,<50% of the gacton,0.25
+32,espcn,[Please set the computer,[Please set the computer,0.0
+32,espcn,"more mcq and matching,",rhe nog aid mathing,0.4090909090909091
+32,espcn,<50% of the question,<50% f thepation,0.3
+32,espcn,[Please set the computer,IPlease set the computer,0.041666666666666664
+32,espcn-iam,apple car,apple car,0.0
+32,espcn-iam,television,television,0.0
+32,espcn-iam,apple car,apple car,0.0
+32,espcn-iam,television,television,0.0
+32,espcn-iam,apple car,appe car,0.1111111111111111
+32,espcn-iam,television,Television,0.0
+32,espcn-iam,television,televison,0.1
+32,espcn-iam,apple car,ppe cer,0.3333333333333333
+32,espcn-iam,television,Television,0.0
+32,espcn-iam,television,ensee,0.8
+32,espcn-iam,television,2,1.0
+32,espcn-iam,television,Television,0.0
+32,espcn-iam,Visualise feature layer,vnake botie loager,0.5652173913043478
+32,espcn-iam,CNN Architecture,CNN Achitectre,0.125
+32,espcn-iam,Visualising CNN,Viluling Chu,0.4
+32,espcn-iam,Visualise filter & output,Visvalie filter S outpet,0.16
+32,espcn-iam,"LeNet, Alexnet, Resnet","Livet, Akxnet, Renet",0.22727272727272727
+32,espcn-iam,Saliency via occlusion,Sclany nia clusion,0.3181818181818182
+32,espcn-iam,"Dropout, Batch Normalization","Droput,Batch Normaliation",0.10714285714285714
+32,espcn-iam,CNN Architecture,CMN Achitecture,0.125
+32,espcn-iam,Visualising CNN,Vinalicing CNL,0.26666666666666666
+32,espcn-iam,"LeNet, Alexnet, Resnet","Levet, Akxont, Renet",0.2727272727272727
+32,espcn-iam,Visualise feature layer,Visalite feature laayer,0.13043478260869565
+32,espcn-iam,Saliency via occlusion,Solancy via occlusion,0.13636363636363635
+32,espcn-iam,"Dropout, Batch Normalization","Dropout, Batch Normalization",0.0
+32,espcn-iam,CNN Architecture,CNN Achitechre,0.1875
+32,espcn-iam,"LeNet, Alexnet, Resnet","LeWet, Aexnet, Resnet",0.09090909090909091
+32,espcn-iam,Saliency via occlusion,Seleccy ria ocdusion,0.2727272727272727
+32,espcn-iam,CNN Architecture,CUN Achitecture,0.125
+32,espcn-iam,Visualise feature layer,Visalite feature layer,0.08695652173913043
+32,espcn-iam,"LeNet, Alexnet, Resnet","LeNet, Akxnet, Resnet",0.09090909090909091
+32,espcn-iam,Saliency via occlusion,-Salency via occlsion,0.13636363636363635
+32,espcn-iam,"Dropout, Batch Normalization","Dropout, Batch Normalization",0.0
+32,espcn-iam,[Please set the computer,[Plece ot the cmp,0.375
+32,espcn-iam,[Please set the computer,e  py,0.8333333333333334
+32,espcn-iam,The quiz today is,The quiz teday is,0.058823529411764705
+32,espcn-iam,[Please set the computer,[Please set the computer,0.0
+32,espcn-iam,so hard.,so hard,0.125
+32,espcn-iam,The quiz today is,The quit tiay is,0.17647058823529413
+32,espcn-iam,[Please set the computer,[Please set the computer,0.0
+32,espcn-iam,so hard.,so hard,0.125
+32,espcn-iam,[Please set the computer,Plece set the cormputer,0.16666666666666666
+32,espcn-iam,"more mcq and matching,",fre ng id no,0.6818181818181818
+32,espcn-iam,<50% of the question,50% & the pate,0.5
+32,espcn-iam,[Please set the computer,IPlease set the corrats,0.25
+32,espcn-iam,"more mcq and matching,",Troe rog o hy,0.7727272727272727
+32,espcn-iam,<50% of the question,<50% fthp,0.6
+32,espcn-iam,[Please set the computer,IPlease set the comoine,0.20833333333333334
+32,espcn-board,apple car,apple car,0.0
+32,espcn-board,television,television,0.0
+32,espcn-board,apple car,apple car,0.0
+32,espcn-board,television,television,0.0
+32,espcn-board,apple car,apple car,0.0
+32,espcn-board,television,television,0.0
+32,espcn-board,television,telenson,0.3
+32,espcn-board,apple car,appe cr,0.2222222222222222
+32,espcn-board,television,Television,0.0
+32,espcn-board,television,tenvor,0.6
+32,espcn-board,television,thnson,0.6
+32,espcn-board,television,Television,0.0
+32,espcn-board,Visualise feature layer,Vakie eitve layer,0.391304347826087
+32,espcn-board,CNN Architecture,CNN Axhitectre,0.1875
+32,espcn-board,Visualising CNN,Visulising Cru,0.2
+32,espcn-board,Visualise filter & output,Visvelie filter S outpat,0.2
+32,espcn-board,"LeNet, Alexnet, Resnet","LeNet, Rexonet, Resnet",0.13636363636363635
+32,espcn-board,Saliency via occlusion,Solancy via occlusion,0.13636363636363635
+32,espcn-board,"Dropout, Batch Normalization","Dropout, Batch Normalisation",0.03571428571428571
+32,espcn-board,CNN Architecture,CMV Achitecture,0.1875
+32,espcn-board,Visualising CNN,Visualising CI,0.13333333333333333
+32,espcn-board,"LeNet, Alexnet, Resnet","LeNet, Aexonct, Resnet",0.13636363636363635
+32,espcn-board,Visualise feature layer,Visualie feature layer,0.043478260869565216
+32,espcn-board,Saliency via occlusion,Solancy ria occlusioon,0.22727272727272727
+32,espcn-board,"Dropout, Batch Normalization","Dropout, Batch Normalisation",0.03571428571428571
+32,espcn-board,CNN Architecture,CMN Achitectire,0.1875
+32,espcn-board,"LeNet, Alexnet, Resnet","LeNet, Alxonet, Resxet",0.13636363636363635
+32,espcn-board,Saliency via occlusion,Soliceey rieaccusion,0.4090909090909091
+32,espcn-board,CNN Architecture,CUN Achitecture,0.125
+32,espcn-board,Visualise feature layer,Visualise feature layer,0.0
+32,espcn-board,"LeNet, Alexnet, Resnet","Levet, Akxnet, Resnat",0.18181818181818182
+32,espcn-board,Saliency via occlusion,-Suliency via ocusion,0.18181818181818182
+32,espcn-board,"Dropout, Batch Normalization","Dropout, Batch Normalization",0.0
+32,espcn-board,[Please set the computer,IPlece sot the cmpter,0.25
+32,espcn-board,[Please set the computer,hrpt,0.875
+32,espcn-board,The quiz today is,The gy12 today 15,0.35294117647058826
+32,espcn-board,[Please set the computer,[Please set the computer,0.0
+32,espcn-board,so hard.,so hard,0.125
+32,espcn-board,The quiz today is,The qeit tiday is,0.17647058823529413
+32,espcn-board,[Please set the computer,[Please set the computer,0.0
+32,espcn-board,so hard.,so hard,0.125
+32,espcn-board,[Please set the computer,[Please set the computer,0.0
+32,espcn-board,"more mcq and matching,",free roy sifd moth,0.6818181818181818
+32,espcn-board,<50% of the question,<50% f the gpaton,0.3
+32,espcn-board,[Please set the computer,[Please set the comater,0.08333333333333333
+32,espcn-board,"more mcq and matching,",Proe ng on moetha,0.6818181818181818
+32,espcn-board,<50% of the question,<50% f te ,0.55
+32,espcn-board,[Please set the computer,IPlease set the camouiter,0.16666666666666666

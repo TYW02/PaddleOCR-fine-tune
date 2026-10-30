@@ -1,0 +1,17 @@
+set,version,cer
+B3,far word as photographed,0.16545339262187092
+B3,"16px path, no network",0.18884733201581033
+B3,CRNN on far word (normal),0.27378985507246384
+B3,CRNN on clear word,0.26526712779973655
+B3,true label,0.2601304347826087
+B3,wrong label,0.2725316205533597
+B3,no letters (all blank),0.26723270750988143
+B3,clear photo,0.06724934123847166
+synthetic val,far word as photographed,0.2096185064935065
+synthetic val,"16px path, no network",0.19855925324675328
+synthetic val,CRNN on far word (normal),0.24776785714285715
+synthetic val,CRNN on clear word,0.23427353896103897
+synthetic val,true label,0.23995535714285715
+synthetic val,wrong label,0.23092532467532467
+synthetic val,no letters (all blank),0.22646103896103897
+synthetic val,clear photo,0.008522727272727272

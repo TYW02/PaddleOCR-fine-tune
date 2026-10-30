@@ -1,0 +1,169 @@
+set,pair_id,word,native_h,lr_read,hr_read,lr_cer,hr_cer,lines_in_set
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L01_d268ce0b,cnn,27.1,cmy,cmy,0.6666666666666666,0.6666666666666666,23
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L01_d268ce0b,architecture,27.1,achtepves,achitetuer,0.5833333333333334,0.3333333333333333,23
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L01_d81fdd82,cnn,28.6,cmy,cmy,0.6666666666666666,0.6666666666666666,23
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L01_d81fdd82,architecture,28.6,achtefies,achitetuer,0.5833333333333334,0.3333333333333333,23
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L01_1165703c,cnn,27.9,cmy,cmy,0.6666666666666666,0.6666666666666666,23
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L01_1165703c,architecture,27.9,achlehien,achitehves,0.6666666666666666,0.5,23
+Airdrop B3 (unseen board),IMG_4527__IMG_4543__B3_L01_0ba4f0a2,cnn,24.8,cmy,cmv,0.6666666666666666,0.6666666666666666,23
+Airdrop B3 (unseen board),IMG_4527__IMG_4543__B3_L01_0ba4f0a2,architecture,24.8,acblebien,achitetuer,0.75,0.3333333333333333,23
+Airdrop B3 (unseen board),IMG_4528__IMG_4543__B3_L01_c7aaafda,cnn,24.1,cmv,cmy,0.6666666666666666,0.6666666666666666,23
+Airdrop B3 (unseen board),IMG_4528__IMG_4543__B3_L01_c7aaafda,architecture,24.1,achteheen,achitetuer,0.5833333333333334,0.3333333333333333,23
+Airdrop B3 (unseen board),IMG_4534__IMG_4543__B3_L01_22e39e8e,cnn,28.2,cw,cmv,0.6666666666666666,0.6666666666666666,23
+Airdrop B3 (unseen board),IMG_4534__IMG_4543__B3_L01_22e39e8e,architecture,28.2,aestghees,chitehve,0.8333333333333334,0.5,23
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L01_e820e6b2,cnn,23.5,cmy,cmy,0.6666666666666666,0.6666666666666666,23
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L01_e820e6b2,architecture,23.5,acrtetits,achitetuer,0.5833333333333334,0.3333333333333333,23
+Airdrop B3 (unseen board),IMG_4565__IMG_4543__B3_L01_69497b37,cnn,18.1,cmy,cmy,0.6666666666666666,0.6666666666666666,23
+Airdrop B3 (unseen board),IMG_4565__IMG_4543__B3_L01_69497b37,architecture,18.1,aebtets,achitehves,0.6666666666666666,0.5,23
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L02_9ba28846,lenet,14.1,leret,levet,0.2,0.2,23
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L02_9ba28846,alexnet,14.1,plexraty,pkzenet,0.5714285714285714,0.5714285714285714,23
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L02_9ba28846,resnet,14.1,resat,ressat,0.3333333333333333,0.3333333333333333,23
+Airdrop B3 (unseen board),IMG_4547__IMG_4539__B3_L07_3ad73522,saliency,12.4,solnsty,saliency,0.625,0.0,23
+Airdrop B3 (unseen board),IMG_4547__IMG_4539__B3_L07_3ad73522,via,12.4,vi,via,0.3333333333333333,0.0,23
+Airdrop B3 (unseen board),IMG_4547__IMG_4539__B3_L07_3ad73522,occlusion,12.4,oulsios,occlusios,0.4444444444444444,0.1111111111111111,23
+Airdrop B3 (unseen board),IMG_4565__IMG_4539__B3_L07_71328f8c,saliency,8.7,saly,saliency,0.5,0.0,23
+Airdrop B3 (unseen board),IMG_4565__IMG_4539__B3_L07_71328f8c,via,8.7,he,via,1.0,0.0,23
+Airdrop B3 (unseen board),IMG_4565__IMG_4539__B3_L07_71328f8c,occlusion,8.7,calsios,occlusion,0.4444444444444444,0.0,23
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L06_a9931c56,visualise,14.1,veabe,visualise,0.6666666666666666,0.0,23
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L06_a9931c56,feature,14.1,htn,feqture,0.8571428571428571,0.14285714285714285,23
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L06_a9931c56,layer,14.1,jayer,1gyer,0.2,0.4,23
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L06_343fe2af,visualise,13.5,vombe,visvalise,0.7777777777777778,0.1111111111111111,23
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L06_343fe2af,feature,13.5,feve,feqture,0.5714285714285714,0.14285714285714285,23
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L06_343fe2af,layer,13.5,lager,lgyer,0.2,0.2,23
+Airdrop B3 (unseen board),IMG_4565__IMG_4543__B3_L06_d389c900,visualise,11.1,vabe,visvalise,0.6666666666666666,0.1111111111111111,23
+Airdrop B3 (unseen board),IMG_4565__IMG_4543__B3_L06_d389c900,feature,11.1,invve,feqture,0.8571428571428571,0.14285714285714285,23
+Airdrop B3 (unseen board),IMG_4565__IMG_4543__B3_L06_d389c900,layer,11.1,layer,igyer,0.0,0.4,23
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L05_641b1a53,visualise,20.8,vivalie,visualise,0.3333333333333333,0.0,23
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L05_641b1a53,filter,20.8,filler,filter,0.16666666666666666,0.0,23
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L05_641b1a53,output,20.8,outpt,outpt,0.16666666666666666,0.16666666666666666,23
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L05_c2f2dae1,visualise,20.4,vitvalie,visualise,0.3333333333333333,0.0,23
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L05_c2f2dae1,filter,20.4,fler,filter,0.3333333333333333,0.0,23
+Airdrop B3 (unseen board),IMG_4525__IMG_4543__B3_L05_c2f2dae1,output,20.4,outpr,outpt,0.3333333333333333,0.16666666666666666,23
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L05_7f0c1b94,visualise,20.4,vaae,visvalise,0.6666666666666666,0.1111111111111111,23
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L05_7f0c1b94,filter,20.4,mkr,filter,0.8333333333333334,0.0,23
+Airdrop B3 (unseen board),IMG_4526__IMG_4543__B3_L05_7f0c1b94,output,20.4,aotpt,outpt,0.5,0.16666666666666666,23
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L05_1484b726,visualise,18.0,vissalve,visvalise,0.3333333333333333,0.1111111111111111,23
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L05_1484b726,filter,18.0,filter,filter,0.0,0.0,23
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L05_1484b726,output,18.0,ectpr,outpt,0.6666666666666666,0.16666666666666666,23
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L04_86eb6baa,visualising,14.9,visulising,visualising,0.09090909090909091,0.0,23
+Airdrop B3 (unseen board),IMG_4515__IMG_4543__B3_L04_86eb6baa,cnn,14.9,cnm,cnv,0.3333333333333333,0.3333333333333333,23
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L04_4c3f2c09,visualising,14.3,visoalsing,visualising,0.18181818181818182,0.0,23
+Airdrop B3 (unseen board),IMG_4546__IMG_4543__B3_L04_4c3f2c09,cnn,14.3,cnv,cnv,0.3333333333333333,0.3333333333333333,23
+"Airdrop synthetic, validation",IMG_4594_L05__S01,more,23.2,moe,more,0.25,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S01,mcq,23.2,mcq,mcq,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S01,and,23.2,and,and,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S01,matching,23.2,matching,matching,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S02,more,22.5,moe,more,0.25,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S02,mcq,22.5,mcq,mcq,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S02,and,22.5,and,and,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S02,matching,22.5,matching,matching,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S03,more,15.7,moe,more,0.25,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S03,mcq,15.7,mcq,mcq,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S03,and,15.7,ond,and,0.3333333333333333,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S03,matching,15.7,matching,matching,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S04,more,31.0,more,more,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S04,mcq,31.0,mcq,mcq,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S04,and,31.0,and,and,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4594_L05__S04,matching,31.0,matching,matching,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4607_L05__S02,more,34.0,moe,moe,0.25,0.25,40
+"Airdrop synthetic, validation",IMG_4607_L05__S02,mcq,34.0,meq,ncq,0.3333333333333333,0.3333333333333333,40
+"Airdrop synthetic, validation",IMG_4607_L05__S02,and,34.0,and,gnd,0.0,0.3333333333333333,40
+"Airdrop synthetic, validation",IMG_4607_L05__S02,matching,34.0,matching,matching,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4630_A14__S02,3,11.7,3,3,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4630_A14__S02,vs,11.7,a,j,1.0,1.0,40
+"Airdrop synthetic, validation",IMG_4630_A14__S02,1,11.7,i,i,1.0,1.0,40
+"Airdrop synthetic, validation",IMG_4630_A14__S02,channel,11.7,cant,channel,0.5714285714285714,0.0,40
+"Airdrop synthetic, validation",IMG_4630_A14__S03,3,23.0,3,3,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4630_A14__S03,vs,23.0,w,j,1.0,1.0,40
+"Airdrop synthetic, validation",IMG_4630_A14__S03,1,23.0,i,i,1.0,1.0,40
+"Airdrop synthetic, validation",IMG_4630_A14__S03,channel,23.0,chonnel,channel,0.14285714285714285,0.0,40
+"Airdrop synthetic, validation",IMG_4630_A14__S04,3,23.0,3,3,0.0,0.0,40
+"Airdrop synthetic, validation",IMG_4630_A14__S04,vs,23.0,a,s,1.0,0.5,40
+"Airdrop synthetic, validation",IMG_4630_A14__S04,1,23.0,i,e,1.0,1.0,40
+"Airdrop synthetic, validation",IMG_4630_A14__S04,channel,23.0,chonnel,channel,0.14285714285714285,0.0,40
+"Airdrop synthetic, validation",IMG_4630_E05__S01,feature,11.0,fenton,feature,0.5714285714285714,0.0,40
+"Airdrop synthetic, validation",IMG_4630_E05__S01,map,11.0,mp,map,0.3333333333333333,0.0,40
+"Airdrop synthetic, validation",IMG_4630_E05__S02,feature,11.0,fubue,feature,0.5714285714285714,0.0,40
+"Airdrop synthetic, validation",IMG_4630_E05__S02,map,11.0,mop,map,0.3333333333333333,0.0,40
+"Airdrop synthetic, validation",IMG_4630_E05__S03,feature,11.2,fatoe,feature,0.42857142857142855,0.0,40
+"Airdrop synthetic, validation",IMG_4630_E05__S03,map,11.2,mp,map,0.3333333333333333,0.0,40
+"Airdrop synthetic, validation",IMG_4630_E05__S04,feature,11.0,faton,feature,0.5714285714285714,0.0,40
+"Airdrop synthetic, validation",IMG_4630_E05__S04,map,11.0,mp,map,0.3333333333333333,0.0,40
+"Airdrop synthetic, validation",IMG_4631_H11__S01,momentum,17.8,movertow,momentum,0.5,0.0,40
+"Airdrop synthetic, validation",IMG_4631_H11__S02,momentum,18.3,morenton,momentum,0.375,0.0,40
+"Airdrop synthetic, validation",IMG_4631_H11__S03,momentum,9.2,wsertw,momentum,0.75,0.0,40
+"Airdrop synthetic, validation",IMG_4631_H11__S04,momentum,8.8,wote,momentum,0.75,0.0,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L01_81447fde84,what,123.9,what,what,0.0,0.0,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L01_81447fde84,is,123.9,is,is,0.0,0.0,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L01_81447fde84,deep,123.9,ceep,cep,0.25,0.5,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L01_81447fde84,learning,123.9,learning,learning,0.0,0.0,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L02_36fe5b4df3,1,91.0,l,l,1.0,1.0,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L02_36fe5b4df3,take,91.0,take,take,0.0,0.0,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L02_36fe5b4df3,a,91.0,c,c,1.0,1.0,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L02_36fe5b4df3,neural,91.0,neural,neural,0.0,0.0,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L02_36fe5b4df3,network,91.0,networs,network,0.14285714285714285,0.0,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L03_4b8fbb312c,describe,65.0,mocel,mocel,0.875,0.875,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L03_4b8fbb312c,model,65.0,using,using,1.0,1.0,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L03_4b8fbb312c,using,65.0,parame,parame,1.0,1.0,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L03_4b8fbb312c,parameterized,65.0,terized,ferized,0.46153846153846156,0.5384615384615384,40
+17 Oct held-out photos,IMG_4697__IMG_4681__L03_4b8fbb312c,function,65.0,function,function,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4728__L01_279181ba0b,simple,68.9,simple,simple,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4728__L01_279181ba0b,linear,68.9,linear,linear,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4728__L01_279181ba0b,regression,68.9,regression,regression,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L01_428bfdc5de,a,46.2,a,a,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L01_428bfdc5de,model,46.2,model,model,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L01_428bfdc5de,of,46.2,of,of,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L01_428bfdc5de,how,46.2,how,how,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L01_428bfdc5de,to,46.2,to,fs,0.0,1.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L01_428bfdc5de,transform,46.2,transform,tronsform,0.0,0.1111111111111111,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L02_f205bae23c,the,37.4,hhe,the,0.3333333333333333,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L02_f205bae23c,data,37.4,clata,clata,0.5,0.5,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L03_31b64cd1e5,a,46.0,p9,p,1.0,1.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L03_31b64cd1e5,loss,46.0,loss,loss,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L03_31b64cd1e5,function,46.0,function,function,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L03_31b64cd1e5,that,46.0,that,that,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L03_31b64cd1e5,quantifies,46.0,quantifies,quantifies,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L04_0bb1222d46,the,48.4,the,the,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L04_0bb1222d46,badness,48.4,badness,badness,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L04_0bb1222d46,of,48.4,of,of,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L04_0bb1222d46,our,48.4,our,our,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4730__L04_0bb1222d46,model,48.4,model,model,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4732__L01_9a0577c7b9,an,46.6,bn,bn,0.5,0.5,40
+17 Oct held-out photos,IMG_4748__IMG_4732__L01_9a0577c7b9,optimization,46.6,optimization,optimization,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4732__L01_9a0577c7b9,algorithm,46.6,algorilhm,algorishm,0.1111111111111111,0.1111111111111111,40
+17 Oct held-out photos,IMG_4748__IMG_4732__L01_9a0577c7b9,to,46.6,to,to,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4741__L01_a48baaea15,analogue,44.0,anologue,anologue,0.125,0.125,40
+17 Oct held-out photos,IMG_4748__IMG_4741__L01_a48baaea15,and,44.0,ancl,ancl,0.6666666666666666,0.6666666666666666,40
+17 Oct held-out photos,IMG_4748__IMG_4741__L01_a48baaea15,digital,44.0,cligifal,cligifal,0.42857142857142855,0.42857142857142855,40
+17 Oct held-out photos,IMG_4748__IMG_4741__L01_a48baaea15,world,44.0,world,world,0.0,0.0,40
+17 Oct held-out photos,IMG_4748__IMG_4741__L05_76f4436e53,discrete,44.4,discrete,aiscrete,0.0,0.125,40
+17 Oct held-out photos,IMG_4748__IMG_4741__L05_76f4436e53,and,44.4,and,anl,0.0,0.3333333333333333,40
+17 Oct held-out photos,IMG_4748__IMG_4741__L05_76f4436e53,digital,44.4,disital,disital,0.14285714285714285,0.14285714285714285,40
+17 Oct held-out photos,IMG_4750__IMG_4728__L01_279181ba0b,simple,143.9,simple,simple,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4728__L01_279181ba0b,linear,143.9,linear,linear,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4728__L01_279181ba0b,regression,143.9,regression,regression,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L01_428bfdc5de,a,93.4,a,a,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L01_428bfdc5de,model,93.4,model,model,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L01_428bfdc5de,of,93.4,of,of,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L01_428bfdc5de,how,93.4,how,how,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L01_428bfdc5de,to,93.4,to,is,0.0,1.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L01_428bfdc5de,transform,93.4,transform,tronsform,0.0,0.1111111111111111,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L02_f205bae23c,the,69.8,hhe,hhe,0.3333333333333333,0.3333333333333333,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L02_f205bae23c,data,69.8,clata,clata,0.5,0.5,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L03_31b64cd1e5,a,93.8,p9,p,1.0,1.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L03_31b64cd1e5,loss,93.8,loss,loss,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L03_31b64cd1e5,function,93.8,function,function,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L03_31b64cd1e5,that,93.8,that,that,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L03_31b64cd1e5,quantifies,93.8,quantifies,quantifies,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L04_0bb1222d46,the,97.2,the,the,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L04_0bb1222d46,badness,97.2,badness,badness,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L04_0bb1222d46,of,97.2,of,of,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L04_0bb1222d46,our,97.2,our,our,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4730__L04_0bb1222d46,model,97.2,model,model,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4732__L01_9a0577c7b9,an,96.2,ln,bn,0.5,0.5,40
+17 Oct held-out photos,IMG_4750__IMG_4732__L01_9a0577c7b9,optimization,96.2,optimization,optimization,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4732__L01_9a0577c7b9,algorithm,96.2,algorilhm,algorilhm,0.1111111111111111,0.1111111111111111,40
+17 Oct held-out photos,IMG_4750__IMG_4732__L01_9a0577c7b9,to,96.2,to,to,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4741__L05_76f4436e53,discrete,117.0,discrete,aiscrete,0.0,0.125,40
+17 Oct held-out photos,IMG_4750__IMG_4741__L05_76f4436e53,and,117.0,and,and,0.0,0.0,40
+17 Oct held-out photos,IMG_4750__IMG_4741__L05_76f4436e53,digital,117.0,dicital,disifal,0.14285714285714285,0.2857142857142857,40

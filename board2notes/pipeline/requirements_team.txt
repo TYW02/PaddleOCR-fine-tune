@@ -1,0 +1,11 @@
+# Python 3.12. Install a matching PaddlePaddle CPU/GPU build separately.
+# These versions match the local working environment; no SR/training packages.
+paddleocr==3.7.0
+paddlex==3.7.2
+opencv-contrib-python==4.10.0.84
+numpy==2.3.5
+Pillow==12.3.0
+pillow-heif==1.8.1
+matplotlib==3.11.2
+ipykernel==7.3.0
+jupyterlab
